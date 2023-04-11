@@ -1,4 +1,6 @@
-﻿# Ekilexi kasutusjuhend
+﻿<base target="_blank">
+
+# Ekilexi kasutusjuhend
 
 <button>[Avaleht](/index.md)</button>
 <button>[Terminitöö sõnakoguga](/terminitoo.md)</button>
@@ -46,9 +48,11 @@ Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem. Ekilex asu
 4. Seejärel klõpsa nupul **„Registreeru“**. 
 
 5. Mõne sekundi jooksul saadetakse sinu e-postkasti **kinnituskiri**. Kui kirja pole tulnud, vaata ka rämpsposti kataloogi või trüki otsingureale „Ekilexi kasutaja registreerimine“. Oma konto aktiveerimiseks pead klõpsama kinnituskirjas saadetud **aktiveerimislingil**.  
-![Pilt: Näide kasutaja registreerimise kinnituskirjast](images/email.PNG){:height=50% width=50%, :target="_blank}    
+![Pilt: Näide kasutaja registreerimise kinnituskirjast](images/email.PNG)  
+![Pilt: Näide kasutaja registreerimise kinnituskirjast](images/email.PNG){:width=200, :target="_blank}    
 Pilt: Näide kasutaja registreerimise kinnituskirjast  
-<img src="images/email.PNG"  alt="Näide kasutaja registreerimise kinnituskirjast" width=50% height=50% >  
+<img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width=50% height=50% />  
+<img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width="600"/>  
 Pilt: Näide kasutaja registreerimise kinnituskirjast  
 [![Näide kasutaja registreerimise kinnituskirjast](images/email.PNG)](images/email.PNG)  
 Pilt: Näide kasutaja registreerimise kinnituskirjast  
