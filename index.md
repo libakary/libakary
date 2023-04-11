@@ -47,13 +47,19 @@ Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem. Ekilex asu
 
 4. Seejärel klõpsa nupul **„Registreeru“**. 
 
-5. Mõne sekundi jooksul saadetakse sinu e-postkasti **kinnituskiri**. Kui kirja pole tulnud, vaata ka rämpsposti kataloogi või trüki otsingureale „Ekilexi kasutaja registreerimine“. Oma konto aktiveerimiseks pead klõpsama kinnituskirjas saadetud **aktiveerimislingil**.  
+5. Mõne sekundi jooksul saadetakse sinu e-postkasti **kinnituskiri**. Kui kirja pole tulnud, vaata ka rämpsposti kataloogi või trüki otsingureale „Ekilexi kasutaja registreerimine“. Oma konto aktiveerimiseks pead klõpsama kinnituskirjas saadetud **aktiveerimislingil**.
+
+1
 ![Pilt: Näide kasutaja registreerimise kinnituskirjast](images/email.PNG)  
+2
 ![Pilt: Näide kasutaja registreerimise kinnituskirjast](images/email.PNG){:width=200, :target="_blank}    
 Pilt: Näide kasutaja registreerimise kinnituskirjast  
-<img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width=50% height=50% />  
+3
+<img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width="50%" height="50%"/>  
+4
 <img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width="600"/>  
 Pilt: Näide kasutaja registreerimise kinnituskirjast  
+5
 [![Näide kasutaja registreerimise kinnituskirjast](images/email.PNG)](images/email.PNG)  
 Pilt: Näide kasutaja registreerimise kinnituskirjast  
 
