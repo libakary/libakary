@@ -46,8 +46,12 @@ Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem. Ekilex asu
 4. Seejärel klõpsa nupul **„Registreeru“**. 
 
 5. Mõne sekundi jooksul saadetakse sinu e-postkasti **kinnituskiri**. Kui kirja pole tulnud, vaata ka rämpsposti kataloogi või trüki otsingureale „Ekilexi kasutaja registreerimine“. Oma konto aktiveerimiseks pead klõpsama kinnituskirjas saadetud **aktiveerimislingil**.  
-![Pilt: Näide kasutaja registreerimise kinnituskirjast](images/email.PNG)  
-Pilt: Näide kasutaja registreerimise kinnituskirjast
+![Pilt: Näide kasutaja registreerimise kinnituskirjast](images/email.PNG){:height="36px" width="36px", target="_blank}    
+Pilt: Näide kasutaja registreerimise kinnituskirjast  
+<img src="images/email.PNG"  alt="Näide kasutaja registreerimise kinnituskirjast" width=50% height=50% >  
+Pilt: Näide kasutaja registreerimise kinnituskirjast  
+[![Näide kasutaja registreerimise kinnituskirjast](images/email.PNG)](images/email.PNG)  
+Pilt: Näide kasutaja registreerimise kinnituskirjast  
 
 6. Pärast lingil klõpsamist avaneb Ekilexi sisselogimisvorm koos teatega „Kasutaja on aktiveeritud, head kasutamist“.
 
@@ -225,8 +229,7 @@ Vaikimisi avaneb lihtotsing, kus otsikasti võib sisestada ükskõik missuguse a
 Siin on väga soovitav kasutada **metamärke**, nt lisades otsisõna ette ja taha „\*“. 
 
 
-##### Konkreetse allika viited mõistekirjades
-
+##### Konkreetse allika viited mõistekirjetes
 Ekilexis on võimalik näha, millistes mõistekirjetes oled allikakirjet kasutanud ehk sellele viidanud. Selleks peaks:
 
 1. Vajutama allikakirje paremast nurgast nupule **“Otsi viiteid”**,
