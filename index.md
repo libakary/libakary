@@ -52,15 +52,15 @@ Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem. Ekilex asu
 1
 ![Pilt: Näide kasutaja registreerimise kinnituskirjast](images/email.PNG)  
 2
-![Pilt: Näide kasutaja registreerimise kinnituskirjast](images/email.PNG){:width=200, :target="_blank}    
+![Pilt: Näide kasutaja registreerimise kinnituskirjast](images/email.PNG){:width=170}    
 Pilt: Näide kasutaja registreerimise kinnituskirjast  
 3
-<img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width="50%" height="50%"/>  
+<img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width="70%" height="70%"/>  
 4
 <img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width="600"/>  
 Pilt: Näide kasutaja registreerimise kinnituskirjast  
 5
-[![Näide kasutaja registreerimise kinnituskirjast](images/email.PNG)](images/email.PNG)  
+[![Näide kasutaja registreerimise kinnituskirjast](images/email.PNG){:width=170}](images/email.PNG)  
 Pilt: Näide kasutaja registreerimise kinnituskirjast  
 
 6. Pärast lingil klõpsamist avaneb Ekilexi sisselogimisvorm koos teatega „Kasutaja on aktiveeritud, head kasutamist“.
