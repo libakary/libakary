@@ -30,7 +30,8 @@
 
 ### Mis on Ekilex?
 
-Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem. Ekilex asub aadressil [https://ekilex.ee/](https://ekilex.ee/) ja on kõigile, kes soovivad oma terminibaasi koostada, tasuta kasutatav. <!--rohkem täpsustavat infot?-->
+Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem. Ekilex asub aadressil <a href="https://ekilex.ee/" target="_blank">ekilex.ee</a> ja on kõigile, kes soovivad oma terminibaasi koostada, tasuta kasutatav. <!--rohkem täpsustavat infot?-->
+
 
 <!--https://terminoloogia.ee/ufaqs/mis-on-sonaveeb-ja-kuidas-on-see-seotud-ekilexiga/-->
 
@@ -46,27 +47,9 @@ Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem. Ekilex asu
 
 4. Seejärel klõpsa nupul **„Registreeru“**. 
 
-5. Mõne sekundi jooksul saadetakse sinu e-postkasti **kinnituskiri**. Kui kirja pole tulnud, vaata ka rämpsposti kataloogi või trüki otsingureale „Ekilexi kasutaja registreerimine“. Oma konto aktiveerimiseks pead klõpsama kinnituskirjas saadetud **aktiveerimislingil**.
-
-1
-![Pilt: Näide kasutaja registreerimise kinnituskirjast](images/email.PNG)  
-2
-![Pilt: Näide kasutaja registreerimise kinnituskirjast](images/email.PNG){:width=120}    
-Pilt: Näide kasutaja registreerimise kinnituskirjast  
-3
-<img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width="70%" height="70%" target="_blank"/>  
-4
-<img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width="600" target="_blank"/>  
-Pilt: Näide kasutaja registreerimise kinnituskirjast  
-5
-[![Näide kasutaja registreerimise kinnituskirjast](images/email.PNG)](images/email.PNG){:width=100}    
-6  
-<a href="images/email.PNG" target="_blank">
-    <img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width="600"/></a>  
-    Pilt: Näide kasutaja registreerimise kinnituskirjast   
-7  
+5. Mõne sekundi jooksul saadetakse sinu e-postkasti **kinnituskiri**. Kui kirja pole tulnud, vaata ka rämpsposti kataloogi või trüki otsingureale „Ekilexi kasutaja registreerimine“. Oma konto aktiveerimiseks pead klõpsama kinnituskirjas saadetud **aktiveerimislingil**.  
 <a href="images/email.PNG" target="_blank" rel="noreferrer noopener">
-    <img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width="600"/></a>  
+    <img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width="500"/></a>  
     Pilt: Näide kasutaja registreerimise kinnituskirjast 
 
 6. Pärast lingil klõpsamist avaneb Ekilexi sisselogimisvorm koos teatega „Kasutaja on aktiveeritud, head kasutamist“.
@@ -74,7 +57,8 @@ Pilt: Näide kasutaja registreerimise kinnituskirjast
 7. Sisselogimiseks sisesta oma e-posti aadress ja eelnevalt valitud parool ning klõpsa nupul **„Sisene“**.
 
 8. Kui oled sisse loginud, avaneb **õiguste taotlemise leht**, kus on teade: „See on EKI sõnastiku- ja terminibaasisüsteem Ekilex. Kui vaja, vali sõnakogud, millele soovid muutmisõigust.“  
-![Pilt: Avaleht esimesel sisselogimisel](images/sisselogimine.PNG)  
+<a href="images/sisselogimine.PNG" target="_blank" rel="noreferrer noopener">
+    <img src="images/sisselogimine.PNG" alt="Avaleht esimesel sisselogimisel" width="700"/></a>    
 Pilt: Avaleht esimesel sisselogimisel
 
 + **Vaatamisõiguse** saamiseks vajuta lihtsalt „Hakka Ekilexi kasutama“. Selle valikuga saad ka muutmisõiguse „Katsebaasile“, kus saab katsetada andmete sisestamist.
@@ -91,7 +75,8 @@ Pilt: Avaleht esimesel sisselogimisel
 Kui olete juba ekilexi vaatamisõiguse või mõne sõnakogu muutmisõigused omandanud, saab teiste sõnakogude õigusi omandada järgmiselt:
 
 1. Klõpsake üleval **sinise riba paremal pool** oma nimele ja avage "Kasutaja profiili haldus".  
-![Pilt: Kasutaja klõpsamisel ilmuv rippmenüü](images/oiguse-taotlemine1.gif)  
+<a href="images/oiguse-taotlemine1.gif" target="_blank" rel="noreferrer noopener">
+    <img src="images/oiguse-taotlemine1.gif" alt="Kasutaja klõpsamisel ilmuv rippmenüü" width="400"/></a>   
 Pilt: Kasutaja klõpsamisel ilmuv rippmenüü
 
 <!-- Hetkel vaid testbaasis selline? -->
@@ -99,16 +84,19 @@ Pilt: Kasutaja klõpsamisel ilmuv rippmenüü
 ![Alt text](images/oiguse-taotlemine2.gif)  
 Pilt:-->
 
-2. Profiilihalduse lehel on sinine nupp **"Esita uus taotlus"**. Sellele klõpsates avaneb **taotluse saatmise aken**. Seal saab lisada **põhjenduse**, miks soovite sõnakogudele ligipääsu.  
-![Pilt: Taotluse akna avamine ja põhjuse lisamine](images/oiguse-taotlemine2.0.gif)  
+2. Profiilihalduse lehel on sinine nupp **"Esita uus taotlus"**. Sellele klõpsates avaneb **taotluse saatmise aken**. Seal saab lisada **põhjenduse**, miks soovite sõnakogudele ligipääsu. 
+<a href="images/oiguse-taotlemine2.0.gif" target="_blank" rel="noreferrer noopener">
+    <img src="images/oiguse-taotlemine2.0.gif" alt="Taotluse akna avamine ja põhjuse lisamine" width="700"/></a>  
 Pilt: Taotluse akna avamine ja põhjuse lisamine
 
 3. Vajutades nuppu "Märgi sõnakogud, millele soovid õigusi" avaneb nimekiri sõnakogudest. **Märgi linnukesega** need, millele soovid õigusi, ning vajuta **"Saada taotlus"**.  
-![Pilt: Vajutades nuppu tekstikasti all avaneb nimekiri, kus saab linnukesega märkida sõnakogud](images/oiguse-taotlemine2.1.gif)  
+<a href="images/oiguse-taotlemine2.1.gif" target="_blank" rel="noreferrer noopener">
+    <img src="images/oiguse-taotlemine2.1.gif" alt="Vajutades nuppu tekstikasti all avaneb nimekiri, kus saab linnukesega märkida sõnakogud" width="700"/></a>  
 Pilt: Vajutades nuppu tekstikasti all avaneb nimekiri, kus saab linnukesega märkida sõnakogud
 
 4. Taotluste info on näha **"Esitatud õiguste taotlused"** all.  
-![Pilt: Esitatud taotluse info tabelina](images/oiguse-taotlemine3.PNG)  
+<a href="images/oiguse-taotlemine3.PNG" target="_blank" rel="noreferrer noopener">
+    <img src="images/oiguse-taotlemine3.PNG" alt="Esitatud taotluse info tabelina" width="700"/></a>   
 Pilt: Esitatud taotluse info tabelina
 
 
