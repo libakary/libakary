@@ -21,6 +21,9 @@
     - [Konkreetse allika viited mõistekirjades](#konkreetse-allika-viited-mõistekirjades)
     - [Kõikide terminibaasis viidatud allikate kuvamine](#kõikide-terminibaasis-viidatud-allikate-kuvamine)
   - [Allika loomine](#allika-loomine)
+    - [Raamatu allikakirje näide](#raamatu-allikakirje-näide)
+    - [Eesti õigusakti allikakirje näide](#eesti-õigusakti-allikakirje-näide)
+    - [Euroopa Liidu õigusakti allikakirje näide](#euroopa-liidu-õigusakti-allikakirje-näide)
   - [Allika muutmine](#allika-muutmine)
   - [Allika kustutamine](#allika-kustutamine)
   - [Allikate ühendamine](#allikate-ühendamine)
@@ -193,8 +196,8 @@ Seejärel avaneb aken, kus saate soovitud muudatuse teha.
 
 **NB! Muuta saab ainult neid kirjeid, mille olete kas ise loonud (allikakirjete puhul) või mis asuvad terminibaasis, mille muutmisõigus teil on (mõistekirjete puhul).** Enamasti on terminibaasi koostajatel õigus teha muudatusi vaid enda terminibaasi kirjetes.
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kas-saan-kirjeid-parast-valmimist-muuta/" target="_blank">terminoloogia.ee</a></sub>
-*
+*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kas-saan-kirjeid-parast-valmimist-muuta/" target="_blank">terminoloogia.ee</a></sub>*
+
 ---
 
 ### Uue sõnakogu loomine
@@ -336,9 +339,7 @@ Pilt: Lühinime väli on pildil näidatud punase kastiga
 *<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-allikakirjesse-luhinime/" target="_blank">terminoloogia.ee</a></sub>*
 
 
-##### Eri tüüpi allikakirjete loomine
-
-###### Raamatu allikakirje näide
+##### Raamatu allikakirje näide
 
 **Raamatu** kohta koostatud allikakirjes võiks võimaluse korral olla täidetud järgmised väljad:
 
@@ -357,7 +358,7 @@ Pilt: Raamatu allikakirje näide Ekilexis - UVEÕS
 8. **Ilmumiskoht**: ilmumiskoht
 
 
-###### Eesti õigusakti allikakirje näide
+##### Eesti õigusakti allikakirje näide
 
 **Eesti õigusaktid** leiab **Riigi Teatajast**. Õigusakti allikakirje jaoks vajalik info on valdavalt **õigusakti netiversiooni päises**.
 
@@ -390,7 +391,7 @@ Pilt: Eesti õigusakti näide Ekilexis - RLS-2020/05/3
 Kogu teave on oluline, kuna annab infot õigusakti konkreetse redaktsiooni kohta. See ei tähenda, et kehtivuse kaotanud allika kirje või viite sellele mõistekirjes peaks kustutama. Kui leiate allikakirje kehtivuse kaotanud õigusakti kohta, võite lisada kirjesse sellekohase märkuse („**source_note**“), nt „**Redaktsiooni kehtivuse lõpp: 06.01.2017.**“ Ka info kehtimisaja lõpu kohta leiab akti netiversiooni päisest.
 
 
-###### Euroopa Liidu õigusakti allikakirje näide
+##### Euroopa Liidu õigusakti allikakirje näide
 
 Euroopa Liidu õigusdokumentide andmebaas on <a href="https://eur-lex.europa.eu/homepage.html?locale=en" target="_blank">EUR-Lex</a>. Seal on enamasti ka dokumentide eestikeelsed tõlked.
 
