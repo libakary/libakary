@@ -55,9 +55,9 @@ Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem. Ekilex asu
 ![Pilt: Näide kasutaja registreerimise kinnituskirjast](images/email.PNG){:width=120}    
 Pilt: Näide kasutaja registreerimise kinnituskirjast  
 3
-<img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width="70%" height="70%"/>  
+<img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width="70%" height="70%" target="_blank"/>  
 4
-<img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width="600"/>  
+<img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width="600" target="_blank"/>  
 Pilt: Näide kasutaja registreerimise kinnituskirjast  
 5
 [![Näide kasutaja registreerimise kinnituskirjast](images/email.PNG)](images/email.PNG){:width=100}  
