@@ -388,7 +388,7 @@ Pilt: Eesti õigusakti näide Ekilexis - RLS-2020/05/3
 
 7. **Ilmumisaeg**: (nt **2020**).
 
-Kogu teave on oluline, kuna annab infot õigusakti konkreetse redaktsiooni kohta. See ei tähenda, et kehtivuse kaotanud allika kirje või viite sellele mõistekirjes peaks kustutama. Kui leiate allikakirje kehtivuse kaotanud õigusakti kohta, võite lisada kirjesse sellekohase märkuse („**source_note**“), nt „**Redaktsiooni kehtivuse lõpp: 06.01.2017.**“ Ka info kehtimisaja lõpu kohta leiab akti netiversiooni päisest.
+Kogu teave on oluline, kuna annab infot õigusakti konkreetse redaktsiooni kohta. See ei tähenda, et kehtivuse kaotanud allika kirje või viite sellele mõistekirjes peaks kustutama. Kui leiate allikakirje kehtivuse kaotanud õigusakti kohta, võite lisada kirjesse sellekohase märkuse („**Märkus**“), nt „**Redaktsiooni kehtivuse lõpp: 06.01.2017.**“ Ka info kehtimisaja lõpu kohta leiab akti netiversiooni päisest.
 
 
 ##### Euroopa Liidu õigusakti allikakirje näide
