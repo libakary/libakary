@@ -121,7 +121,7 @@ Pilt: Klõpsake "Vaheta"
     <img src="images/rolli-muutmine.gif" alt='Rippmenüüst rolli valimine' width="500"/></a>   
 Pilt: Rippmenüüst rolli valimine
 
-<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/miks-ma-ei-saa-enda-terminibaasis-muudatusi-teha/" target="_blank">terminoloogia.ee</a></sub>
+*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/miks-ma-ei-saa-enda-terminibaasis-muudatusi-teha/" target="_blank">terminoloogia.ee</a></sub>*
 
 ---
 
@@ -153,12 +153,12 @@ Selleks, et Katsebaasis kirjete koostamist katsetada, peaksite tegema läbi jär
 
 1. Valima Ekilexis Töölaual **Katsebaasi muutja rolli** (lugege rollidest ja nende vahetamisest lähemalt [siit](#terminibaasis-muudatuste-tegemine))  
 <a href="images/Rolli-vahetamine-2.gif" target="_blank" rel="noreferrer noopener">
-    <img src="images/Rolli-vahetamine-2.gif" alt='Töölaual katsebaasi muutja rolli valimine' width="500"/></a>   
+    <img src="images/Rolli-vahetamine-2.gif" alt='Töölaual katsebaasi muutja rolli valimine' width="400"/></a>   
 Pilt: Töölaual katsebaasi muutja rolli valimine
 
 2. **Minema terminoloogide vaatesse**.  
 <a href="images/Terminoloogide-vaatesse-minemine.gif" target="_blank" rel="noreferrer noopener">
-    <img src="images/Terminoloogide-vaatesse-minemine.gif" alt='Terminoloogide vaatesse minemine' width="500"/></a>  
+    <img src="images/Terminoloogide-vaatesse-minemine.gif" alt='Terminoloogide vaatesse minemine' width="400"/></a>  
 Pilt: Terminoloogide vaatesse minemine
 
 3. Alustama mõistekirje loomist, vajutades nupule **“Uus mõiste”**. 
@@ -167,7 +167,7 @@ Pilt: Terminoloogide vaatesse minemine
 
 Rolli saab vahetada nii, nagu kirjeldatud 1. punktis, lihtsalt sel juhul peaks Katsebaasi muutja rolli asemel valima oma terminibaasi muutja/omaniku rolli.
 
-<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-saan-ekilexis-katsetada-ja-proovikirjeid-koostada/" target="_blank">terminoloogia.ee</a></sub>
+*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-saan-ekilexis-katsetada-ja-proovikirjeid-koostada/" target="_blank">terminoloogia.ee</a></sub>*
 
 ---
 
@@ -193,8 +193,8 @@ Seejärel avaneb aken, kus saate soovitud muudatuse teha.
 
 **NB! Muuta saab ainult neid kirjeid, mille olete kas ise loonud (allikakirjete puhul) või mis asuvad terminibaasis, mille muutmisõigus teil on (mõistekirjete puhul).** Enamasti on terminibaasi koostajatel õigus teha muudatusi vaid enda terminibaasi kirjetes.
 
-<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kas-saan-kirjeid-parast-valmimist-muuta/" target="_blank">terminoloogia.ee</a></sub>
-
+*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kas-saan-kirjeid-parast-valmimist-muuta/" target="_blank">terminoloogia.ee</a></sub>
+*
 ---
 
 ### Uue sõnakogu loomine
@@ -263,13 +263,13 @@ Seejärel avaneb terminoloogide vaates (seal, kus tavaliselt mõistekirjeid luua
 Pilt: Sõnakogude valimine  
 
 <a href="images/sonakogu-valimine-2.gif" target="_blank" rel="noreferrer noopener">
-    <img src="images/sonakogu-valimine-2.gif" alt='Kindla sõnakogu valimine' width="500"/></a>   
+    <img src="images/sonakogu-valimine-2.gif" alt='Kindla sõnakogu valimine' width="400"/></a>   
 
 Pilt: Kindla sõnakogu valimine  
 
 Kui õige sõnakogu on enne allikate otsingu tegemist valitud, siis näete pärast allikaviidete otsimist kõiki kirjeid, kus konkreetsele allikale viidatud on.
 
-<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-naha-millistes-moistekirjetes-olen-konkreetsele-allikale-viidanud/" target="_blank">terminoloogia.ee</a></sub>
+*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-naha-millistes-moistekirjetes-olen-konkreetsele-allikale-viidanud/" target="_blank">terminoloogia.ee</a></sub>*
 
 
 ##### Kõikide terminibaasis viidatud allikate kuvamine
@@ -301,7 +301,7 @@ Pilt: Detailotsingu valikud
 
 Seejärel **näete kõiki allikaid, millele teie terminibaasis on viidatud**.
 
-<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-naen-koiki-allikaid-millele-olen-terminibaasis-viidanud/" target="_blank">terminoloogia.ee</a></sub>
+*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-naen-koiki-allikaid-millele-olen-terminibaasis-viidanud/" target="_blank">terminoloogia.ee</a></sub>*
 
 
 #### Allika loomine
@@ -316,7 +316,7 @@ Video: Allikakirje loomine Ekilexis-->
     <img src="images/1-lisa-uus-allikas.gif" alt='Nupp "Lisa uus allikas"' width="400"/></a>   
 Pilt: Nupp "Lisa uus allikas"
 
-2. **Pealkiri** (allika nimi, SOURCE_NAME) on kirjaliku allika (näiteks raamatu) puhul harilikult selle **pealkiri**, aga selle võib vajadusel ka ise vabalt valida. Allika nimi kuvatakse ka allikaviitena mõiste kirjes.
+2. **Pealkiri** on kirjaliku allika (näiteks raamatu) puhul harilikult selle **pealkiri**, aga selle võib vajadusel ka ise vabalt valida. Allika nimi kuvatakse ka allikaviitena mõiste kirjes.
 
 3. Kui allikal on väga pikk nimi ja seda on samas mõistekirjes vaja kasutada mitmes kohas, võib allikale leiutada mingi lühendi (**Lühinimi**) ja lisada see lühend ühe nimetusena (nt „WMO“), siis saab mõistekirjes kasutada lühendit ja see ei võta nii palju ruumi ekraanil.  
 <a href="images/raamat-luhinimi.png" target="_blank" rel="noreferrer noopener">
@@ -333,7 +333,99 @@ Pilt: Lühinime väli on pildil näidatud punase kastiga
 
 7. Vajutage nuppu **“Lisa”**.
 
-<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-allikakirjesse-luhinime/" target="_blank">terminoloogia.ee</a></sub>
+*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-allikakirjesse-luhinime/" target="_blank">terminoloogia.ee</a></sub>*
+
+
+##### Eri tüüpi allikakirjete loomine
+
+###### Raamatu allikakirje näide
+
+**Raamatu** kohta koostatud allikakirjes võiks võimaluse korral olla täidetud järgmised väljad:
+
+<a href="images/Raamatu-kirje-naide.png" target="_blank" rel="noreferrer noopener">
+    <img src="images/Raamatu-kirje-naide.png" alt='Raamatu allikakirje näide Ekilexis - UVEÕS' width="400"/></a>  
+
+Pilt: Raamatu allikakirje näide Ekilexis - UVEÕS
+
+1. **Tüüp**: Dokument
+2. **Lühinimi/pealkiri**: pealkiri
+3. **Lühinimi/pealkiri**: lühinimetus
+4. **Autor**: autor(id)
+5. **ISBN**: ISBN-kood
+6. **Väljaandja**: kirjastus
+7. **Ilmumisaeg**: ilmumisaasta
+8. **Ilmumiskoht**: ilmumiskoht
+
+
+###### Eesti õigusakti allikakirje näide
+
+**Eesti õigusaktid** leiab **Riigi Teatajast**. Õigusakti allikakirje jaoks vajalik info on valdavalt **õigusakti netiversiooni päises**.
+
+<a href="images/RT-uus-uus.png" target="_blank" rel="noreferrer noopener">
+    <img src="images/RT-uus-uus.png" alt='Näide õigusakti päisest - riigilõivuseadus' width="500"/></a> 
+
+Pilt: Näide õigusakti päisest - <a href="https://www.riigiteataja.ee/akt/122052020003" target="_blank">riigilõivuseadus</a>
+
+Eesti õigusakti kohta koostatud allikakirjes võiksid täidetud olla järgmised väljad:
+
+<a href="images/RT-naide.PNG" target="_blank" rel="noreferrer noopener">
+    <img src="images/RT-naide.PNG" alt='Eesti õigusakti näide Ekilexis - RLS-2020/05/3' width="400"/></a> 
+    
+Pilt: Eesti õigusakti näide Ekilexis - RLS-2020/05/3
+
+1. **Allika tüüp**: Dokument
+
+2. **Lühinimi/pealkiri**: (nt **Riigilõivuseadus (terviktekst mai 2020, 3)**). Soovitame märkida seaduse (vm õigusakti) nime järele sulgudes info konkreetse redaktsiooni kohta. Sulgudesse võiks märkida **teksti liigi, avaldamise kuu** (pikemate kuunimede korral lühendiga) ja komaga eraldatult **redaktsiooni** (vt avaldamismärke viimast arvu).
+
+3. **Lühinimi/pealkiri**: lühinimetus, millega mõistekirjetes viidata (nt kujul **RLS-2020/05/3**). Siin on kombineeritud õigusakti ametlik lühend (nt **RLS**), mille leiab õigusakti netiversioonist, ning avaldamismärke andmed kujul **aasta/kuu/redaktsioon** (nt **2020/05/3**).
+
+4. **Riigi Teataja viide**: Riigi Teataja viide (nt **RT I, 30.12.2014, 1; RT I, 22.05.2020, 3**). Tegu on avaldamismärgetega. Semikoolonile eelnev märge (RT I, 30.12.2014, 1) viitab õigusakti esimesele redaktsioonile. Selle leiab õigusakti netiversioonis **pealkirja alt**. Teine on konkreetse redaktsiooni avaldamismärge (RT I, 22.05.2020, 3), mis on toodud **päises**.
+
+5. **URL**: internetiaadress (nt **https://www.riigiteataja.ee/akt/122052020003**). Kindlasti peaks veenduma, et internetiaadressi lõpus **ei oleks teksti „?leiaKehtiv“**. Sellise aadressiga leitakse vaatamise hetkel kehtiv redaktsioon, mille tekst aga ei pruugi kattuda sellega, mis oli allika- ja mõistekirje loomise ajal. Nii võib olla, et mõistekirjes sisalduvaid termineid, definitsioone või kontekste ei leidugi selles õigusaktis, mille juurde „?leiaKehtiv“-aadress viib, kuna need esinesid varasemas redaktsioonis.
+
+6. **Autor**: õigusakti väljaandja (seadustel enamasti **Riigikogu**, määrustel **Vabariigi Valitsus, ministrid** jt)
+
+7. **Ilmumisaeg**: (nt **2020**).
+
+Kogu teave on oluline, kuna annab infot õigusakti konkreetse redaktsiooni kohta. See ei tähenda, et kehtivuse kaotanud allika kirje või viite sellele mõistekirjes peaks kustutama. Kui leiate allikakirje kehtivuse kaotanud õigusakti kohta, võite lisada kirjesse sellekohase märkuse („**source_note**“), nt „**Redaktsiooni kehtivuse lõpp: 06.01.2017.**“ Ka info kehtimisaja lõpu kohta leiab akti netiversiooni päisest.
+
+
+###### Euroopa Liidu õigusakti allikakirje näide
+
+Euroopa Liidu õigusdokumentide andmebaas on <a href="https://eur-lex.europa.eu/homepage.html?locale=en" target="_blank">EUR-Lex</a>. Seal on enamasti ka dokumentide eestikeelsed tõlked.
+
+**ELi õigusdokumendi** kohta koostatud allikakirjes võiksid täidetud olla järgmised väljad.
+
+<a href="images/Eurlexi-kirje-naide.PNG" target="_blank" rel="noreferrer noopener">
+    <img src="images/Eurlexi-kirje-naide.PNG" alt='ELi õigusakti kirje näide Ekilexis - 32019L0882' width="500"/></a> 
+
+Pilt: ELi õigusakti kirje näide Ekilexis - 32019L0882
+
+1. **Allika tüüp**: Dokument
+
+2. **Lühinimi/pealkiri**: õigusakti pealkiri (nt **Directive (EU) 2019/882 of the European Parliament and of the Council of 17 April 2019 on the accessibility requirements for products and services (Text with EEA relevance)**).
+
+3. **Lühinimi/pealkiri**: **CELEXi number**. CELEXi numbriga peaks pika pealkirja asemel ka mõistekirjes viitama.
+
+4. **CELEXi number** (nt **32019L0882**): ainulaadne identifikaator, mis on enamikel ELi õigusaktidel. See on toodud lehe ülaosas (kujul „Document 32014L0024“).
+
+5. **URL**: ingliskeelse teksti **PDF-aadress**. Selleks peab jaotusest „Languages, formats and link to OJ“ valima „EN“ alt PDF-versiooni ja kopeerima selle aadressi.
+
+6. **Ilmumisaeg**: ilmumise aastaarv, mis on dokumendi teksti päises toodud.
+
+<a href="images/Eurlex-uus.png" target="_blank" rel="noreferrer noopener">
+    <img src="images/Eurlex-uus.png" alt='Kuvatõmmis EUR-Lexi dokumendi 32019L0882' width="500"/></a>  
+
+Pilt: Kuvatõmmis EUR-Lexi dokumendi 32019L0882 <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1591951781602&uri=CELEX%3A32019L0882" target="_blank">lehelt</a> 
+
+Vaid juhul, kui mõistekirjes kasutatakse allikana ka ELi dokumendi eesti tõlget, tuleb samasse allikakirjesse lisada veel infot.
+
+- **Lühinimi/pealkiri**: õigusakti eesti tõlke pealkiri
+- **URL**: eestikeelse teksti PDF-aadress
+
+Kui võimalik, on parem aga eesti terminite, definitsioonide ja kontekstide allikana kasutada siiski Riigi Teataja õigusakte või muid eestikeelseid allikad. Need on originaaltekstid, samas kui EUR-Lexi eestikeelsed dokumendid on tõlked.
+
+*<sub>Allikas: <a href="https://terminoloogia.ee/ekilex-kirjete-koostamine/#eri-tyypi-allikad" target="_blank">terminoloogia.ee</a></sub>*
 
 
 #### Allika muutmine
@@ -371,7 +463,7 @@ Allika muutmine tähendab siis sisuliselt allikakirje mõne välja ehk allika at
     3. Vajuta kollasele nupukesele **„x“** („Kustuta“).
     4. Küsitakse kustutamise kinnitust. Vajuta **„Jah“**.
 
-<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-allikakirjesse-luhinime/" target="_blank">terminoloogia.ee</a></sub>
+*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-allikakirjesse-luhinime/" target="_blank">terminoloogia.ee</a></sub>*
 
 #### Allika kustutamine
 
@@ -384,6 +476,7 @@ Allikakirje kustutamiseks:
 <a href="images/allika-kustutamine.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/allika-kustutamine.gif" alt='Allika kustutamine' width="500"/></a>  
 Pilt: Allika kustutamine
+
 
 #### Allikate ühendamine
 
@@ -428,9 +521,9 @@ Kui teil **ei ole terminibaasi muutmisõigust**, siis te selle baasi kirjete log
 Võib juhtuda, et teil tekib siiski küsimus mõne sellise mõistekirje kohta, mis asub baasis, mille logisid te ei näe. **Sel juhul võiksite võtta ühendust selle terminibaasi kontaktisikuga**.   
 Eri terminibaaside kontaktisikud leiab kõige paremini üles Sõnaveebi **sõnakogude kirjeldustest**: <a href="https://sonaveeb.ee/collections" target="_blank">sonaveeb.ee/collections</a>. Esimene sõnakogu on EKI ühendsõnastik, ent allapoole kerides näete eri terminibaase, nende tutvustavat infot ja kontaktandmeid.
 
-<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-naha-kes-on-moistekirje-termini-voi-muu-kirje-osise-lisanud/" target="_blank">terminoloogia.ee</a></sub>
+*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-naha-kes-on-moistekirje-termini-voi-muu-kirje-osise-lisanud/" target="_blank">terminoloogia.ee</a></sub>*
 
-[Hakka pihta!](https://ekilex.eki.ee/)
+<a href="https://ekilex.eki.ee/" target="_blank">Hakka pihta!</a>
 
 
 Küsimuste korral kirjuta [kasutajatugi@ekilex.ee](mailto:kasutajatugi@ekilex.ee)!
