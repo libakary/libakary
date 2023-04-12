@@ -27,7 +27,6 @@
 - [Mõistekirja, termini või muu kirje osise lisaja kuvamine](#mõistekirja-termini-või-muu-kirje-osise-lisaja-kuvamine)
     
 ---
-<base target="_blank">
 
 ### Mis on Ekilex?
 
@@ -60,12 +59,15 @@ Pilt: Näide kasutaja registreerimise kinnituskirjast
 <img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width="600" target="_blank"/>  
 Pilt: Näide kasutaja registreerimise kinnituskirjast  
 5
-[![Näide kasutaja registreerimise kinnituskirjast](images/email.PNG)](images/email.PNG){:width=100}  
-Pilt: Näide kasutaja registreerimise kinnituskirjast 
-6
+[![Näide kasutaja registreerimise kinnituskirjast](images/email.PNG)](images/email.PNG){:width=100}    
+6  
 <a href="images/email.PNG" target="_blank">
-    <img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width="600"/>
-</a> 
+    <img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width="600"/></a>  
+    Pilt: Näide kasutaja registreerimise kinnituskirjast   
+7  
+<a href="images/email.PNG" target="_blank" rel="noreferrer noopener">
+    <img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width="600"/></a>  
+    Pilt: Näide kasutaja registreerimise kinnituskirjast 
 
 6. Pärast lingil klõpsamist avaneb Ekilexi sisselogimisvorm koos teatega „Kasutaja on aktiveeritud, head kasutamist“.
 
