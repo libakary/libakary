@@ -60,7 +60,7 @@ Pilt: Näide kasutaja registreerimise kinnituskirjast
 <img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width="600"/>  
 Pilt: Näide kasutaja registreerimise kinnituskirjast  
 5
-[![Näide kasutaja registreerimise kinnituskirjast](images/email.PNG){:width=100}](images/email.PNG)  
+[![Näide kasutaja registreerimise kinnituskirjast](images/email.PNG)](images/email.PNG){:width=100}  
 Pilt: Näide kasutaja registreerimise kinnituskirjast  
 
 6. Pärast lingil klõpsamist avaneb Ekilexi sisselogimisvorm koos teatega „Kasutaja on aktiveeritud, head kasutamist“.
