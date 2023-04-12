@@ -1,5 +1,4 @@
-﻿<base target="_blank">
-
+﻿
 # Ekilexi kasutusjuhend
 
 <button>[Avaleht](/index.md)</button>
@@ -28,6 +27,7 @@
 - [Mõistekirja, termini või muu kirje osise lisaja kuvamine](#mõistekirja-termini-või-muu-kirje-osise-lisaja-kuvamine)
     
 ---
+<base target="_blank">
 
 ### Mis on Ekilex?
 
@@ -61,7 +61,11 @@ Pilt: Näide kasutaja registreerimise kinnituskirjast
 Pilt: Näide kasutaja registreerimise kinnituskirjast  
 5
 [![Näide kasutaja registreerimise kinnituskirjast](images/email.PNG)](images/email.PNG){:width=100}  
-Pilt: Näide kasutaja registreerimise kinnituskirjast  
+Pilt: Näide kasutaja registreerimise kinnituskirjast 
+6
+<a href="images/email.PNG" target="_blank">
+    <img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width="600"/>
+</a> 
 
 6. Pärast lingil klõpsamist avaneb Ekilexi sisselogimisvorm koos teatega „Kasutaja on aktiveeritud, head kasutamist“.
 
