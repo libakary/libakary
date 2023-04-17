@@ -48,23 +48,23 @@
 
 ### Terminite otsing
 
-1. Vajuta töölaual **„Terminoloogid“**.
+1. Vajutage töölaual **„Terminoloogid“**.
 
-2. Avaneb terminoloogi vaade. Vajuta nuppu **„Valitud sõnakogusid: 0“**.  
+2. Avaneb terminoloogi vaade. Vajutage nuppu **„Valitud sõnakogusid: 0“**.  
 <a href="images/1-sonakogude-valimine-1-1.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/1-sonakogude-valimine-1-1.gif" alt="Terminoloogide vaates sõnakogude valimine" width="400"/></a>  
 Pilt: Terminoloogide vaates sõnakogude valimine
 
-3. Vali linnukestega sõnakogud, millest soovid otsida, ja vajuta **„Vali“**.  
+3. Valige linnukestega sõnakogud, millest soovite otsida, ja vajutage **„Vali“**.  
 <a href="images/2-sonakogude-valimine-2.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/2-sonakogude-valimine-2.gif" alt="Kindlate sõnakogude valimine" width="400"/></a>  
 Pilt: Kindlate sõnakogude valimine
 
-4. **Sisesta otsisõna**. Kasutada võib **metamärke**: 
-    - **?** = 1 suvaline tähemärk (nt kui otsid „m?iste“ siis leiad nt „mõiste“, „muiste“);
-    - **\*** = 0 või rohkem suvalisi tähemärke. (nt kui otsid „\*hiir\*“, siis leiad nii „hiir“, „arvutihiir“, „hiirehernes“ kui „aedhiirehernes“.)
+4. **Sisestage otsisõna**. Kasutada võib **metamärke**: 
+    - **?** = 1 suvaline tähemärk (nt kui otsid „m?iste“ siis leiate nt „mõiste“, „muiste“);
+    - **\*** = 0 või rohkem suvalisi tähemärke. (nt kui otsid „\*hiir\*“, siis leiate nii „hiir“, „arvutihiir“, „hiirehernes“ kui „aedhiirehernes“.)
 
-5. Vajuta „Otsi“.
+5. Vajutage „Otsi“.
 
 - Tulemuseks on nimekiri eri terminitest, millele klõpsates saab näha peamises aknas terminile vastavat mõistekirjet, ehk mõistet selle ID koodiga ning sellele järgnevalt kõiki termineid, otsitav kaasaarvatud.  
 <a href="images/term_otsing2.PNG" target="_blank" rel="noreferrer noopener">
@@ -116,7 +116,7 @@ Pilt: Otsingu tulemused tabelivormis
 #### Detailotsingu tegemine
 
 Lihtotsingu tegemisel on tulemusteks täpne vaste otsitule.   
-On võimalik tulemusi laiendada ? ja * metamärkidega, aga palju täpsemaid või spetsiifilise mõistekirje osaga seotud otsinguid tuleb teha **Detailotsingus**.  
+On võimalik tulemusi laiendada "?" ja "\*" metamärkidega, aga palju täpsemaid või spetsiifilise mõistekirje osaga seotud otsinguid tuleb teha **Detailotsingus**.  
 <a href="images/detailotsing_1.PNG" target="_blank" rel="noreferrer noopener">
     <img src="images/detailotsing_1.PNG" alt="Detailotsingu vaikimisi seadistus" width="700"/></a>   
 Pilt: Detailotsingu vaikimisi seadistus
@@ -169,7 +169,7 @@ Et allika id-koodi järgi otsida, peab detailotsingust valima „miski“ → �
 
 Ekilexis on detailotsing, mis võimaldab terminibaasist kindlate kriteeriumide alusel kirjeid leida. Et aga otsing tulemusi sirvides liiga palju ruumi ja tähelepanu ei nõuaks, on võimalik otsingukriteeriumid selleks ajaks peitu klõpsata.
 
-- **Kriteeriume saab peita otsingukastide all paikneva noolekesega**. Et otsing taas avada, tuleks uuesti noolekesele klõpsata.  
+- **Kriteeriume saab peita otsingukastide all paikneva noolekesega**. Et otsing taas avada, tuleb uuesti noolekesele klõpsata.  
 <a href="images/1-detotsing-peitmine.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/1-detotsing-peitmine.gif" alt="Detailotsingu peitmine" width="700"/></a>    
 Pilt: Detailotsingu peitmine
@@ -216,7 +216,7 @@ Pilt: Terminoloogide kuva, üleval on eri definitsioonid, all üksteise järel t
 {% include youtube.html id="BXdBK-jYgO0" %}
 Video: Mõistekirje loomine Ekilexis-->
 
-1. Ava töölaual link "Terminoloogid"
+1. Avage töölaual link "Terminoloogid"
 
 2. Valige Terminoloogide vaates loetelust "Valitud sõnakogud" **kõik sõnakogud.** See on oluline, et süsteem oskaks lisatavat terminit teiste terminibaaside infoga võrrelda.  
 <a href="images/1-sonakogude-valimine-1-1.gif" target="_blank" rel="noreferrer noopener">
@@ -224,15 +224,15 @@ Video: Mõistekirje loomine Ekilexis-->
 Pilt: Terminoloogide vaates sõnakogude valimine
 
     - Kõiki sõnakogusid aitab valida nupp **"Vali kõik"**.  
-    <a href="images/2-sonakogude-valimine-2.gif" target="_blank" rel="noreferrer noopener">
+<a href="images/2-sonakogude-valimine-2.gif" target="_blank" rel="noreferrer noopener">
       <img src="images/2-sonakogude-valimine-2.gif" alt='Sõnakogude valimisel saab vajutada nuppu "Vali kõik"' width="400"/></a>   
 Pilt: Sõnakogude valimisel saab vajutada nuppu "Vali kõik"
 
-3. Vajuta sinisel navigeerimisribal **„Uus mõiste“**. Avaneb uue termini sisestusvorm. Seejärel
-    1. sisesta termin (ehk keelend),
+3. Vajutage sinisel navigeerimisribal **„Uus mõiste“**. Avaneb uue termini sisestusvorm. Seejärel
+    1. sisestage termin (ehk keelend),
     2. selle all on kuvatud sõnakogu nimi, kuhu termin lisatakse,
-    3. vali rippmenüüst keel,
-    4. vajuta „Lisa termin“.  
+    3. valige rippmenüüst keel,
+    4. vajutage „Lisa termin“.  
     <a href="images/5-uus-moiste-termin.gif" target="_blank" rel="noreferrer noopener">
       <img src="images/5-uus-moiste-termin.gif" alt="Termini lisamine" width="300"/></a>   
   Pilt: Termini lisamine
@@ -281,6 +281,7 @@ Näitena võime vaadata nt Ekilexi <a href="https://ekilex.ee/termsearch/smode/S
 
 Näiteks esineb ükssarviku definitsioonis (*noor, hrl vähem kui 10 aastat tegutsenud idufirma, mille turuväärtus on vähemalt miljard dollarit*) termin “idufirma”. Idufirma kohta peaks koostama eraldi mõistekirje, kus see mõiste defineeritud oleks.
 
+<!--EMOJID EI TÖÖTA LEHEL. mingi lisa asi on vaja config faili lisada, otsida see-->
 
 ##### Vormistuslik pool
 
@@ -363,7 +364,8 @@ Kui juhtumisi on loodud mitu allikakirjet samale allikale, saab neid ühendada k
 
 Ekilexi kontekstis nimetatakse allikakirjeid ka lühemalt lihtsalt **allikateks**. 
 
-Allikakirjete otsimine, lisamine ja muutmine on kirjeldatud lähemalt siin: [Allikad](/allikad.md).
+Allikakirjete otsimine, lisamine ja muutmine on kirjeldatud lähemalt siin: [Allikad](/index.md#allikad).
+<!-- ei tööta lehel-->
 
 Kui allikas on loodud, siis saab mõistekirjes tekitada sellele erinevate väljade juures (nagu termin, märkus, definitsioon) **viiteid**. 
 
@@ -404,9 +406,9 @@ Siia alla kuuluvad juhtumid, kus definitsioon ei pärine sõna-sõnalt konkreets
   <li>mitme allika põhjal ühe definitsiooni koostanud.</li>
 </ol>
 
-Sellistes olukordades tuleks definitsioonile lisada mitu allikaviidet: **üks komisjonile ja teine inspiratsiooniks olnud allikale**. Kui definitsioon on koostatud mitme eri allika põhjal, peaks **viitama neile kõigile**.
+Sellistes olukordades tuleb definitsioonile lisada mitu allikaviidet: **üks komisjonile ja teine inspiratsiooniks olnud allikale**. Kui definitsioon on koostatud mitme eri allika põhjal, peab **viitama neile kõigile**.
 
-Kokkuleppe kohaselt paikneb **komisjoni allikaviide esimesel kohal, sellele järgnevad inspiratsiooniallika või -allikate viited (vt allolevat pilti)**. Kuna allikaviidete lisamisel läheb esimesele kohale viimasena lisatud viide, peaks viited lisama järgmises järjekorras:
+Kokkuleppe kohaselt paikneb **komisjoni allikaviide esimesel kohal, sellele järgnevad inspiratsiooniallika või -allikate viited (vt allolevat pilti)**. Kuna allikaviidete lisamisel läheb esimesele kohale viimasena lisatud viide, peab viited lisama järgmises järjekorras:
 
 1. **inspiratsiooniallikas** (või -allikad) + **„põhjal“** („põhjal“ siseviitena; nt„IATE põhjal“)
 2. **komisjoni nimetus** (nt „EVTK“).
@@ -420,7 +422,7 @@ Oletame, et kuulun ettevõtlusterminite komisjoni, mille lühinimi on EVTK. Olem
 
 Pilt: Näide definitsioonist, mille aluseks on võetud IATE definitsioon, mida komisjon on seejärel kohaldanud
 
-Nagu mainitud, peaks sõna „põhjal“ olema lisatud siseviite väljale. Siseviidet saab märkida mitte allikakirjet muutes, vaid mõistekirjes konkreetse kirje osise juures allikakirjele viidates.
+Nagu mainitud, peab sõna „põhjal“ olema lisatud siseviite väljale. Siseviidet saab märkida mitte allikakirjet muutes, vaid mõistekirjes konkreetse kirje osise juures allikakirjele viidates.
 
 <a href="images/image-1-1024x335.png" target="_blank" rel="noreferrer noopener">
     <img src="images/image-1-1024x335.png" alt='Näide sellest, kuidas lisada mõistekirjes allikakirjele viidates siseviite reale sõna “põhjal”' width="600"/></a>  
@@ -436,14 +438,14 @@ Pilt: Näide sellest, kuidas lisada mõistekirjes allikakirjele viidates sisevii
 
 Terminibaasid on mõistepõhised, mis tähendab, et **ühes mõistekirjes on koos kõik sama mõiste kohta käivad terminid (sünonüümid), sh paralleelvariandid ning terminid teistes keeltes.**
 
-Kui soovite juba **olemasolevasse kirjesse uut terminit lisada** (ükskõik, mis keeles), peaksite vajutama mõistekirje ülaosas nupule **“Lisa termin”**.  
+Kui soovite juba **olemasolevasse kirjesse uut terminit lisada** (ükskõik, mis keeles), peate vajutama mõistekirje ülaosas nupule **“Lisa termin”**.  
 Lisatav termin võib olla nii muukeelne vaste kui ka eesti- või muukeelne sünonüüm.
 <a href="images/termini-lisamine-oige.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/termini-lisamine-oige.gif" alt='Uue termini lisamine' width="600"/></a>  
 Pilt: Uue termini lisamine
 
-**NB! Kindlasti ei tohiks sünonüüme või muid terminivariante kirjutada koos ühele ja samale terminiväljale.  
-Terminiväljal ei tohiks olla komasid, semikooloneid, kaldkriipse või muid sümboleid, välja arvatud siis, kui need on termini enda osa.**
+**NB! Kindlasti ei tohi sünonüüme või muid terminivariante kirjutada koos ühele ja samale terminiväljale.  
+Terminiväljal ei tohi olla komasid, semikooloneid, kaldkriipse või muid sümboleid, välja arvatud siis, kui need on termini enda osa.**
 
 **Näide:**
 
@@ -459,7 +461,7 @@ Pilt: Olemasolevasse kirjesse termini lisamine
 
 3. Lisatud terminid on nüüd esitatud eri terminiväljadel. Mõlemad terminid tulevad välja, kui neid Ekilexis või Sõnaveebis otsida.
 
-Et leida oma terminibaasist termineid, mis võivad olla ühel väljal koma, semikooloni või mõne muu märgiga eraldatud, võiksite kasutada järgmist otsingut:  
+Et leida oma terminibaasist termineid, mis võivad olla ühel väljal koma, semikooloni või mõne muu märgiga eraldatud, võite kasutada järgmist otsingut:  
 <a href="images/symbolid.png" target="_blank" rel="noreferrer noopener">
     <img src="images/symbolid.png" alt='Terminoloogide vaate detailotsing: termin; väärtus; sisaldab; soovitud märk' width="500"/></a>  
 Pilt: Terminoloogide vaate detailotsing: termin; väärtus; sisaldab; soovitud märk
@@ -469,22 +471,22 @@ Pilt: Terminoloogide vaate detailotsing: termin; väärtus; sisaldab; soovitud m
 
 #### Kirjesse märkuse lisamine
 
-Ekilexis saab mõistekirjesse lisada märkusi, millega saab mõiste, definitsiooni või termini kohta lisainfot anda. **Kuna mõiste definitsioon peaks olema ühelauseline, sobib märkuseväljale üldjuhul ka selline teave, mida tahaksite definitsiooni järele teiseks või kolmandaks lauseks lisada.**
+Ekilexis saab mõistekirjesse lisada märkusi, millega saab mõiste, definitsiooni või termini kohta lisainfot anda. **Kuna mõiste definitsioon peaks olema ühelauseline, sobib märkuseväljale üldjuhul ka selline teave, mida tahate definitsiooni järele teiseks või kolmandaks lauseks lisada.**
 
-Erinevalt definitsioonist võiksid märkused olla **vormistatud täislausetena, mis algavad suure tähega ja lõppevad punktiga**. Ühele märkuseväljale võib lisada mitu lauset. **Igal märkusel võiks olla ka allikaviide**: juhul kui tegu on allikast kopeeritud teabega, peaks viitama sellele allikale, kui aga märkuse on lisanud terminikomisjoni esindaja, peaks viitama komisjonile.
+Erinevalt definitsioonist võiksid märkused olla **vormistatud täislausetena, mis algavad suure tähega ja lõppevad punktiga**. Ühele märkuseväljale võib lisada mitu lauset. **Igal märkusel võiks olla ka allikaviide**: juhul kui tegu on allikast kopeeritud teabega, peab viitama sellele allikale, kui aga märkuse on lisanud terminikomisjoni esindaja, peab viitama komisjonile.
 
 
 ##### Mõiste märkus
 
 Mõiste märkuse väljale sobib enamasti teave, mis ei kommenteeri konkreetset terminit või definitsiooni ega selle sõnastust. **Tegu on lisainfoga, mis annab teavet nähtuse (mõiste) kui sellise kohta.**  
-<sub>(Kui mõiste ja termini erinevused on teile ebaselged, siis vaadake selle kohta lähemalt [siit](link sellele juhendis).)</sub>
+<sub>(Kui mõiste ja termini erinevused on teile ebaselged, siis vaadake selle kohta lähemalt [siit](#mõiste-ja-termini-vahe).)</sub>
 
 1. Mõiste märkust saab lisada **plussmärgist**, mis asub **kirje kõige ülemises paremas nurgas**:  
 <a href="images/moiste-markus-1.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/moiste-markus-1.gif" alt='Plussmärk kirje nurgas' width="500"/></a>  
 Pilt: Plussmärk kirje nurgas
 
-2. Avanenud menüüst tuleks valida variant **“Märkus”**:  
+2. Avanenud menüüst tuleb valida variant **“Märkus”**:  
 <a href="images/moiste-markus-2.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/moiste-markus-2.gif" alt='Rippmenüüst variandi valimine' width="500"/></a>  
 Pilt: Rippmenüüst variandi valimine
@@ -513,7 +515,7 @@ Termini märkuse väljale sobib teave, mis **kommenteerib terminit**. Sinna või
     <img src="images/termini-markus-1.gif" alt='Termini paremal pool asub plussmärk' width="500"/></a>  
 Pilt: Termini paremal pool asub plussmärk
 
-2. Avanenud menüüst tuleks valida variant **“Ilmiku märkus”**:  
+2. Avanenud menüüst tuleb valida variant **“Ilmiku märkus”**:  
 <a href="images/termini-markus-2.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/termini-markus-2.gif" alt='Rippmenüüst valida variant' width="400"/></a>  
 Pilt: Rippmenüüst valida variant
@@ -575,22 +577,22 @@ Pilt: Pildi lisamise nupp, aadressi kleepimine ja lisamine
 
 Ekilexis saab ala- ja ülaindekseid lisada nupu **„Lisa märgendus“** alt. Üla- ja alaindekseid saab lisada kõigile tekstiväljadele, kuhu on võimalik ise infot kirjutada: termin, definitsioon, kasutusnäide, märkus.
 
-1. Kõigepealt peaksite minema hiirega soovitud välja peale, millele indeksit lisada soovite (nt termin). Peaksite vajutama **tekkinud sinisele muutmisnupule.**  
+1. Kõigepealt peate minema hiirega soovitud välja peale, millele indeksit lisada soovite (nt termin). Peate vajutama **tekkinud sinisele muutmisnupule.**  
 <a href="images/margendus1.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/margendus1.gif" alt='Liikudes termini tekstile tekib muutmisnupp' width="300"/></a>  
 Pilt: Liikudes termini tekstile tekib muutmisnupp
 
-2. Seejärel peaksite **valima (märgistama) selle osa, mida üla- või alakirja panna soovite**.  
+2. Seejärel peate **valima (märgistama) selle osa, mida üla- või alakirja panna soovite**.  
 <a href="images/margendus2.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/margendus2.gif" alt='Tekstikastis tulevase alaindeksi märgistamine sinisega' width="300"/></a>   
 Pilt: Tekstikastis tulevase alaindeksi märgistamine sinisega
 
-3. Pärast seda peaksite vajutama kas **"ülaindeks"** või **"alaindeks"** nupule tööriistaribal.  
+3. Pärast seda peate vajutama kas **"ülaindeks"** või **"alaindeks"** nupule tööriistaribal.  
 <a href="images/margendus3.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/margendus3.gif" alt='Sobiva indeksi valimine' width="300"/></a>   
 Pilt: Sobiva indeksi valimine
 
-5. Seejärel peaksite vajutama **„Salvesta“.**  
+5. Seejärel peate vajutama **„Salvesta“.**  
 <a href="images/margendus4.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/margendus4.gif" alt='Salvesta nupu vajutus' width="300"/></a>  
 Pilt: Salvesta nupu vajutus
@@ -654,7 +656,7 @@ Ekilex võimaldab märkida termini juurde selle usaldusväärsust. **Usaldusvä�
     <img src="images/1-usaldusvaarsus_nupp.gif" alt='Termini kõrval asuv hall plussmärk' width="300"/></a>  
 Pilt: Termini kõrval asuv hall plussmärk
 
-2. Rippmenüüst tuleks valida “**Ilmiku usaldusväärsus**” ning seejärel **numbrite seast valik teha**. Kinnitada valik nupuga "Lisa".  
+2. Rippmenüüst tuleb valida “**Ilmiku usaldusväärsus**” ning seejärel **numbrite seast valik teha**. Kinnitada valik nupuga "Lisa".  
 <a href="images/2-usaldusvaarsus_lisamine.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/2-usaldusvaarsus_lisamine.gif" alt='Rippmenüüst valik, järgmisel real valida väärtus' width="400"/></a>   
 Pilt: Rippmenüüst valik, järgmisel real valida väärtus
@@ -795,12 +797,12 @@ Pilt: Näide terminoloogide detailotsingust
 
 Kui soovite näha neid kirjeid, mida just **teie** olete kindlas ajavahemikus muutnud (või mille lisanud), peaksite **lisama otsingukriteeriumiks ka muutja**. See otsing annab kõige täpsema tulemuse just teie tehtud muudatuste kohta, kuna teie terminibaasides teevad tehnilisi muudatusi ka EKI leksikograafid ja terminoloogid.
 
-1. Kõigepealt peaksite detailotsingust valima **soovitud ajavahemiku**, nt “on hilisem kui” “1.11.2022”: kõik kirjed, mida olete muutnud pärast 1. novembrit 2022.  
+1. Kõigepealt peate detailotsingust valima **soovitud ajavahemiku**, nt “on hilisem kui” “1.11.2022”: kõik kirjed, mida olete muutnud pärast 1. novembrit 2022.  
 <a href="images/hilisem-kui-1024x148.png" target="_blank" rel="noreferrer noopener">
     <img src="images/hilisem-kui-1024x148.png" alt='Näide terminoloogide detailotsingust' width="700"/></a>  
 Pilt: Näide terminoloogide detailotsingust
 
-2. Seejärel peaksite lisama olemasolevale otsingule veel ühe otsivälja, **klõpsates otsikasti kõrval halli taustaga alal plussmärgile** (vasakpoolne plussmärk).  
+2. Seejärel peate lisama olemasolevale otsingule veel ühe otsivälja, **klõpsates otsikasti kõrval halli taustaga alal plussmärgile** (vasakpoolne plussmärk).  
 <a href="images/vasakpoolne-pluss-1-1024x172.png" target="_blank" rel="noreferrer noopener">
     <img src="images/vasakpoolne-pluss-1-1024x172.png" alt='Detailotsingu välja lõpus olev hall plussmärk' width="700"/></a>  
 Pilt: Detailotsingu välja lõpus olev hall plussmärk
