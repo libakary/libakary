@@ -43,7 +43,7 @@ Sõnaveebis on koos nii üldkeeleteave (EKI ühendsõnastik, mille eest vastutav
 
 Sõnaveeb asub aadressil <a href="https://sonaveeb.ee/" target="_blank">https://sonaveeb.ee</a>.
 
-Sõnaveebi otsingutulemustes kuvatakse **ülevalpool üldkeelesõnastikus leiduv teave, allpool aga oskussõnastikes ja terminibaasides leiduv teave**. Niisiis peate mõnikord võib-olla lehte allapoole kerima, et erialakeelega seonduvaid andmeid näha. Lugege <a href="https://terminoloogia.ee/ufaqs/mis-vahe-on-uld-ja-oskuskeelel/" target="_blank">siit</a>siit lähemalt, mis eristab eriala- ehk oskuskeelt üldkeelest.
+Sõnaveebi otsingutulemustes kuvatakse **ülevalpool üldkeelesõnastikus leiduv teave, allpool aga oskussõnastikes ja terminibaasides leiduv teave**. Niisiis peate mõnikord võib-olla lehte allapoole kerima, et erialakeelega seonduvaid andmeid näha. Lugege <a href="https://terminoloogia.ee/ufaqs/mis-vahe-on-uld-ja-oskuskeelel/" target="_blank">siit</a> lähemalt, mis eristab eriala- ehk oskuskeelt üldkeelest.
 
 <a href="images/Sonaveebi-vaade.png" target="_blank" rel="noreferrer noopener">
     <img src="images/Sonaveebi-vaade.png" alt="Sõnaveebi vaade. Kirja “Oskussõnastikud” alt (pildil märgitud oranži kastikesega) leiate terminibaasidesse kantud teabe." width="700"/></a>   
@@ -57,50 +57,50 @@ Pilt: Sõnaveebi vaade. Kirja “Oskussõnastikud” alt (pildil märgitud oran�
 
 ### Kasutajaks registreerumine ja õiguste taotlemine
 
-1. Ekilexi kasutamiseks tuleb luua endale **kasutajakonto**. Selleks mine Ekilexi avalehele ja vajuta nuppu „Loo kasutaja“.
+1. Ekilexi kasutamiseks tuleb luua endale **kasutajakonto**. Selleks minge Ekilexi avalehele ja vajutage nuppu „Loo kasutaja“.
 
-2. Avaneb kasutajaks registreerumise vorm. Pead sisestama oma **ees- ja perekonnanime**, **e-posti aadressi** ja valima **parooli**, mille sisestad kaks korda. 
+2. Avaneb kasutajaks registreerumise vorm. Peate sisestama oma **ees- ja perekonnanime**, **e-posti aadressi** ja valima **parooli**, mille sisestate kaks korda. 
 
-3. Pead ka läbi lugema **kasutustingimused** ja kinnitama nendega nõusoleku.
+3. Peate ka läbi lugema **kasutustingimused** ja kinnitama nendega nõusoleku.
 
-4. Seejärel klõpsa nupul **„Registreeru“**. 
+4. Seejärel klõpsake nupul **„Registreeru“**. 
 
-5. Mõne sekundi jooksul saadetakse sinu e-postkasti **kinnituskiri**. Kui kirja pole tulnud, vaata ka rämpsposti kataloogi või trüki otsingureale „Ekilexi kasutaja registreerimine“. Oma konto aktiveerimiseks pead klõpsama kinnituskirjas saadetud **aktiveerimislingil**.  
+5. Mõne sekundi jooksul saadetakse teie e-postkasti **kinnituskiri**. Kui kirja pole tulnud, vaadake ka rämpsposti kataloogi või trükkige otsingureale „Ekilexi kasutaja registreerimine“. Oma konto aktiveerimiseks peate klõpsama kinnituskirjas saadetud **aktiveerimislingil**.  
 <a href="images/email.PNG" target="_blank" rel="noreferrer noopener">
     <img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width="600"/></a>  
     Pilt: Näide kasutaja registreerimise kinnituskirjast 
 
 6. Pärast lingil klõpsamist avaneb Ekilexi sisselogimisvorm koos teatega „Kasutaja on aktiveeritud, head kasutamist“.
 
-7. Sisselogimiseks sisesta oma e-posti aadress ja eelnevalt valitud parool ning klõpsa nupul **„Sisene“**.
+7. Sisselogimiseks sisestage oma e-posti aadress ja eelnevalt valitud parool ning klõpsake nupul **„Sisene“**.
 
-8. Kui oled sisse loginud, avaneb **õiguste taotlemise leht**, kus on teade: „See on EKI sõnastiku- ja terminibaasisüsteem Ekilex. Kui vaja, vali sõnakogud, millele soovid muutmisõigust.“  
+8. Kui olete sisse loginud, avaneb **õiguste taotlemise leht**, kus on teade: „See on EKI sõnastiku- ja terminibaasisüsteem Ekilex. Kui vaja, vali sõnakogud, millele soovid muutmisõigust.“  
 <a href="images/sisselogimine.PNG" target="_blank" rel="noreferrer noopener">
     <img src="images/sisselogimine.PNG" alt="Avaleht esimesel sisselogimisel" width="700"/></a>    
 Pilt: Avaleht esimesel sisselogimisel
 
-+ **Vaatamisõiguse** saamiseks vajuta lihtsalt „Hakka Ekilexi kasutama“. Selle valikuga saad ka muutmisõiguse „Katsebaasile“, kus saab katsetada andmete sisestamist.
++ **Vaatamisõiguse** saamiseks vajutage lihtsalt „Hakka Ekilexi kasutama“. Selle valikuga saate ka muutmisõiguse „Katsebaasile“, kus saab katsetada andmete sisestamist.
 
 + **Muutmisõiguste** taotlemiseks olemasolevale sõnakogule: 
-    1. Vajuta **„Soovin sõnakogude muutmisõigust“** ja vali soovitud sõnakogu(d), mille autorite hulka sa kuulud. Pole mõtet valida sõnakogusid, millega sul puudub seos.
-    2. Muutmisõiguse taotlemise korral vajuta ka „Soovin põhjendada taotlust“ ja kirjuta lahtrisse lühidalt, kuidas oled sõnakoguga seotud. **Põhjendus on kohustuslik**.
-    3. Seejärel vajuta **„Saada taotlus“**.
-    4. Nüüd tuleb oodata, kuni Ekilexi administraator annab sulle küsitud õigused. **Selle kohta saadetakse e-kiri**. Pärast seda saad hakata Ekilexi kasutama. Kui oled õiguste saamise hetkel (e-kirja saabumise hetkel) Ekilexi sisse logitud, pead kõigepealt välja logima ja siis uuesti sisse logima, selleks, et õigused rakenduksid.
+    1. Vajutage **„Soovin sõnakogude muutmisõigust“** ja valige soovitud sõnakogu(d), mille autorite hulka te kuulute. Pole mõtet valida sõnakogusid, millega teil puudub seos.
+    2. Muutmisõiguse taotlemise korral vajutage ka „Soovin põhjendada taotlust“ ja kirjutage lahtrisse lühidalt, kuidas olete sõnakoguga seotud. **Põhjendus on kohustuslik**.
+    3. Seejärel vajutage **„Saada taotlus“**.
+    4. Nüüd tuleb oodata, kuni Ekilexi administraator annab teile küsitud õigused. **Selle kohta saadetakse e-kiri**. Pärast seda saate hakata Ekilexi kasutama. Kui olete õiguste saamise hetkel (e-kirja saabumise hetkel) Ekilexi sisse logitud, peate kõigepealt välja logima ja siis uuesti sisse logima, selleks, et õigused rakenduksid.
 
 
 #### Edaspidi õiguste taotlemine
 
-Kui olete juba ekilexi vaatamisõiguse või mõne sõnakogu muutmisõigused omandanud, saab teiste sõnakogude õigusi omandada järgmiselt:
-
-1. Klõpsake üleval **sinise riba paremal pool** oma nimele ja avage "Kasutaja profiili haldus".  
-<a href="images/oiguse-taotlemine1.gif" target="_blank" rel="noreferrer noopener">
-    <img src="images/oiguse-taotlemine1.gif" alt="Kasutaja klõpsamisel ilmuv rippmenüü" width="300"/></a>   
-Pilt: Kasutaja klõpsamisel ilmuv rippmenüü
+Kui olete juba ekilexi vaatamisõiguse või mõne sõnakogu muutmisõigused omandanud, saate teiste sõnakogude õigusi omandada järgmiselt:
 
 <!-- Hetkel vaid testbaasis selline? -->
 <!--2. Profiilihalduse lehel on sinine nupp **"Esita uus taotlus"**. Sellele klõpsates avaneb taotluse saatmise aken. Pead **valima sõnakogu**, millele õiguseid taotleda, k**as soovid Muutja või Lugejaõigusi** ning **mis keeles**. Samuti tuleb lisada **põhjendus**, miks soovite sellele sõnakogule ligipääsu. Seejärel vajuta "Saada taotlus".
 ![Alt text](images/oiguse-taotlemine2.gif)  
 Pilt:-->
+
+1. Klõpsake üleval **sinise riba paremal pool** oma nimele ja avage "Kasutaja profiili haldus".  
+<a href="images/oiguse-taotlemine1.gif" target="_blank" rel="noreferrer noopener">
+    <img src="images/oiguse-taotlemine1.gif" alt="Kasutaja klõpsamisel ilmuv rippmenüü" width="300"/></a>   
+Pilt: Kasutaja klõpsamisel ilmuv rippmenüü
 
 2. Profiilihalduse lehel on sinine nupp **"Esita uus taotlus"**. Sellele klõpsates avaneb **taotluse saatmise aken**. Seal saab lisada **põhjenduse**, miks soovite sõnakogudele ligipääsu. 
 <a href="images/oiguse-taotlemine2.0.gif" target="_blank" rel="noreferrer noopener">
@@ -217,26 +217,26 @@ Seejärel avaneb aken, kus saate soovitud muudatuse teha.
 
 ### Uue sõnakogu loomine
 
-1. Klõpsa töölaual linki „Sõnakogude haldus“. Avaneb leht, millel on sõnakogude nimekiri. 
+1. Klõpsake töölaual linki „Sõnakogude haldus“. Avaneb leht, millel on sõnakogude nimekiri. 
 
-2. Vajuta üleval paremal nuppu „Lisa uus“. Avaneb uue sõnakogu loomise vorm, mida saad täita.  
+2. Vajutage üleval paremal nuppu „Lisa uus“. Avaneb uue sõnakogu loomise vorm, mida saab täita.  
 <a href="images/sonakogude-haldus.PNG" target="_blank" rel="noreferrer noopener">
     <img src="images/sonakogude-haldus.PNG" alt='Ekraanipilt tühjast sõnakogu lisamise vormist' width="700"/></a>   
 Pilt: Ekraanipilt tühjast sõnakogu lisamise vormist
 
 - **Sõnakogu kood:** võimalikult lühike (3-10 märki) tähekombinatsioon, millest saab loodava sõnakogu identifikaator (lühitähis)
 - **Nimi:** sõnakogu nimi
-- **Tüüp:** kui lood terminibaasi, vali „terminibaas“, muul juhul „sõnakogu“
+- **Tüüp:** kui loote terminibaasi, valige „terminibaas“, muul juhul „sõnakogu“
 - **Kirjeldus ja kontaktid (Sõnaveebis nähtav):** sõnakogu lühikirjeldus, mida näidatakse Sõnaveebis
-- **Lisainfo ja kontaktid (Sõnaveebis mitteavalik):** (kontakt)info, mis on nähtav teistele Ekilexi kasutajatele, kuid ei ole nähtav Sõnaveebis.
+- **Lisainfo ja kontaktid (Sõnaveebis mitteavalik):** (kontakt)info, mis on nähtav teistele Ekilexi kasutajatele, kuid ei ole nähtav Sõnaveebis
 - **Sõnakogu pilt/logo:** 
-- Juhul, kui soovid oma sõnakogu mõistetele lisada valdkonnamärgendeid:
-  - **Valdkonna klassifikaatori päritolu:** vali valdkonna klassifikaatori kood. See võib olla mõne olemasoleva sõnakogu klassifikaator või iseseisev valdkonna klassifikaator (nt Lenoch, EKI üld). Oma klassifikaatori lisamiseks võta ühendust Ekilexi kasutajatoega.
-  - **Valdkonnad:** Siin on loetelu eelnevalt valitud klassifikaatori kõikidest valdkondadest. Vali loetelust valdkonnamärgendid, mida soovid oma sõnakogus kasutada. Võib valida ükshaaval või vajutada „Vali kõik“.
-- **Keeled:** vali keeled, mida soovid oma sõnakogus kasutada
+- Juhul, kui soovite oma sõnakogu mõistetele lisada valdkonnamärgendeid:
+  - **Valdkonna klassifikaatori päritolu:** valige valdkonna klassifikaatori kood. See võib olla mõne olemasoleva sõnakogu klassifikaator või iseseisev valdkonna klassifikaator (nt Lenoch, EKI üld). Oma klassifikaatori lisamiseks võtke ühendust Ekilexi kasutajatoega.
+  - **Valdkonnad:** Siin on loetelu eelnevalt valitud klassifikaatori kõikidest valdkondadest. Valige loetelust valdkonnamärgendid, mida soovite oma sõnakogus kasutada. Võib valida ükshaaval või vajutada „Vali kõik“.
+- **Keeled:** valige keeled, mida soovite oma sõnakogus kasutada
 - **Nähtav:** Ekilexis on sõnakogu info otsinguga leitav
 - **Avalik:** sõnakogu on avalikustatud ja nähtav lõppkasutajale terminiveebis või sõnaveebis
-- Kui vorm on täidetud, vajuta „Salvesta“
+- Kui vorm on täidetud, vajutage „Salvesta“
 
 **Sõnakogu on nüüd loodud ja ilmub sõnakogude nimistusse.**
 
@@ -252,7 +252,7 @@ Ekilexi kasutajal saab konkreetsele sõnakogule olla omaniku õigus, muutja õig
 
 #### Allikate otsing
 
-Juba sisestatud allikate nägemiseks vali rakenduse menüüst **„Allikate otsing“**. 
+Juba sisestatud allikate nägemiseks valige rakenduse menüüst **„Allikate otsing“**. 
 Allikaid saab otsida ükskõik missuguse andmekategooria järgi, nt pealkiri, autor, ISBN, ISSN, väljaandja vm.
 
 Vaikimisi avaneb lihtotsing, kus otsikasti võib sisestada ükskõik missuguse andmekategooria.
@@ -274,6 +274,7 @@ Seejärel avaneb terminoloogide vaates (seal, kus tavaliselt mõistekirjeid luua
 **NB!** Kui tahate tulemustes näha enda terminibaasi kirjeid, peate kindlasti terminoloogide vaate **valitud sõnakogude valikus olema enne märkinud enda terminibaasi**.
 
 **Näide:** soovin näha tulemusi EKI ühendterminibaasi Esterm 2 kohta. Seega veendun, et juba enne allikakirjete juurde minemist on valitud sõnakogudest Esterm 2 valitud. Vaata allolevatelt animatsioonidelt, kuidas sõnakogusid valida.   
+<!--kirjeldused?-->
 
 <a href="images/sonakogu-valimine-1.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/sonakogu-valimine-1.gif" alt='Sõnakogude valimine' width="500"/></a>  
@@ -292,7 +293,7 @@ Kui õige sõnakogu on enne allikate otsingu tegemist valitud, siis näete pära
 
 ##### Kõikide terminibaasis viidatud allikate kuvamine
 
-Selleks, et näha **kõiki allikakirjeid**, mida olete terminibaasis kasutanud, peaksite käituma järgmiselt:
+Selleks, et näha **kõiki allikakirjeid**, mida olete terminibaasis kasutanud, peate käituma järgmiselt:
 
 1. minema vasakul nurgas olevast menüüst **allikate otsingusse**,  
 <a href="images/allikate-otsingusse-minemine.gif" target="_blank" rel="noreferrer noopener">
@@ -341,7 +342,7 @@ Pilt: Nupp "Lisa uus allikas"
     <img src="images/raamat-luhinimi.png" alt='Lühinime väli on pildil näidatud punase kastiga' width="500"/></a>   
 Pilt: Lühinime väli on pildil näidatud punase kastiga
 
-3. Allika **tüübiks** tuleks kirjaliku allika puhul valida Dokument.
+3. Allika **tüübiks** tuleb kirjaliku allika puhul valida Dokument.
 
 4. Alumises kastis saab allikale lisada muid informatiivseid välju (**atribuute**), näiteks vaikimisi on seal valitud autor. Kui raamatul on mitu autorit, võib iga ühe jaoks luua eraldi välja, aga pole ka probleemi, kui nad pannakse komadega eraldatult samale väljale. Samale väljale pannakse vajadusel ka autori tüüp, nt „koostanud Juhan Juurikas“ või „toimetanud J. Tatikas“.
 
@@ -448,47 +449,47 @@ Kui võimalik, on parem aga eesti terminite, definitsioonide ja kontekstide alli
 
 Allika muutmine tähendab siis sisuliselt allikakirje mõne välja ehk allika atribuudi lisamist/muutmist/kustutamist.
 
-1. Vali rakenduse menüüst **„Allikate otsing“**.
+1. Valige rakenduse menüüst **„Allikate otsing“**.
 
 2. Atribuudi **lisamiseks**:
-    1. Otsi allikas, mida tahad muuta.
-    2. Vajuta rohelisele „+“ nupule. Avaneb atribuudi lisamise vorm.
-    3. Vali rippmenüüst atribuudi tüüp.
-    4. Sisesta all olevale väljale atribuudi väärtus.
-    5. Vajuta „Lisa“.  
+    1. Otsige allikas, mida tahate muuta.
+    2. Vajutage rohelisele „+“ nupule. Avaneb atribuudi lisamise vorm.
+    3. Valige rippmenüüst atribuudi tüüp.
+    4. Sisestage all olevale väljale atribuudi väärtus.
+    5. Vajutage „Lisa“.  
     <a href="images/atribuudi-lisamine.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/atribuudi-lisamine.gif" alt='Allikale atribuudi lisamine' width="600"/></a>  
     Pilt: Allikale atribuudi lisamine
 
 3. Atribuudi **muutmiseks**:
-    1. Otsi allikas, mida tahad muuta.
-    2. Liigu hiire kursoriga **välja peale**, mida tahad muuta. Välja lõppu tekivad nupukesed.  
+    1. Otsige allikas, mida tahate muuta.
+    2. Liikuge hiire kursoriga **välja peale**, mida tahate muuta. Välja lõppu tekivad nupukesed.  
     <a href="images/artikkel-jm-luhinimi-3-muuda.png.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/artikkel-jm-luhinimi-3-muuda.png.gif" alt='Välja lõppu tekivad muutmis- ja kustutamisnupp' width="400"/></a>  
     Pilt: Välja lõppu tekivad muutmis- ja kustutamisnupp
-    3. Vajuta sinisele nupukesele **„Muuda“**.
+    3. Vajutage sinisele nupukesele **„Muuda“**.
     4. Avaneb välja muutmisvorm.
-    5. Muuda välja sisu, salvestamiseks vajuta **„Muuda“**.  
+    5. Muutke välja sisu, salvestamiseks vajutage **„Muuda“**.  
     <a href="images/artikkel-jm-luhinimi-4-muuda.png.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/artikkel-jm-luhinimi-4-muuda.png.gif" alt='Sisu lisamine ja salvestamine' width="600"/></a>  
     Pilt: Sisu lisamine ja salvestamine
 
 4. Atribuudi **kustutamiseks**:
-    1. Otsi allikas, mida tahad muuta.
-    2. Liigu hiire kursoriga **välja peale**, mida tahad muuta. Välja lõppu tekivad nupukesed.
-    3. Vajuta kollasele nupukesele **„x“** („Kustuta“).
-    4. Küsitakse kustutamise kinnitust. Vajuta **„Jah“**.
+    1. Otsige allikas, mida tahate muuta.
+    2. Liikuge hiire kursoriga **välja peale**, mida tahate muuta. Välja lõppu tekivad nupukesed.
+    3. Vajutage kollasele nupukesele **„x“** („Kustuta“).
+    4. Küsitakse kustutamise kinnitust. Vajutage **„Jah“**.
 
 *<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-allikakirjesse-luhinime/" target="_blank">terminoloogia.ee</a></sub>*
 
 #### Allika kustutamine
 
 Allikakirje kustutamiseks:
-1. Vali rakenduse menüüst **„Allikate otsing“**.
+1. Valige rakenduse menüüst **„Allikate otsing“**.
 
-2. Otsi allikas, mida tahad kustutada
+2. Otsige allikas, mida tahate kustutada
 
-3. Vajuta kollasele nupule „Eemalda allikas“. Kinnita kustutamine vajutades "Jah".  
+3. Vajutage kollasele nupule „Eemalda allikas“. Kinnitage kustutamine vajutades "Jah".  
 <a href="images/allika-kustutamine.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/allika-kustutamine.gif" alt='Allika kustutamine' width="500"/></a>  
 Pilt: Allika kustutamine
@@ -497,21 +498,21 @@ Pilt: Allika kustutamine
 #### Allikate ühendamine
 
 Allikakirjete ühendamiseks:
-1. Vali rakenduse menüüst **„Allikate otsing“**.
+1. Valige rakenduse menüüst **„Allikate otsing“**.
 
-2. Otsi allikas, mida tahad ühendada.
+2. Otsige allikas, mida tahad ühendada.
 
-3. Vajuta sinisele nupule "Ühenda".  
+3. Vajutage sinisele nupule "Ühenda".  
 <a href="images/allikate-uhendamine1.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/allikate-uhendamine1.gif" alt='"Ühenda" nupu vajutus viib uuele lehele' width="600"/></a>   
 Pilt: "Ühenda" nupu vajutus viib uuele lehele
 
-4. Sisesta mõni atribuut teise allika andmetest, et seda otsida.  
+4. Sisestage mõni atribuut teise allika andmetest, et seda otsida.  
 <a href="images/allikate-uhendamine2.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/allikate-uhendamine2.gif" alt='Teise allika otsing' width="700"/></a>   
 Pilt: Teise allika otsing
 
-5. Vajuta siin sinisele nupule "Ühenda", kinnitage toiming vajutades "Jah".  
+5. Vajutage siin sinisele nupule "Ühenda", kinnitage toiming vajutades "Jah".  
 <a href="images/allikate-uhendamine3.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/allikate-uhendamine3.gif" alt='Allikate ühendamise kinnitamine' width="700"/></a>   
 Pilt: Allikate ühendamise kinnitamine
