@@ -297,34 +297,34 @@ Näiteks esineb ükssarviku definitsioonis (*noor, hrl vähem kui 10 aastat tegu
 ##### Vormistuslik pool
 
 1. **Definitsioon peaks üldjuhul olema ühelauseline ja lõppema punktita.**  
-✔️ väljakujunenud idufirma, mille väärtus on vähemalt 1 miljard USA dollarit  
-    - :x: Väljakujunenud idufirma, mille väärtus on vähemalt 1 miljard USA dollarit.
+    - ✔️ väljakujunenud idufirma, mille väärtus on vähemalt 1 miljard USA dollarit  
+    - ❌ Väljakujunenud idufirma, mille väärtus on vähemalt 1 miljard USA dollarit.
 
 2. **Lisainfoks sobib kasutada märkuse väljasid, mõnel juhul ka termini kasutusnäite välja. Definitsiooni märkus peaks olema lisatud definitsiooni märkuse väljale, mitte definitsiooniga samale väljale.**
 
 3. **Definitsiooni alguses ei tohiks olla korratud defineeritavat terminit. Definitsiooni alguses ei tohiks olla kasutatud ka tegusõnu, nagu nt on, viitab, kirjeldab.**  
-    ✔️ väljakujunenud idufirma, mille väärtus on vähemalt 1 miljard USA dollarit  
-    - :x: ükssarvik on väljakujunenud idufirma, mille väärtus on vähemalt 1 miljard USA dollarit
+    - ✔️ väljakujunenud idufirma, mille väärtus on vähemalt 1 miljard USA dollarit  
+    - ❌ ükssarvik on väljakujunenud idufirma, mille väärtus on vähemalt 1 miljard USA dollarit
 
 4. **Definitsioon peaks olema esitatud ainsuses.**  
-    - :heavy_check_mark: väljakujunenud idufirma, mille väärtus on vähemalt 1 miljard USA dollarit  
-❌ väljakujunenud idufirmad, mille väärtus on vähemalt 1 miljard USA dollarit
+    - ✔️ väljakujunenud idufirma, mille väärtus on vähemalt 1 miljard USA dollarit  
+    - ❌ väljakujunenud idufirmad, mille väärtus on vähemalt 1 miljard USA dollarit
 
 5. **Definitsioonis ei tohiks olla kasutatud defineeritava mõiste kohta käivat terminit ega sünonüümi või lühendit.**    
 Näide: **idufirma** (sünonüüm *startup*)  
-    - :heavy_check_mark: alles käivituv suure kasvupotentsiaali ja uudse äriideega väikeettevõte  
-    ❌ alles käivituv *startup*, millel on suur kasvupotentsiaal ja uudne äriidee
+    - ✔️ alles käivituv suure kasvupotentsiaali ja uudse äriideega väikeettevõte  
+    - ❌ alles käivituv *startup*, millel on suur kasvupotentsiaal ja uudne äriidee
 
 6. **Definitsioonis peaks olema kasutatud sama sõnaliiki kui termini puhul: tegusõna on defineeritud tegusõna või tegusõnafraasi abil, nimisõna nimisõna kaudu**    
 Näide: **toitumine**  
-    - :heavy_check_mark: organismi varusta<ins>mine</ins> toitainetega  
-    - :x: toitained, millega organismi varustatakse
+    - ✔️ organismi varusta<ins>mine</ins> toitainetega  
+    - ❌ toitained, millega organismi varustatakse
 
 7. **Ühel definitsiooniväljal peaks olema ainult üks definitsioon.**  
 Näide: **kardioloogia**
-    - :heavy_check_mark: 1. välja definitsioon: meditsiinivaldkond, kus uuritakse südame- ja veresoonkonna ehitust ja talitlust ning kaasasündinud ja omandatud haigusi ning tegeldakse südamehaiguste ennetamise, diagnoosimise ja raviga  
-    :heavy_check_mark: 2. välja definitsioon: meditsiinivaldkond, kus uuritakse, ennetatakse, diagnoositakse ning ravitakse südame- ja veresoonkonnahaigusi
-    - :x: meditsiinivaldkond, kus uuritakse südame- ja veresoonkonna ehitust ja talitlust ning kaasasündinud ja omandatud haigusi ning tegeldakse südamehaiguste ennetamise, diagnoosimise ja raviga; meditsiinivaldkond, kus uuritakse, ennetatakse, diagnoositakse ning ravitakse südame- ja veresoonkonnahaigusi
+    - ✔️ 1. välja definitsioon: meditsiinivaldkond, kus uuritakse südame- ja veresoonkonna ehitust ja talitlust ning kaasasündinud ja omandatud haigusi ning tegeldakse südamehaiguste ennetamise, diagnoosimise ja raviga  
+    ✔️ 2. välja definitsioon: meditsiinivaldkond, kus uuritakse, ennetatakse, diagnoositakse ning ravitakse südame- ja veresoonkonnahaigusi
+    - ❌ meditsiinivaldkond, kus uuritakse südame- ja veresoonkonna ehitust ja talitlust ning kaasasündinud ja omandatud haigusi ning tegeldakse südamehaiguste ennetamise, diagnoosimise ja raviga; meditsiinivaldkond, kus uuritakse, ennetatakse, diagnoositakse ning ravitakse südame- ja veresoonkonnahaigusi
 
 
 ##### Sisuline pool
@@ -333,13 +333,13 @@ Näide: **kardioloogia**
 
 2. **Definitsioonis peaks olema esitatud defineeritava olemasolevad, mitte puuduvad tunnused.**  
 Näide: **lehtpuu**
-    - :heavy_check_mark: heitlehine või igihaljas lehtedega puu
-    - :x: puu, mis ei ole okaspuu
+    - ✔️ heitlehine või igihaljas lehtedega puu
+    - ❌ puu, mis ei ole okaspuu
 
 3. **Definitsioonis peaks olema toodud kõik olulised tunnused, mille poolest mõiste eristub naabermõistetest (lähedastest mõistetest)**  
 Näite: **toomingas**
-    - :heavy_check_mark: valgete lõhnavate õiekobarate ja mustade või punaste luuviljadega lehtpuu või -põõsas
-    - :x: lehtpuu
+    - ✔️ valgete lõhnavate õiekobarate ja mustade või punaste luuviljadega lehtpuu või -põõsas
+    - ❌ lehtpuu
 
 *<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/milline-peaks-olema-moiste-definitsioon/" target="_blank">terminoloogia.ee</a></sub>*
 
