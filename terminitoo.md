@@ -297,23 +297,23 @@ Näiteks esineb ükssarviku definitsioonis (*noor, hrl vähem kui 10 aastat tegu
 ##### Vormistuslik pool
 
 1. **Definitsioon peaks üldjuhul olema ühelauseline ja lõppema punktita.**
-    - :heavy_check_mark: väljakujunenud idufirma, mille väärtus on vähemalt 1 miljard USA dollarit
+:heavy_check_mark: väljakujunenud idufirma, mille väärtus on vähemalt 1 miljard USA dollarit
     - :x: Väljakujunenud idufirma, mille väärtus on vähemalt 1 miljard USA dollarit.
 
 2. **Lisainfoks sobib kasutada märkuse väljasid, mõnel juhul ka termini kasutusnäite välja. Definitsiooni märkus peaks olema lisatud definitsiooni märkuse väljale, mitte definitsiooniga samale väljale.**
 
 3. **Definitsiooni alguses ei tohiks olla korratud defineeritavat terminit. Definitsiooni alguses ei tohiks olla kasutatud ka tegusõnu, nagu nt on, viitab, kirjeldab.**
-    - :heavy_check_mark: väljakujunenud idufirma, mille väärtus on vähemalt 1 miljard USA dollarit
+    :heavy_check_mark: väljakujunenud idufirma, mille väärtus on vähemalt 1 miljard USA dollarit
     - :x: ükssarvik on väljakujunenud idufirma, mille väärtus on vähemalt 1 miljard USA dollarit
 
 4. **Definitsioon peaks olema esitatud ainsuses.**
     - :heavy_check_mark: väljakujunenud idufirma, mille väärtus on vähemalt 1 miljard USA dollarit
-    - :x: väljakujunenud idufirmad, mille väärtus on vähemalt 1 miljard USA dollarit
+:x: väljakujunenud idufirmad, mille väärtus on vähemalt 1 miljard USA dollarit
 
 5. **Definitsioonis ei tohiks olla kasutatud defineeritava mõiste kohta käivat terminit ega sünonüümi või lühendit.**  
 Näide: **idufirma** (sünonüüm *startup*)
     - :heavy_check_mark: alles käivituv suure kasvupotentsiaali ja uudse äriideega väikeettevõte
-    - :x: alles käivituv *startup*, millel on suur kasvupotentsiaal ja uudne äriidee
+    :x: alles käivituv *startup*, millel on suur kasvupotentsiaal ja uudne äriidee
 
 6. **Definitsioonis peaks olema kasutatud sama sõnaliiki kui termini puhul: tegusõna on defineeritud tegusõna või tegusõnafraasi abil, nimisõna nimisõna kaudu**  
 Näide: **toitumine**
