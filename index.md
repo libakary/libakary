@@ -33,7 +33,7 @@
 
 ### Mis on Ekilex?
 
-Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem. Ekilex asub aadressil <a href="https://ekilex.ee/" target="_blank">ekilex.ee</a> ja on kõigile, kes soovivad oma terminibaasi koostada, tasuta kasutatav. 
+**Ekilex on Eesti Keele Instituudi sõnastiku- ja terminibaasisüsteem.** Ekilex asub aadressil <a href="https://ekilex.ee/" target="_blank">ekilex.ee</a> ja on kõigile, kes soovivad oma terminibaasi koostada, tasuta kasutatav. 
 
 Kui Ekilex on töötamiskeskkond, siis kogu Ekilexi sisestatud teave saab kõigile avalikuks  <a href="https://sonaveeb.ee/" target="_blank">Sõnaveebis</a> – avalikus kasutajakeskkonnas.
 
@@ -43,12 +43,11 @@ Sõnaveebis on koos nii üldkeeleteave (EKI ühendsõnastik, mille eest vastutav
 
 Sõnaveeb asub aadressil <a href="https://sonaveeb.ee/" target="_blank">https://sonaveeb.ee</a>.
 
-Sõnaveebi otsingutulemustes kuvatakse **ülevalpool üldkeelesõnastikus leiduv teave, allpool aga oskussõnastikes ja terminibaasides leiduv teave**. Niisiis peate mõnikord võib-olla lehte allapoole kerima, et erialakeelega seonduvaid andmeid näha. Lugege <a href="https://terminoloogia.ee/ufaqs/mis-vahe-on-uld-ja-oskuskeelel/" target="_blank">siit</a> lähemalt, mis eristab eriala- ehk oskuskeelt üldkeelest.
+Sõnaveebi otsingutulemustes **kuvatakse ülevalpool üldkeelesõnastikus leiduv teave, allpool aga oskussõnastikes ja terminibaasides leiduv teave**. Niisiis peate mõnikord võib-olla lehte allapoole kerima, et erialakeelega seonduvaid andmeid näha. Lugege <a href="https://terminoloogia.ee/ufaqs/mis-vahe-on-uld-ja-oskuskeelel/" target="_blank">siit</a> lähemalt, mis eristab eriala- ehk oskuskeelt üldkeelest.
 
 <a href="images/Sonaveebi-vaade.png" target="_blank" rel="noreferrer noopener">
-    <img src="images/Sonaveebi-vaade.png" alt="Sõnaveebi vaade. Kirja “Oskussõnastikud” alt (pildil märgitud oranži kastikesega) leiate terminibaasidesse kantud teabe." width="700"/></a>   
-
-Pilt: Sõnaveebi vaade. Kirja “Oskussõnastikud” alt (pildil märgitud oranži kastikesega) leiate terminibaasidesse kantud teabe.
+    <img src="images/Sonaveebi-vaade.png" alt="Sõnaveebi vaade. Kirja “Oskussõnastikud” alt (pildil märgitud oranži kastikesega) leiate terminibaasidesse kantud teabe." width="700"/></a>  
+    Pilt: Sõnaveebi vaade. Kirja “Oskussõnastikud” alt (pildil märgitud oranži kastikesega) leiate terminibaasidesse kantud teabe.
 
 *<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/mis-on-sonaveeb-ja-kuidas-on-see-seotud-ekilexiga/" target="_blank">terminoloogia.ee</a></sub>*
 
