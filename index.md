@@ -18,7 +18,7 @@
   - [Sõnakogu muutmisõigused](#sõnakogu-muutmisõigused)
 - [Allikad](#allikad)
   - [Allikate otsing](#allikate-otsing)
-    - [Konkreetse allika viited mõistekirjades](#konkreetse-allika-viited-mõistekirjades)
+    - [Konkreetse allika viited mõistekirjetes](#konkreetse-allika-viited-mõistekirjetes)
     - [Kõikide terminibaasis viidatud allikate kuvamine](#kõikide-terminibaasis-viidatud-allikate-kuvamine)
   - [Allika loomine](#allika-loomine)
     - [Raamatu allikakirje näide](#raamatu-allikakirje-näide)
@@ -145,18 +145,17 @@ Pilt: Rippmenüüst rolli valimine
 
 ### Töölaud
 
-Pärast sisselogimist satub kasutaja töölauale. Töölauaks nimetame Ekilexi avalehte sisselogitud olekus, millele pääseb igalt lehelt, klõpsates vasakult ülanurgast avanevat rakenduse menüüd ja valides „Ekilex“. Töölaual on järgmised valikud:
+Pärast sisselogimist satub kasutaja töölauale. Töölauaks nimetame Ekilexi avalehte sisselogitud olekus, millele pääseb igalt lehelt, klõpsates vasakult ülanurgast avanevat rakenduse menüüd ja valides „Ekilex“.
 
+Järgnevalt on kirjeldatud töölaual asuvad funktsionaalsed valikud:
 - **Leksikograafid:** sõnapõhine vaade sõnakogudele, mõeldud tööks leksikograafidele
 - **Terminoloogid:** mõistepõhine vaade sõnakogudele, mõeldud tööks terminoloogidele
-- **Sünonüümid:** vaade sünonüümiseoste moodustamiseks ?
+- **Sünonüümid:** vaade sünonüümiseoste moodustamiseks
 - **Tõlkevasted:** vaade kakskeelsete (hetkel eesti-inglise) tõlkeseoste moodustamiseks.
 - **Allikate otsing:** allikate otsing, lisamine, muutmine, kustutamine
-- **Võrgustiku otsing:** mittefunktsionaalne?
 - **Kustutatud andmed:** võimaldab näha nimekirja kustutatud terminitest või mõistetest. Otsingufunktsioon puudub
 - **Sõnakogude haldus:** kõigi Ekilexis leiduvate sõnakogude loend ja lisamine, muutmine, kustutamine
 - **Sõnaveebi tagasiside:** võimalus lugeda Sõnaveeb.ee saidile jäetud tagasisidet
-- **Sõnaveebi statistika:** mittefunktsionaalne?
 - **Vali roll:** rippmenüü rolli valikuks. Siin tuleb valida selle sõnakogu muutja roll, milles olevaid andmeid soovid muuta. Kasutaja saab samaaegselt muuta ainult ühe sõnakogu andmeid. Muutja rolli olemasolu eelduseks on vastava sõnakogu muutmise õigus. Õiguseid saab juurde taotleda [kasutaja profiili halduses](#edaspidi-õiguste-taotlemine).
 
 Terminitööks soovitame kasutada terminoloogide otsingut ehk terminoloogi vaadet. Selle kasutamise kohta on laiemalt kirjutatud [Terminitöö kasutusjuhendis](/terminitoo.md).
@@ -540,7 +539,7 @@ Eri terminibaaside kontaktisikud leiab kõige paremini üles Sõnaveebi **sõnak
 
 *<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-naha-kes-on-moistekirje-termini-voi-muu-kirje-osise-lisanud/" target="_blank">terminoloogia.ee</a></sub>*
 
-<a href="https://ekilex.eki.ee/" target="_blank">Hakka pihta!</a>
+<a href="https://ekilex.ee/" target="_blank">Hakka pihta!</a>
 
 
 Küsimuste korral kirjuta [kasutajatugi@ekilex.ee](mailto:kasutajatugi@ekilex.ee)!

@@ -7,7 +7,7 @@
 ## Terminitöö sõnakoguga
 
 ### Sisukord
-  - [Terminite otsing](#terminite-otsing-1)
+  - [Terminite otsing](#terminite-otsing)
     - [Otsingutulemustes kindlale lehele minemine](#otsingutulemustes-kindlale-lehele-minemine)
     - [Otsingutulemused tabelina](#otsingutulemused-tabelina)
     - [Detailotsingu tegemine](#detailotsingu-tegemine)
@@ -60,6 +60,8 @@ Pilt: Terminoloogide vaates sõnakogude valimine
     <img src="images/2-sonakogude-valimine-2.gif" alt="Kindlate sõnakogude valimine" width="400"/></a>  
 Pilt: Kindlate sõnakogude valimine
 
+*Märkus: soovitame terminitööd tehes [valida kõik sõnakogud](#uue-mõistekirje-loomine), et olla kursis kõigi seotud terminitega.*
+
 4. **Sisestage otsisõna**. Kasutada võib **metamärke**: 
     - **?** = 1 suvaline tähemärk (nt kui otsid „m?iste“ siis leiate nt „mõiste“, „muiste“);
     - **\*** = 0 või rohkem suvalisi tähemärke. (nt kui otsid „\*hiir\*“, siis leiate nii „hiir“, „arvutihiir“, „hiirehernes“ kui „aedhiirehernes“.)
@@ -93,7 +95,7 @@ Pilt: Lehe all vasakul asuv lahter, kuhu saab lehe numbri sisestada
 
 #### Otsingutulemused tabelina
 
-Ekilexis saab mõistekirjete otsingutulemusi kuvada tabelina. See toimib **kuni 50 kirje puhul**. 
+Ekilexis saab terminoloogide vaates mõistekirjete otsingutulemusi kuvada tabelina. See toimib **kuni 50 kirje puhul**. Leksikograafide vaates ei ole see võimalik.  
 Et tabelivaadet näha, käituge järgmiselt.
 
 1. Tehke soovitud otsing.
@@ -176,6 +178,15 @@ Pilt: Detailotsingu peitmine
 
 *<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-peita-detailotsingu-kriteeriume/" target="_blank">terminoloogia.ee</a></sub>*
 
+
+#### Jäljemenüü
+
+Ekilexis nii Terminoloogi kui ka Leksikograafi osas on lehe all servas jäljemenüü ("leivapururada"), mis jätab meelde ning järjestab kõik unikaalsed läbikäidud terminid/mõisted ühe sessiooni vältel. Seda saab edasi-tagasi kerida, ning liikuda kõikide terminite/mõistete vahel. Ajalugu kustub, kui ?
+<a href="images/jaljemenuu.gif" target="_blank" rel="noreferrer noopener">
+    <img src="images/jaljemenuu.gif" alt="Jäljemenüü funktsiooni demonstratsioon" width="700"/></a>   
+
+Pilt: Jäljemenüü funktsiooni demonstratsioon
+
 ---
 
 
@@ -224,8 +235,8 @@ Video: Mõistekirje loomine Ekilexis-->
 Pilt: Terminoloogide vaates sõnakogude valimine
 
     - Kõiki sõnakogusid aitab valida nupp **"Vali kõik"**.  
-<a href="images/2-sonakogude-valimine-2.gif" target="_blank" rel="noreferrer noopener">
-      <img src="images/2-sonakogude-valimine-2.gif" alt='Sõnakogude valimisel saab vajutada nuppu "Vali kõik"' width="400"/></a>   
+<a href="images/koigi-sonakogude-valimine.gif" target="_blank" rel="noreferrer noopener">
+      <img src="images/koigi-sonakogude-valimine.gif" alt='Sõnakogude valimisel saab vajutada nuppu "Vali kõik"' width="600"/></a>   
 Pilt: Sõnakogude valimisel saab vajutada nuppu "Vali kõik"
 
 3. Vajutage sinisel navigeerimisribal **„Uus mõiste“**. Avaneb uue termini sisestusvorm. Seejärel
@@ -364,8 +375,7 @@ Kui juhtumisi on loodud mitu allikakirjet samale allikale, saab neid ühendada k
 
 Ekilexi kontekstis nimetatakse allikakirjeid ka lühemalt lihtsalt **allikateks**. 
 
-Allikakirjete otsimine, lisamine ja muutmine on kirjeldatud lähemalt siin: [Allikad](/index.md#allikad).
-<!-- ei tööta lehel-->
+Allikakirjete otsimine, lisamine ja muutmine on kirjeldatud lähemalt siin: [Allikad](./index.md#allikad).
 
 Kui allikas on loodud, siis saab mõistekirjes tekitada sellele erinevate väljade juures (nagu termin, märkus, definitsioon) **viiteid**. 
 
@@ -374,7 +384,7 @@ Kui allikas on loodud, siis saab mõistekirjes tekitada sellele erinevate välja
     <img src="images/allikaviide3.gif" alt="Seletuse teksti peale liikudes ilmub hall Allikaviite lisamise nupp, kastikese ja noole ikooniga" width="600"/></a> 
 Pilt: Seletuse teksti peale liikudes ilmub hall Allikaviite lisamise nupp, kastikese ja noole ikooniga
 
-    1. Vajutades avaneb allikaviite otsing. Seal saab otsida kõikide allika atribuutide järgi, kaasa arvatud tema nime (SOURCE_NAME) järgi. <!-- kas seda kommentaari lõppu on vaja enam?? mdea mis source name täpselt on-->
+    1. Vajutades avaneb allikaviite otsing. Seal saab otsida kõikide allika atribuutide järgi, kaasa arvatud tema lühinime järgi.
 
     2. Allika otsimisel on kindlasti abiks tärn „\*“, sest selle abil saab leida osalisi vasteid. Nt otsides "int\*meteo\*" leitakse "INTERNATIONAL METEOROLOGICAL VOCABULARY", sest * asendab suvalist arvu märke. Kui nimesid on mitu, nagu selles näites, saab raadionupuga valida selle nime, mida hakatakse kuvama allikaviitena.  
 <a href="images/allikaviide4.gif" target="_blank" rel="noreferrer noopener">
@@ -558,8 +568,6 @@ Ekilexis saab mitteavalikuks muuta ka neid välju, mis on muidu avalikud (termin
 
 
 #### Piltide lisamine tekstiväljadele
-
-(Hetkel mittefunktsionaalne 01.04.2023)
 
 **Mõistekirje tekstiväljadele** (definitsioon, märkus, kontekst jm) **saab lisada pilte**. Need võimaldavad kirja panna erisümboleid sisaldavaid valemeid ja muud teavet, mida on tavapäraste tekstitööriistade abil keerukas sisestada.
 
@@ -783,7 +791,7 @@ Kõiki mõistekirjeid korraga näeb siis, kui:
 
 1. minna terminoloogide otsingusse,
 2. siniselt ribalt valida detailotsing,
-3. **veenduda, et „Valitud sõnakogude“ alt on valitud soovitud terminibaas**;
+3. veenduda, et „Valitud sõnakogude“ alt on valitud soovitud terminibaas;
 4. esimesest rippmenüüst valida „mõiste“,
 5. teisest rippmenüüst valida „muutmise aeg“,
 6. kolmandast rippmenüüst valida „on varasem kui“,
