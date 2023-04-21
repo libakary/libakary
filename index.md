@@ -287,7 +287,7 @@ Seejärel avaneb terminoloogide vaates (seal, kus tavaliselt mõistekirjeid luua
 
 <a href="images/sonakogu-valimine-2.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/sonakogu-valimine-2.gif" alt='Kindla sõnakogu valimine' width="400"/></a>   
-Pilt: Kindla sõnakogu valimine  
+    Pilt: Kindla sõnakogu valimine  
 
 Kui õige sõnakogu on enne allikate otsingu tegemist valitud, siis näete pärast allikaviidete otsimist kõiki kirjeid, kus konkreetsele allikale viidatud on.
 
@@ -302,25 +302,25 @@ Selleks, et näha **kõiki** allikakirjeid, mida olete terminibaasis kasutanud, 
 1. Minema vasakul nurgas olevast menüüst **Allikate otsingusse**.   
 <a href="images/allikate-otsingusse-minemine.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/allikate-otsingusse-minemine.gif" alt='Ülevalt vasakult avanev põhimenüü, sealt valik' width="300"/></a>   
-Pilt: Ülevalt vasakult avanev põhimenüü, sealt valik  
+    Pilt: Ülevalt vasakult avanev põhimenüü, sealt valik  
 
 2. Valima siniselt ribalt **detailotsingu**.  
 <a href="images/allikate-detailotsingu-valimine.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/allikate-detailotsingu-valimine.gif" alt='Lihtotsingust Detailotsingusse vahetamine' width="500"/></a>   
-Pilt: Lihtotsingust Detailotsingusse vahetamine  
+    Pilt: Lihtotsingust Detailotsingusse vahetamine  
 
-3. esimesest rippmenüüst valima **„allikas“**,
+3. Esimesest rippmenüüst valima **"allikas"**.
 
-4. teisest rippmenüüst valima **„kasutatud sõnakogus“**,
+4. Teisest rippmenüüst valima **"kasutatud sõnakogus"**.
 
-5. kolmandast rippmenüüst valima **„on“**,
+5. Kolmandast rippmenüüst valima **"on"**.
 
-6. neljandast rippmenüüst valima **oma terminibaasi** (näites Katsebaas),
+6. Neljandast rippmenüüst valima **oma terminibaasi** (näites Katsebaas).
 
-7. vajutama **„Otsi“**.  
+7. Vajutama **"Otsi"**.  
 <a href="images/Allikate-detailotsing-kasutatud-sonakogus-1024x253.png" target="_blank" rel="noreferrer noopener">
     <img src="images/Allikate-detailotsing-kasutatud-sonakogus-1024x253.png" alt='Detailotsingu valikud' width="600"/></a>    
-Pilt: Detailotsingu valikud
+    Pilt: Detailotsingu valikud
 
 Seejärel **näete kõiki allikaid, millele teie terminibaasis on viidatud**.
 
@@ -333,29 +333,29 @@ Seejärel **näete kõiki allikaid, millele teie terminibaasis on viidatud**.
 <!--{% include youtube.html id="sYKciBlkbHc" %}
 Video: Allikakirje loomine Ekilexis-->
 
-<sub>NB! Enne uue allika lisamist võiksite teha allika nimega otsingu, et veenduda, ega sama allikakirjet pole juba lisatud.</sub>
+**NB!** Enne uue allika lisamist võiksite teha allika nimega otsingu, et veenduda, ega sama allikakirjet pole juba lisatud.
 
-1. Allikakirjeid saab lisada valides rakenduse menüüst **„Allikate otsing“** ja avanenud lehel vajutades **„Lisa uus allikas“**.  
+1. Allikakirjeid saate lisada valides rakenduse menüüst **"Allikate otsing"** ja avanenud lehel vajutades **"Lisa uus allikas"**.  
 <a href="images/1-lisa-uus-allikas.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/1-lisa-uus-allikas.gif" alt='Nupp "Lisa uus allikas"' width="400"/></a>   
-Pilt: Nupp "Lisa uus allikas"
+    Pilt: Nupp "Lisa uus allikas"
 
-2. **Pealkiri** on kirjaliku allika (näiteks raamatu) puhul harilikult selle **pealkiri**, aga selle võib vajadusel ka ise vabalt valida. Allika nimi kuvatakse ka allikaviitena mõiste kirjes.
+2. **Pealkiri** on kirjaliku allika (näiteks raamatu) puhul harilikult selle **pealkiri**, aga selle võite vajadusel ka ise vabalt valida. Allika nimi kuvatakse ka allikaviitena mõistekirjes.
 
-3. Kui allikal on väga pikk nimi ja seda on samas mõistekirjes vaja kasutada mitmes kohas, võib allikale leiutada mingi lühendi (**Lühinimi**) ja lisada see lühend ühe nimetusena (nt „WMO“), siis saab mõistekirjes kasutada lühendit ja see ei võta nii palju ruumi ekraanil.  
+3. Kui allikal on väga pikk nimi ja seda on samas mõistekirjes vaja kasutada mitmes kohas, võite allikale leiutada mingi lühendi (**Lühinimi**) ja lisada see lühend ühe nimetusena (nt "WMO"), siis saate mõistekirjes kasutada lühendit ja see ei võta nii palju ruumi ekraanil.  
 <a href="images/raamat-luhinimi.png" target="_blank" rel="noreferrer noopener">
     <img src="images/raamat-luhinimi.png" alt='Lühinime väli on pildil näidatud punase kastiga' width="500"/></a>   
-Pilt: Lühinime väli on pildil näidatud punase kastiga
+    Pilt: Lühinime väli on pildil näidatud punase kastiga
 
 3. Allika **tüübiks** tuleb kirjaliku allika puhul valida Dokument.
 
-4. Alumises kastis saab allikale lisada muid informatiivseid välju (**atribuute**), näiteks vaikimisi on seal valitud autor. Kui raamatul on mitu autorit, võib iga ühe jaoks luua eraldi välja, aga pole ka probleemi, kui nad pannakse komadega eraldatult samale väljale. Samale väljale pannakse vajadusel ka autori tüüp, nt „koostanud Juhan Juurikas“ või „toimetanud J. Tatikas“.
+4. Alumises kastis saate allikale lisada muid informatiivseid välju (**atribuute**), näiteks vaikimisi on seal valitud autor. Kui raamatul on mitu autorit, võite iga ühe jaoks luua eraldi välja, aga pole ka probleemi, kui nad panete komadega eraldatult samale väljale. Samale väljale pannakse vajadusel ka autori tüüp, nt "koostanud Juhan Juurikas" või "toimetanud J. Tatikas".
 
-5. Vajutades rohelisele **„+“** nupule saab allikale lisada veel uusi välju. Samuti saab allikale välju lisada hiljem, kui allikas on juba loodud. Saab ka eemaldada välju punase **„-“** nupuga.
+5. Vajutades rohelisele **"+"** nupule saate allikale lisada veel uusi välju. Samuti saate allikale välju lisada hiljem, kui allikas on juba loodud. Saate ka eemaldada välju punase **"-"** nupuga.
 
-6. Ühel allikal võib olla ka **mitu nime**, näiteks pealkiri erinevates keeltes. Nimesid saab juurde lisada nii, nagu ka muid allika välju (valides välja tüübiks Lühinimi/pealkiri). 
+6. Ühel allikal võib olla ka **mitu nime**, näiteks pealkiri erinevates keeltes. Nimesid saate juurde lisada nii, nagu ka muid allika välju (valides välja tüübiks Lühinimi/pealkiri). 
 
-7. Vajutage nuppu **“Lisa”**.
+7. Vajutage nuppu **"Lisa"**.
 
 *<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-allikakirjesse-luhinime/" target="_blank">terminoloogia.ee</a></sub>*
 
@@ -367,8 +367,7 @@ Pilt: Lühinime väli on pildil näidatud punase kastiga
 
 <a href="images/Raamatu-kirje-naide.png" target="_blank" rel="noreferrer noopener">
     <img src="images/Raamatu-kirje-naide.png" alt='Raamatu allikakirje näide Ekilexis - UVEÕS' width="400"/></a>  
-
-Pilt: Raamatu allikakirje näide Ekilexis - UVEÕS
+    Pilt: Raamatu allikakirje näide Ekilexis - UVEÕS
 
 1. **Tüüp**: Dokument
 2. **Lühinimi/pealkiri**: pealkiri
@@ -383,35 +382,33 @@ Pilt: Raamatu allikakirje näide Ekilexis - UVEÕS
 
 ##### Eesti õigusakti allikakirje näide
 
-**Eesti õigusaktid** leiab **Riigi Teatajast**. Õigusakti allikakirje jaoks vajalik info on valdavalt **õigusakti netiversiooni päises**.
+**Eesti õigusaktid** leiate **Riigi Teatajast**. Õigusakti allikakirje jaoks vajalik info on valdavalt **õigusakti netiversiooni päises**.
 
 <a href="images/RT-uus-uus.png" target="_blank" rel="noreferrer noopener">
     <img src="images/RT-uus-uus.png" alt='Näide õigusakti päisest - riigilõivuseadus' width="500"/></a> 
-
-Pilt: Näide õigusakti päisest - <a href="https://www.riigiteataja.ee/akt/122052020003" target="_blank">riigilõivuseadus</a>
+    Pilt: Näide õigusakti päisest - <a href="https://www.riigiteataja.ee/akt/122052020003" target="_blank">riigilõivuseadus</a>
 
 Eesti õigusakti kohta koostatud allikakirjes võiksid täidetud olla järgmised väljad:
 
 <a href="images/RT-naide.PNG" target="_blank" rel="noreferrer noopener">
-    <img src="images/RT-naide.PNG" alt='Eesti õigusakti näide Ekilexis - RLS-2020/05/3' width="400"/></a> 
-    
-Pilt: Eesti õigusakti näide Ekilexis - RLS-2020/05/3
+    <img src="images/RT-naide.PNG" alt='Eesti õigusakti näide Ekilexis - RLS-2020/05/3' width="400"/></a>  
+    Pilt: Eesti õigusakti näide Ekilexis - RLS-2020/05/3
 
 1. **Allika tüüp**: Dokument
 
-2. **Lühinimi/pealkiri**: (nt **Riigilõivuseadus (terviktekst mai 2020, 3)**). Soovitame märkida seaduse (vm õigusakti) nime järele sulgudes info konkreetse redaktsiooni kohta. Sulgudesse võiks märkida **teksti liigi, avaldamise kuu** (pikemate kuunimede korral lühendiga) ja komaga eraldatult **redaktsiooni** (vt avaldamismärke viimast arvu).
+2. **Lühinimi/pealkiri**: (nt **Riigilõivuseadus (terviktekst mai 2020, 3)**). Soovitame märkida seaduse (vm õigusakti) nime järele sulgudes info konkreetse redaktsiooni kohta. Sulgudesse võite märkida **teksti liigi, avaldamise kuu** (pikemate kuunimede korral lühendiga) ja komaga eraldatult **redaktsiooni** (vt avaldamismärke viimast arvu).
 
-3. **Lühinimi/pealkiri**: lühinimetus, millega mõistekirjetes viidata (nt kujul **RLS-2020/05/3**). Siin on kombineeritud õigusakti ametlik lühend (nt **RLS**), mille leiab õigusakti netiversioonist, ning avaldamismärke andmed kujul **aasta/kuu/redaktsioon** (nt **2020/05/3**).
+3. **Lühinimi/pealkiri**: lühinimetus, millega mõistekirjetes viidata (nt kujul **RLS-2020/05/3**). Siin on kombineeritud õigusakti ametlik lühend (nt **RLS**), mille leiate õigusakti netiversioonist, ning avaldamismärke andmed kujul **aasta/kuu/redaktsioon** (nt **2020/05/3**).
 
-4. **Riigi Teataja viide**: Riigi Teataja viide (nt **RT I, 30.12.2014, 1; RT I, 22.05.2020, 3**). Tegu on avaldamismärgetega. Semikoolonile eelnev märge (RT I, 30.12.2014, 1) viitab õigusakti esimesele redaktsioonile. Selle leiab õigusakti netiversioonis **pealkirja alt**. Teine on konkreetse redaktsiooni avaldamismärge (RT I, 22.05.2020, 3), mis on toodud **päises**.
+4. **Riigi Teataja viide**: Riigi Teataja viide (nt **RT I, 30.12.2014, 1; RT I, 22.05.2020, 3**). Tegu on avaldamismärgetega. Semikoolonile eelnev märge (RT I, 30.12.2014, 1) viitab õigusakti esimesele redaktsioonile. Selle leiate õigusakti netiversioonis **pealkirja alt**. Teine on konkreetse redaktsiooni avaldamismärge (RT I, 22.05.2020, 3), mis on toodud **päises**.
 
-5. **URL**: internetiaadress (nt **https://www.riigiteataja.ee/akt/122052020003**). Kindlasti peaks veenduma, et internetiaadressi lõpus **ei oleks teksti „?leiaKehtiv“**. Sellise aadressiga leitakse vaatamise hetkel kehtiv redaktsioon, mille tekst aga ei pruugi kattuda sellega, mis oli allika- ja mõistekirje loomise ajal. Nii võib olla, et mõistekirjes sisalduvaid termineid, definitsioone või kontekste ei leidugi selles õigusaktis, mille juurde „?leiaKehtiv“-aadress viib, kuna need esinesid varasemas redaktsioonis.
+5. **URL**: internetiaadress (nt **https://www.riigiteataja.ee/akt/122052020003**). Kindlasti peate veenduma, et internetiaadressi lõpus **ei oleks teksti "?leiaKehtiv"**. Sellise aadressiga leitakse vaatamise hetkel kehtiv redaktsioon, mille tekst aga ei pruugi kattuda sellega, mis oli allika- ja mõistekirje loomise ajal. Nii võib olla, et mõistekirjes sisalduvaid termineid, definitsioone või kontekste ei leidugi selles õigusaktis, mille juurde "?leiaKehtiv"-aadress viib, kuna need esinesid varasemas redaktsioonis.
 
 6. **Autor**: õigusakti väljaandja (seadustel enamasti **Riigikogu**, määrustel **Vabariigi Valitsus, ministrid** jt)
 
 7. **Ilmumisaeg**: (nt **2020**).
 
-Kogu teave on oluline, kuna annab infot õigusakti konkreetse redaktsiooni kohta. See ei tähenda, et kehtivuse kaotanud allika kirje või viite sellele mõistekirjes peaks kustutama. Kui leiate allikakirje kehtivuse kaotanud õigusakti kohta, võite lisada kirjesse sellekohase märkuse („**Märkus**“), nt „**Redaktsiooni kehtivuse lõpp: 06.01.2017.**“ Ka info kehtimisaja lõpu kohta leiab akti netiversiooni päisest.
+Kogu teave on oluline, kuna annab infot õigusakti konkreetse redaktsiooni kohta. See ei tähenda, et kehtivuse kaotanud allika kirje või viite sellele mõistekirjes peaks kustutama. Kui leiate allikakirje kehtivuse kaotanud õigusakti kohta, võite lisada kirjesse sellekohase märkuse (**"Märkus"**), nt **"Redaktsiooni kehtivuse lõpp: 06.01.2017."** Ka info kehtimisaja lõpu kohta leiab akti netiversiooni päisest.
 
 ---
 
@@ -432,14 +429,14 @@ Pilt: ELi õigusakti kirje näide Ekilexis - 32019L0882
 
 3. **Lühinimi/pealkiri**: **CELEXi number**. CELEXi numbriga peaks pika pealkirja asemel ka mõistekirjes viitama.
 
-4. **CELEXi number** (nt **32019L0882**): ainulaadne identifikaator, mis on enamikel ELi õigusaktidel. See on toodud lehe ülaosas (kujul „Document 32014L0024“).
+4. **CELEXi number** (nt **32019L0882**): ainulaadne identifikaator, mis on enamikel ELi õigusaktidel. See on toodud lehe ülaosas (kujul "Document 32014L0024").
 
-5. **URL**: ingliskeelse teksti **PDF-aadress**. Selleks peab jaotusest „Languages, formats and link to OJ“ valima „EN“ alt PDF-versiooni ja kopeerima selle aadressi.
+5. **URL**: ingliskeelse teksti **PDF-aadress**. Selleks peab jaotusest "Languages, formats and link to OJ" valima "EN" alt PDF-versiooni ja kopeerima selle aadressi.
 
 6. **Ilmumisaeg**: ilmumise aastaarv, mis on dokumendi teksti päises toodud.
 
 <a href="images/Eurlex-uus.png" target="_blank" rel="noreferrer noopener">
-    <img src="images/Eurlex-uus.png" alt='Kuvatõmmis EUR-Lexi dokumendi 32019L0882' width="500"/></a>  
+    <img src="images/Eurlex-uus.png" alt='Kuvatõmmis EUR-Lexi dokumendi 32019L0882' width="600"/></a>  
 
 Pilt: Kuvatõmmis EUR-Lexi dokumendi 32019L0882 <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1591951781602&uri=CELEX%3A32019L0882" target="_blank">lehelt</a> 
 
@@ -458,36 +455,39 @@ Kui võimalik, on parem aga eesti terminite, definitsioonide ja kontekstide alli
 
 Allika muutmine tähendab siis sisuliselt allikakirje mõne välja ehk allika atribuudi lisamist/muutmist/kustutamist.
 
-1. Valige rakenduse menüüst **„Allikate otsing“**.
+1. Valige rakenduse menüüst **"Allikate otsing"**.
 
 2. Atribuudi **lisamiseks**:
     1. Otsige allikas, mida tahate muuta.
-    2. Vajutage rohelisele „+“ nupule. Avaneb atribuudi lisamise vorm.
-    3. Valige rippmenüüst atribuudi tüüp.
-    4. Sisestage all olevale väljale atribuudi väärtus.
-    5. Vajutage „Lisa“.  
-    <a href="images/atribuudi-lisamine.gif" target="_blank" rel="noreferrer noopener">
+    2. Vajutage rohelisele **"+"** nupule. Avaneb atribuudi lisamise vorm.
+    3. Valige rippmenüüst **atribuudi tüüp**.
+    4. Sisestage all olevale väljale **atribuudi väärtus**.
+    5. Vajutage **"Lisa"**.  
+<a href="images/atribuudi-lisamine.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/atribuudi-lisamine.gif" alt='Allikale atribuudi lisamine' width="600"/></a>  
     Pilt: Allikale atribuudi lisamine
 
 3. Atribuudi **muutmiseks**:
     1. Otsige allikas, mida tahate muuta.
-    2. Liikuge hiire kursoriga **välja peale**, mida tahate muuta. Välja lõppu tekivad nupukesed.  
-    <a href="images/artikkel-jm-luhinimi-3-muuda.png.gif" target="_blank" rel="noreferrer noopener">
-    <img src="images/artikkel-jm-luhinimi-3-muuda.png.gif" alt='Välja lõppu tekivad muutmis- ja kustutamisnupp' width="400"/></a>  
-    Pilt: Välja lõppu tekivad muutmis- ja kustutamisnupp
-    3. Vajutage sinisele nupukesele **„Muuda“**.
+    2. Liikuge **hiire kursoriga välja peale**, mida tahate muuta. Välja lõppu tekivad nupukesed.  
+<a href="images/artikkel-jm-luhinimi-3-muuda.png.gif" target="_blank" rel="noreferrer noopener">  
+    <img src="images/artikkel-jm-luhinimi-3-muuda.png.gif" alt='Välja lõppu tekivad muutmis- ja kustutamisnupp' width="500"/></a>  
+    Pilt: Välja lõppu tekivad muutmis- ja kustutamisnupp  
+    3. Vajutage sinisele nupukesele **"Muuda"**.
     4. Avaneb välja muutmisvorm.
-    5. Muutke välja sisu, salvestamiseks vajutage **„Muuda“**.  
-    <a href="images/artikkel-jm-luhinimi-4-muuda.png.gif" target="_blank" rel="noreferrer noopener">
+    5. Muutke välja sisu, salvestamiseks vajutage **"Muuda"**.  
+<a href="images/artikkel-jm-luhinimi-4-muuda.png.gif" target="_blank" rel="noreferrer noopener">  
     <img src="images/artikkel-jm-luhinimi-4-muuda.png.gif" alt='Sisu lisamine ja salvestamine' width="600"/></a>  
     Pilt: Sisu lisamine ja salvestamine
 
 4. Atribuudi **kustutamiseks**:
     1. Otsige allikas, mida tahate muuta.
-    2. Liikuge hiire kursoriga **välja peale**, mida tahate muuta. Välja lõppu tekivad nupukesed.
-    3. Vajutage kollasele nupukesele **„x“** („Kustuta“).
-    4. Küsitakse kustutamise kinnitust. Vajutage **„Jah“**.
+    2. Liikuge **hiire kursoriga välja peale**, mida tahate muuta. Välja lõppu tekivad nupukesed.
+    3. Vajutage kollasele nupukesele **"x"** ("Kustuta").
+    4. Küsitakse kustutamise kinnitust. Vajutage **"Jah"**.  
+<a href="images/atribuudi-kustutamine.gif" target="_blank" rel="noreferrer noopener">  
+    <img src="images/atribuudi-kustutamine.gif" alt='Atribuudi kustutamine' width="500"/></a>  
+    Pilt: Atribuudi kustutamine
 
 *<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-allikakirjesse-luhinime/" target="_blank">terminoloogia.ee</a></sub>*
 
@@ -496,11 +496,11 @@ Allika muutmine tähendab siis sisuliselt allikakirje mõne välja ehk allika at
 #### Allika kustutamine
 
 Allikakirje kustutamiseks:
-1. Valige rakenduse menüüst **„Allikate otsing“**.
+1. Valige rakenduse menüüst **"Allikate otsing"**.
 
 2. Otsige allikas, mida tahate kustutada
 
-3. Vajutage kollasele nupule „Eemalda allikas“. Kinnitage kustutamine vajutades "Jah".  
+3. Vajutage kollasele nupule **"Eemalda allikas"**. Kinnitage kustutamine vajutades **"Jah"**.  
 <a href="images/allika-kustutamine.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/allika-kustutamine.gif" alt='Allika kustutamine' width="500"/></a>  
 Pilt: Allika kustutamine
@@ -510,11 +510,11 @@ Pilt: Allika kustutamine
 #### Allikate ühendamine
 
 Allikakirjete ühendamiseks:
-1. Valige rakenduse menüüst **„Allikate otsing“**.
+1. Valige rakenduse menüüst **"Allikate otsing"**.
 
-2. Otsige allikas, mida tahad ühendada.
+2. Otsige allikas, mida tahate ühendada.
 
-3. Vajutage sinisele nupule "Ühenda".  
+3. Vajutage sinisele nupule **"Ühenda"**.  
 <a href="images/allikate-uhendamine1.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/allikate-uhendamine1.gif" alt='"Ühenda" nupu vajutus viib uuele lehele' width="600"/></a>   
 Pilt: "Ühenda" nupu vajutus viib uuele lehele
@@ -524,7 +524,7 @@ Pilt: "Ühenda" nupu vajutus viib uuele lehele
     <img src="images/allikate-uhendamine2.gif" alt='Teise allika otsing' width="700"/></a>   
 Pilt: Teise allika otsing
 
-5. Vajutage siin sinisele nupule "Ühenda", kinnitage toiming vajutades "Jah".  
+5. Vajutage siin sinisele nupule **"Ühenda"**, kinnitage toiming vajutades **"Jah"**.  
 <a href="images/allikate-uhendamine3.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/allikate-uhendamine3.gif" alt='Allikate ühendamise kinnitamine' width="700"/></a>   
 Pilt: Allikate ühendamise kinnitamine
@@ -540,7 +540,7 @@ Logi asub **mõistekirje üleval paremas nurgas**.
     <img src="images/Logi.gif" alt='Nupp asub mõistekirje üleval paremas nurgas, avaneb aken kust saab kuvada muutjaid ja muudetud andmeid' width="600"/></a>  
 Pilt: Nupp asub mõistekirje üleval paremas nurgas, avaneb aken kust saab kuvada muutjaid ja muudetud andmeid
 
-Logis on üsna palju tehnilist informatsiooni. Logisse süvenedes aga võib näha, et **seal kajastub info ka selle kohta, kes on kirje iga välja loonud**. Kõige alla kerides leiate selle inimese nime, kes lisas esimese termini ehk pani aluse kogu mõistekirjele (näites “keelend ükssarvik”).
+Logis on üsna palju tehnilist informatsiooni. Logisse süvenedes aga võib näha, et **seal kajastub info ka selle kohta, kes on kirje iga välja loonud**. Kõige alla kerides leiate selle inimese nime, kes lisas esimese termini ehk pani aluse kogu mõistekirjele (näites "keelend ükssarvik").
 
 Ka **allikakirjete** juures asub logi üleval paremas nurgas.
 
