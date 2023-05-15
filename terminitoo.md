@@ -128,13 +128,11 @@ On võimalik tulemusi laiendada "?" ja "\*" metamärkidega, aga palju täpsemaid
 
 - Esimese lahtri "termin" alt rippmenüüst saate valida, millise võimaliku mõistekirje osa kohta otsing käib. Vaikimisi on terminivaates "termin".
 - Märkeruut halli ala alguses, kui märgitud, muudab otsingu eitavaks/negatiivseks. Näiteks ülemise näite puhul selle märkimine teeks otsingu terminite kohta, mille väärtus **ei ole** sisestatud sõna.
-- Teise lahtri "väärtus" alt rippmenüüst saate valida, millise mõistekirje osa elemendi kohta otsing käib.
+- Teise lahtri "väärtus" alt rippmenüüst saate valida, millise mõistekirje elemendi kohta otsing käib.
 - Kolmanda lahtri "on" alt rippmenüüst saate valida, milline suhe on järgnevalt sisestatud infol otsitava elemendiga.
-- Neljanda lahtri tühi ala on tekstikast kuhu otsitav info kirjutada.
-- Suure halli ala sees olev "+" annab võimaluse lisada sama mõistekirje osa otsingu kohta veel võrdselt kehtivaid parameetreid.
-- Eraldiseisev plussmärk annab võimaluse samas otsingus leida mitme erineva tingimusega termineid ?? lause kuidas?? ma ei saa vist täielikult aru sellest et seda kirjeldada :/
-<!--lause parandada!-->
-
+- Neljanda lahtri tühi ala on tekstikast, kuhu otsitav info kirjutada.
+- Suure halli ala sees olev "+" annab võimaluse otsida vasteid, mis vastavad mitmele tingimusele korraga, kitsam otsing.
+- Eraldiseisev plussmärk annab võimaluse otsida vasteid, mis vastavad vähemalt ühele või teisele tingimusele, laiem otsing.
 
 **Näide:**
 
@@ -189,7 +187,7 @@ Ekilexis on detailotsing, mis võimaldab terminibaasist kindlate kriteeriumide a
 
 #### Jäljemenüü
 
-Ekilexis nii Terminoloogi kui ka Leksikograafi osas on lehe all servas **jäljemenüü** ("leivapururada"), mis jätab meelde ning järjestab kõik unikaalsed läbikäidud terminid ühe sessiooni vältel. Seda saab edasi-tagasi kerida, ning liikuda kõikide terminite vahel. Ajalugu kustub, kui ? <!-- millal???-->  
+Ekilexis nii Terminoloogi kui ka Leksikograafi osas on lehe all servas **jäljemenüü** ("leivapururada"), mis jätab meelde ning järjestab kõik terminid, mis on ühe sessiooni vältel tekkinud. Seda saab edasi-tagasi kerida, ning liikuda kõikide terminite vahel.  
 <a href="images/jaljemenuu.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/jaljemenuu.gif" alt="Jäljemenüü funktsiooni demonstratsioon" width="700"/></a>  
     Pilt: Jäljemenüü funktsiooni demonstratsioon
@@ -366,6 +364,11 @@ Definitsiooni saab lisada mõistekirje ülaosast mõisteplokist.
     Pilt: Terminoloogia vaates Seletuse lisamine
 
 2. Kopeerige või kirjutage soovitud definitsioon avanenud akna **tekstiväljale**.
+    - Valikuga "RÕHK" saab märkida sõna rõhku 
+    - Valikuga "TSIT" saab märkida kursiivi ehk kaldkirja
+    - Valikuda "ESIL" saab märkida poolpaksu ehk rasvast kirja
+    <!-- - Valikuga "META" saab ?-->
+    <!-- see läheb muutmisele aga mitte enne 1.30, lisada siiis gif? -->
 
 3. Valige definitsiooni **keel**.
 
@@ -373,8 +376,6 @@ Definitsiooni saab lisada mõistekirje ülaosast mõisteplokist.
 <a href="images/def-2.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/def-2.gif" alt="Definitsiooni andmete lisamine" width="600"/></a>   
     Pilt: Definitsiooni andmete lisamine
-
-<!-- siia kirja mida need rõhk jms nupud kõik teevad ja mille jaoks need on, aga alles pärast 1.29 update'i? -->
 
 *<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-moistekirjesse-definitsiooni/" target="_blank">terminoloogia.ee</a></sub>*
 

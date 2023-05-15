@@ -85,6 +85,7 @@ Sõnaveebi otsingutulemustes **kuvatakse ülevalpool üldkeelesõnastikus leiduv
     2. Muutmisõiguse taotlemise korral vajutage ka **"Soovin põhjendada taotlust"** ja kirjutage lahtrisse lühidalt, kuidas olete sõnakoguga seotud. **Põhjendus on kohustuslik**.
     3. Seejärel vajutage **"Saada taotlus"**.
     4. Nüüd tuleb oodata, kuni Ekilexi administraator annab teile küsitud õigused. **Selle kohta saadetakse e-kiri**. Pärast seda saate hakata Ekilexi kasutama. Kui olete õiguste saamise hetkel (e-kirja saabumise hetkel) Ekilexi sisse logitud, peate kõigepealt välja logima ja siis uuesti sisse logima, selleks, et õigused rakenduksid.
+<!-- kas on vaja uuendada 1.29.0 põhiselt? -->
 
 ---
 
@@ -92,27 +93,18 @@ Sõnaveebi otsingutulemustes **kuvatakse ülevalpool üldkeelesõnastikus leiduv
 
 Kui olete juba ekilexi vaatamisõiguse või mõne sõnakogu muutmisõigused omandanud, saate teiste sõnakogude õigusi omandada järgmiselt:
 
-<!-- Hetkel vaid testbaasis selline? -->
-<!--2. Profiilihalduse lehel on sinine nupp **"Esita uus taotlus"**. Sellele klõpsates avaneb taotluse saatmise aken. Pead **valima sõnakogu**, millele õiguseid taotleda, **kas soovid Muutja või Lugejaõigusi** ning **mis keeles**. Samuti tuleb lisada **põhjendus**, miks soovite sellele sõnakogule ligipääsu. Seejärel vajuta **"Saada taotlus"**.
-![Alt text](images/oiguse-taotlemine2.gif)  
-Pilt:-->
-
 1. Klõpsake üleval sinise riba paremal pool oma nimele ja avage **"Kasutaja profiili haldus"**.  
 <a href="images/oiguse-taotlemine1.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/oiguse-taotlemine1.gif" alt="Kasutaja klõpsamisel ilmuv rippmenüü" width="300"/></a>   
     Pilt: Kasutaja klõpsamisel ilmuv rippmenüü
 
-2. Profiilihalduse lehel on sinine nupp **"Esita uus taotlus"**. Sellele klõpsates avaneb **taotluse saatmise aken**. Seal saab lisada **põhjenduse**, miks soovite sõnakogudele ligipääsu. 
-<a href="images/oiguse-taotlemine2.0.gif" target="_blank" rel="noreferrer noopener">
-    <img src="images/oiguse-taotlemine2.0.gif" alt="Taotluse akna avamine ja põhjuse lisamine" width="700"/></a>  
-    Pilt: Taotluse akna avamine ja põhjuse lisamine
+<!-- Uuendatud 1.29.0 live põhiselt -->
+2. Profiilihalduse lehel on sinine nupp **"Esita uus taotlus"**. Sellele klõpsates avaneb taotluse saatmise aken. Pead **valima sõnakogu**, millele õiguseid taotleda, kas soovid **Muutja- või Lugejaõigusi** ning **mis keeles**. Samuti tuleb lisada **põhjendus**, miks soovite sellele sõnakogule ligipääsu. Seejärel vajuta **"Saada taotlus"**.  
+<a href="images/oiguse-taotlemine2.gif" target="_blank" rel="noreferrer noopener">
+    <img src="images/oiguse-taotlemine2.gif" alt="Taotluse akna avamine ja täitmine" width="700"/></a>  
+    Pilt: Taotluse akna avamine ja täitmine
 
-3. Vajutades nuppu **"Märgi sõnakogud, millele soovid õigusi"** avaneb nimekiri sõnakogudest. **Märgi linnukesega** need, millele soovid õigusi, ning vajuta **"Saada taotlus"**.  
-<a href="images/oiguse-taotlemine2.1.gif" target="_blank" rel="noreferrer noopener">
-    <img src="images/oiguse-taotlemine2.1.gif" alt="Vajutades nuppu tekstikasti all avaneb nimekiri, kus saab linnukesega märkida sõnakogud" width="700"/></a>  
-    Pilt: Vajutades nuppu tekstikasti all avaneb nimekiri, kus saab linnukesega märkida sõnakogud
-
-4. Taotluste info on näha "Esitatud õiguste taotlused" all.  
+3. Taotluste info on näha "Esitatud õiguste taotlused" all.  
 <a href="images/oiguse-taotlemine3.PNG" target="_blank" rel="noreferrer noopener">
     <img src="images/oiguse-taotlemine3.PNG" alt="Esitatud taotluse info tabelina" width="700"/></a>   
     Pilt: Esitatud taotluse info tabelina
@@ -225,23 +217,22 @@ Seejärel avaneb aken, kus saate soovitud muudatuse teha.
 <a href="images/sonakogude-haldus.PNG" target="_blank" rel="noreferrer noopener">
     <img src="images/sonakogude-haldus.PNG" alt='Ekraanipilt tühjast sõnakogu lisamise vormist' width="700"/></a>   
 Pilt: Ekraanipilt tühjast sõnakogu lisamise vormist
-
 - **Sõnakogu kood:** võimalikult lühike (3-10 märki) tähekombinatsioon, millest saab loodava sõnakogu identifikaator (lühitähis)
 - **Nimi:** sõnakogu nimi
 - **Tüüp:** kui loote terminibaasi, valige "terminibaas", muul juhul "sõnakogu"
 - **Kirjeldus ja kontaktid (Sõnaveebis nähtav):** sõnakogu lühikirjeldus, mida näidatakse Sõnaveebis
 - **Lisainfo ja kontaktid (Sõnaveebis mitteavalik):** (kontakt)info, mis on nähtav teistele Ekilexi kasutajatele, kuid ei ole nähtav Sõnaveebis
-- **Sõnakogu pilt/logo:** 
 - Juhul, kui soovite oma sõnakogu mõistetele lisada valdkonnamärgendeid:
-  + **Valdkonna klassifikaatori päritolu:** valige valdkonna klassifikaatori kood. See võib olla mõne olemasoleva sõnakogu klassifikaator või iseseisev valdkonna klassifikaator (nt Lenoch, EKI üld). Oma klassifikaatori lisamiseks võtke ühendust Ekilexi kasutajatoega.
-  + **Valdkonnad:** Siin on loetelu eelnevalt valitud klassifikaatori kõikidest valdkondadest. Valige loetelust valdkonnamärgendid, mida soovite oma sõnakogus kasutada. Võib valida ükshaaval või vajutada "Vali kõik".
+  + **Valdkonna klassifikaatori päritolu:** valige valdkonna klassifikaatori kood. Valdkonna klassifikaator sisaldab eri valdkonnanimetusi, mida saab pärast valikut mõistekirjetesse lisada. Terminibaasides sobib enamasti sobib klassifikaatoriks Lenoch, mis sisaldab arvukalt eri valdkondasid. Kui soovite lisada oma klassifikaatori, võtke ühendust Ekilexi kasutajatoega.
+  + **Valdkonnad:** Siin on loetelu eelnevalt valitud klassifikaatori kõikidest valdkondadest. Valige loetelust kõik need valdkonnad, mida soovite oma sõnakogus kasutada. Võib valida ükshaaval või vajutada "Vali kõik".
 - **Keeled:** valige keeled, mida soovite oma sõnakogus kasutada
 - **Nähtav:** kui märkida ruut, on Ekilexis sõnakogu info otsinguga leitav
-- **Avalik:** kui märkida ruut, on sõnakogu avalikustatud ja nähtav lõppkasutajale terminiveebis või sõnaveebis
+- **Avalik:** kui märkida ruut, on sõnakogu avalikustatud ja nähtav lõppkasutajale Sõnaveebis. Riikliku terminitöö toetuse saajad peavad kindlasti oma terminibaasi avalikuks muutma.
 - Kui vorm on täidetud, vajutage **"Salvesta"**
 
 3. Sõnakogu on nüüd loodud ja ilmub sõnakogude nimistusse.
 
+<!-- **Sõnakogu pilt/logo:** võtsin välja juhendist Kairi soovitusel, kuna keegi pole seda vist teinud -->
 ---
 
 #### Sõnakogu muutmisõigused
@@ -340,22 +331,22 @@ Video: Allikakirje loomine Ekilexis-->
     <img src="images/1-lisa-uus-allikas.gif" alt='Nupp "Lisa uus allikas"' width="400"/></a>   
     Pilt: Nupp "Lisa uus allikas"
 
-2. **Pealkiri** on kirjaliku allika (näiteks raamatu) puhul harilikult selle **pealkiri**, aga selle võite vajadusel ka ise vabalt valida. Allika nimi kuvatakse ka allikaviitena mõistekirjes.
-
-3. Kui allikal on väga pikk nimi ja seda on samas mõistekirjes vaja kasutada mitmes kohas, võite allikale leiutada mingi lühendi (**Lühinimi**) ja lisada see lühend ühe nimetusena (nt "WMO"), siis saate mõistekirjes kasutada lühendit ja see ei võta nii palju ruumi ekraanil.  
+2. Igal allikal võiks olla **lühinimi**. See on nimetus, mida võiks kasutada ka mõistekirjes, et sellele allikale viidata, kuna siis ei võta allikaviide soovimatult palju ruumi ega tähelepanu. Raamatu või teatmeteose puhul võib lühinimeks märkida näiteks akronüümi selle esitähtedest (nt "EMBL"). Artikli jm korral soovitame lühinimena kasutada allika ID-koodi. Selle märkimise kohta saate lähemalt lugeda [siit](https://terminoloogia.ee/ufaqs/kuidas-lisada-allikakirjesse-luhinime/).  
 <a href="images/raamat-luhinimi.png" target="_blank" rel="noreferrer noopener">
     <img src="images/raamat-luhinimi.png" alt='Lühinime väli on pildil näidatud punase kastiga' width="500"/></a>   
     Pilt: Lühinime väli on pildil näidatud punase kastiga
 
-3. Allika **tüübiks** tuleb kirjaliku allika puhul valida Dokument.
+3. **Pealkiri** on kirjaliku allika (näiteks raamatu) puhul harilikult selle pealkiri.
 
-4. Alumises kastis saate allikale lisada muid informatiivseid välju (**atribuute**), näiteks vaikimisi on seal valitud autor. Kui raamatul on mitu autorit, võite iga ühe jaoks luua eraldi välja, aga pole ka probleemi, kui nad panete komadega eraldatult samale väljale. Samale väljale pannakse vajadusel ka autori tüüp, nt "koostanud Juhan Juurikas" või "toimetanud J. Tatikas".
+4. Allika **tüübiks** tuleb kirjaliku allika puhul valida Dokument.
 
-5. Vajutades rohelisele **"+"** nupule saate allikale lisada veel uusi välju. Samuti saate allikale välju lisada hiljem, kui allikas on juba loodud. Saate ka eemaldada välju punase **"-"** nupuga.
+5. Alumises kastis saate allikale lisada muid informatiivseid välju (**atribuute**), näiteks vaikimisi on seal valitud autor. Kui raamatul on mitu autorit, võite iga ühe jaoks luua eraldi välja, aga pole ka probleemi, kui nad panete komadega eraldatult samale väljale. Samale väljale pannakse vajadusel ka autori tüüp, nt "koostanud Juhan Juurikas" või "toimetanud J. Tatikas".
 
-6. Ühel allikal võib olla ka **mitu nime**, näiteks pealkiri erinevates keeltes. Nimesid saate juurde lisada nii, nagu ka muid allika välju (valides välja tüübiks Lühinimi/pealkiri). 
+6. Vajutades rohelisele **"+"** nupule saate allikale lisada veel uusi välju. Samuti saate allikale välju lisada hiljem, kui allikas on juba loodud. Saate ka eemaldada välju punase **"-"** nupuga.
 
-7. Vajutage nuppu **"Lisa"**.
+7. Ühel allikal võib olla ka **mitu nime**, näiteks pealkiri erinevates keeltes. Nimesid saate juurde lisada nii, nagu ka muid allika välju (valides välja tüübiks Lühinimi/pealkiri). 
+
+8. Vajutage nuppu **"Lisa"**.
 
 *<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-allikakirjesse-luhinime/" target="_blank">terminoloogia.ee</a></sub>*
 
@@ -366,7 +357,7 @@ Video: Allikakirje loomine Ekilexis-->
 **Raamatu** kohta koostatud allikakirjes võiks võimaluse korral olla täidetud järgmised väljad:
 
 <a href="images/Raamatu-kirje-naide.png" target="_blank" rel="noreferrer noopener">
-    <img src="images/Raamatu-kirje-naide.png" alt='Raamatu allikakirje näide Ekilexis - UVEÕS' width="400"/></a>  
+    <img src="images/Raamatu-kirje-naide.png" alt='Raamatu allikakirje näide Ekilexis - UVEÕS' width="400"/></a>   
     Pilt: Raamatu allikakirje näide Ekilexis - UVEÕS
 
 1. **Tüüp**: Dokument
@@ -384,15 +375,15 @@ Video: Allikakirje loomine Ekilexis-->
 
 **Eesti õigusaktid** leiate **Riigi Teatajast**. Õigusakti allikakirje jaoks vajalik info on valdavalt **õigusakti netiversiooni päises**.
 
-<a href="images/RT-uus-uus.png" target="_blank" rel="noreferrer noopener">
-    <img src="images/RT-uus-uus.png" alt='Näide õigusakti päisest - riigilõivuseadus' width="500"/></a> 
-    Pilt: Näide õigusakti päisest - <a href="https://www.riigiteataja.ee/akt/122052020003" target="_blank">riigilõivuseadus</a>
+<a href="images/RLS_allikakirje.png" target="_blank" rel="noreferrer noopener">
+    <img src="images/RLS_allikakirje.png" alt='Näide õigusakti päisest - riigilõivuseadus' width="500"/></a> 
+    Pilt: Näide õigusakti päisest - <a href="https://www.riigiteataja.ee/akt/114032023032" target="_blank">riigilõivuseadus</a>
 
 Eesti õigusakti kohta koostatud allikakirjes võiksid täidetud olla järgmised väljad:
 
-<a href="images/RT-naide.PNG" target="_blank" rel="noreferrer noopener">
-    <img src="images/RT-naide.PNG" alt='Eesti õigusakti näide Ekilexis - RLS-2020/05/3' width="400"/></a>  
-    Pilt: Eesti õigusakti näide Ekilexis - RLS-2020/05/3
+<a href="images/RLS-2023-Ekilexis.png" target="_blank" rel="noreferrer noopener">
+    <img src="images/RLS-2023-Ekilexis.png" alt='Eesti õigusakti näide Ekilexis - RLS-2023/03/32' width="400"/></a>  
+    Pilt: Eesti õigusakti näide Ekilexis - RLS-2023/03/32
 
 1. **Allika tüüp**: Dokument
 
