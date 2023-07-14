@@ -3,6 +3,7 @@
 
 <button>[Avaleht](/index.md)</button>
 <button>[Terminitöö sõnakoguga](/terminitoo.md)</button>
+<button>[Tõlkevasted](/tolkevasted.md)</button>
 
 ## Avaleht 
 
@@ -49,8 +50,7 @@ Sõnaveebi otsingutulemustes **kuvatakse ülevalpool üldkeelesõnastikus leiduv
     <img src="images/Sonaveebi-vaade.png" alt="Sõnaveebi vaade. Kirja “Oskussõnastikud” alt (pildil märgitud oranži kastikesega) leiate terminibaasidesse kantud teabe." width="700"/></a>  
     Pilt: Sõnaveebi vaade. Kirja "Oskussõnastikud" alt (pildil märgitud oranži kastikesega) leiate terminibaasidesse kantud teabe.
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/mis-on-sonaveeb-ja-kuidas-on-see-seotud-ekilexiga/" target="_blank">terminoloogia.ee</a></sub>*
-
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/mis-on-sonaveeb-ja-kuidas-on-see-seotud-ekilexiga/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -133,7 +133,7 @@ Kõik Ekilexi kasutajad saavad liitudes katsebaasi muutmisõigused ehk katsebaas
     <img src="images/rolli-muutmine.gif" alt='Rippmenüüst rolli valimine' width="500"/></a>   
     Pilt: Rippmenüüst rolli valimine
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/miks-ma-ei-saa-enda-terminibaasis-muudatusi-teha/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/miks-ma-ei-saa-enda-terminibaasis-muudatusi-teha/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -179,7 +179,7 @@ Selleks, et Katsebaasis kirjete koostamist katsetada, peate tegema läbi järgmi
 
 Rolli saab vahetada nii, nagu kirjeldatud 1. punktis, lihtsalt sel juhul peaks Katsebaasi muutja rolli asemel valima oma terminibaasi muutja/omaniku rolli.
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-saan-ekilexis-katsetada-ja-proovikirjeid-koostada/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-saan-ekilexis-katsetada-ja-proovikirjeid-koostada/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -205,7 +205,7 @@ Seejärel avaneb aken, kus saate soovitud muudatuse teha.
 
 **NB!** Muuta saab ainult neid kirjeid, mille olete kas ise loonud (allikakirjete puhul) või mis asuvad terminibaasis, mille muutmisõigus teil on (mõistekirjete puhul). Enamasti on terminibaasi koostajatel õigus teha muudatusi vaid enda terminibaasi kirjetes.
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kas-saan-kirjeid-parast-valmimist-muuta/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kas-saan-kirjeid-parast-valmimist-muuta/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -282,7 +282,7 @@ Seejärel avaneb terminoloogide vaates (seal, kus tavaliselt mõistekirjeid luua
 
 Kui õige sõnakogu on enne allikate otsingu tegemist valitud, siis näete pärast allikaviidete otsimist kõiki kirjeid, kus konkreetsele allikale viidatud on.
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-naha-millistes-moistekirjetes-olen-konkreetsele-allikale-viidanud/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-naha-millistes-moistekirjetes-olen-konkreetsele-allikale-viidanud/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -315,7 +315,7 @@ Selleks, et näha **kõiki** allikakirjeid, mida olete terminibaasis kasutanud, 
 
 Seejärel **näete kõiki allikaid, millele teie terminibaasis on viidatud**.
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-naen-koiki-allikaid-millele-olen-terminibaasis-viidanud/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-naen-koiki-allikaid-millele-olen-terminibaasis-viidanud/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -348,7 +348,7 @@ Video: Allikakirje loomine Ekilexis-->
 
 8. Vajutage nuppu **"Lisa"**.
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-allikakirjesse-luhinime/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-allikakirjesse-luhinime/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -376,7 +376,7 @@ Video: Allikakirje loomine Ekilexis-->
 **Eesti õigusaktid** leiate **Riigi Teatajast**. Õigusakti allikakirje jaoks vajalik info on valdavalt **õigusakti netiversiooni päises**.
 
 <a href="images/RLS_allikakirje.png" target="_blank" rel="noreferrer noopener">
-    <img src="images/RLS_allikakirje.png" alt='Näide õigusakti päisest - riigilõivuseadus' width="500"/></a> 
+    <img src="images/RLS_allikakirje.png" alt='Näide õigusakti päisest - riigilõivuseadus' width="500"/></a>     
     Pilt: Näide õigusakti päisest - <a href="https://www.riigiteataja.ee/akt/114032023032" target="_blank">riigilõivuseadus</a>
 
 Eesti õigusakti kohta koostatud allikakirjes võiksid täidetud olla järgmised väljad:
@@ -438,7 +438,7 @@ Vaid juhul, kui mõistekirjes kasutatakse allikana ka ELi dokumendi eesti tõlge
 
 Kui võimalik, on parem aga eesti terminite, definitsioonide ja kontekstide allikana kasutada siiski Riigi Teataja õigusakte või muid eestikeelseid allikad. Need on originaaltekstid, samas kui EUR-Lexi eestikeelsed dokumendid on tõlked.
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ekilex-kirjete-koostamine/#eri-tyypi-allikad" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ekilex-kirjete-koostamine/#eri-tyypi-allikad" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -480,7 +480,7 @@ Allika muutmine tähendab siis sisuliselt allikakirje mõne välja ehk allika at
     <img src="images/atribuudi-kustutamine.gif" alt='Atribuudi kustutamine' width="500"/></a>  
     Pilt: Atribuudi kustutamine
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-allikakirjesse-luhinime/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-lisada-allikakirjesse-luhinime/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 ---
 
@@ -540,7 +540,7 @@ Kui teil **ei ole terminibaasi muutmisõigust**, siis te selle baasi kirjete log
 Võib juhtuda, et teil tekib siiski küsimus mõne sellise mõistekirje kohta, mis asub baasis, mille logisid te ei näe. **Sel juhul võiksite võtta ühendust selle terminibaasi kontaktisikuga**.   
 Eri terminibaaside kontaktisikud leiab kõige paremini üles Sõnaveebi **sõnakogude kirjeldustest**: <a href="https://sonaveeb.ee/collections" target="_blank">sonaveeb.ee/collections</a>. Esimene sõnakogu on EKI ühendsõnastik, ent allapoole kerides näete eri terminibaase, nende tutvustavat infot ja kontaktandmeid.
 
-*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-naha-kes-on-moistekirje-termini-voi-muu-kirje-osise-lisanud/" target="_blank">terminoloogia.ee</a></sub>*
+<!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-naha-kes-on-moistekirje-termini-voi-muu-kirje-osise-lisanud/" target="_blank">terminoloogia.ee</a></sub>*-->
 
 <a href="https://ekilex.ee/" target="_blank">Hakka pihta!</a>
 
