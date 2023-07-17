@@ -64,7 +64,7 @@ Sõnaveebi otsingutulemustes **kuvatakse ülevalpool üldkeelesõnastikus leiduv
 
 4. Seejärel klõpsake nupul **"Registreeru"**. 
 
-5. Mõne sekundi jooksul saadetakse teie e-postkasti **kinnituskiri**. Kui kirja pole tulnud, vaadake ka rämpsposti kataloogi või trükkige otsingureale "Ekilexi kasutaja registreerimine". Oma konto aktiveerimiseks peate klõpsama kinnituskirjas saadetud **aktiveerimislingil**.  
+5. Mõne sekundi jooksul saadetakse Teie e-postkasti **kinnituskiri**. Kui kirja pole tulnud, vaadake ka rämpsposti kataloogi või trükkige otsingureale "Ekilexi kasutaja registreerimine". Oma konto aktiveerimiseks peate klõpsama kinnituskirjas saadetud **aktiveerimislingil**.  
 <a href="images/email.PNG" target="_blank" rel="noreferrer noopener">
     <img src="images/email.PNG" alt="Näide kasutaja registreerimise kinnituskirjast" width="600"/></a>  
     Pilt: Näide kasutaja registreerimise kinnituskirjast 
@@ -81,10 +81,10 @@ Sõnaveebi otsingutulemustes **kuvatakse ülevalpool üldkeelesõnastikus leiduv
 + **Vaatamisõiguse** saamiseks vajutage lihtsalt **"Hakka Ekilexi kasutama"**. Selle valikuga saate ka muutmisõiguse **"Katsebaasile"**, kus saab katsetada andmete sisestamist.
 
 + **Muutmisõiguste** taotlemiseks olemasolevale sõnakogule: 
-    1. Vajutage **"Soovin sõnakogude muutmisõigust"** ja valige soovitud sõnakogu(d), mille autorite hulka te kuulute. Pole mõtet valida sõnakogusid, millega teil puudub seos.
-    2. Muutmisõiguse taotlemise korral vajutage ka **"Soovin põhjendada taotlust"** ja kirjutage lahtrisse lühidalt, kuidas olete sõnakoguga seotud. **Põhjendus on kohustuslik**.
-    3. Seejärel vajutage **"Saada taotlus"**.
-    4. Nüüd tuleb oodata, kuni Ekilexi administraator annab teile küsitud õigused. **Selle kohta saadetakse e-kiri**. Pärast seda saate hakata Ekilexi kasutama. Kui olete õiguste saamise hetkel (e-kirja saabumise hetkel) Ekilexi sisse logitud, peate kõigepealt välja logima ja siis uuesti sisse logima, selleks, et õigused rakenduksid.
+    1) Vajutage **"Soovin sõnakogude muutmisõigust"** ja valige soovitud sõnakogu(d), mille autorite hulka te kuulute. Pole mõtet valida sõnakogusid, millega Teil puudub seos.
+    2) Muutmisõiguse taotlemise korral vajutage ka **"Soovin põhjendada taotlust"** ja kirjutage lahtrisse lühidalt, kuidas olete sõnakoguga seotud. **Põhjendus on kohustuslik**.
+    3) Seejärel vajutage **"Saada taotlus"**.
+    4) Nüüd tuleb oodata, kuni Ekilexi administraator annab Teile küsitud õigused. **Selle kohta saadetakse e-kiri**. Pärast seda saate hakata Ekilexi kasutama. Kui olete õiguste saamise hetkel (e-kirja saabumise hetkel) Ekilexi sisse logitud, peate kõigepealt välja logima ja siis uuesti sisse logima, selleks, et õigused rakenduksid.
 <!-- kas on vaja uuendada 1.29.0 põhiselt? -->
 
 ---
@@ -113,7 +113,7 @@ Kui olete juba ekilexi vaatamisõiguse või mõne sõnakogu muutmisõigused oman
 
 #### Terminibaasis muudatuste tegemine
 
-Kui olete terminibaasi loonud, on teil õigused sinna mõistekirjeid lisada ja seal muid muudatusi teha. Kui näete, et ei saa oma terminibaasis muudatusi teha, võib probleem olla selles, et **valitud on vale sõnakogu muutja roll.**
+Kui olete terminibaasi loonud, on Teil õigused sinna mõistekirjeid lisada ja seal muid muudatusi teha. Kui näete, et ei saa oma terminibaasis muudatusi teha, võib probleem olla selles, et **valitud on vale sõnakogu muutja roll.**
 
 Kõik Ekilexi kasutajad saavad liitudes katsebaasi muutmisõigused ehk katsebaasi muutja rolli. Kui luuakse uus terminibaas, on rolle, mille vahel valida, kaks. Kui te ei saa enda terminibaasis muutusi teha, on võimalik, et olete kogemata jäänud katsebaasi muutja rolli.  
 **Enda rolli näeb ja saab muuta töölaual, kuhu saab ülevalt sinise riba paremast nurgast oma nime alt. Peaksite sealt valima oma terminibaasi muutja rolli.**
@@ -203,7 +203,7 @@ Ekilexis on iga välja **muutmisnupp sinine**. Muutmisnupp tekib, kui **lähete 
 
 Seejärel avaneb aken, kus saate soovitud muudatuse teha.
 
-**NB!** Muuta saab ainult neid kirjeid, mille olete kas ise loonud (allikakirjete puhul) või mis asuvad terminibaasis, mille muutmisõigus teil on (mõistekirjete puhul). Enamasti on terminibaasi koostajatel õigus teha muudatusi vaid enda terminibaasi kirjetes.
+**NB!** Muuta saab ainult neid kirjeid, mille olete kas ise loonud (allikakirjete puhul) või mis asuvad terminibaasis, mille muutmisõigus Teil on (mõistekirjete puhul). Enamasti on terminibaasi koostajatel õigus teha muudatusi vaid enda terminibaasi kirjetes.
 
 <!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kas-saan-kirjeid-parast-valmimist-muuta/" target="_blank">terminoloogia.ee</a></sub>*-->
 
@@ -313,7 +313,7 @@ Selleks, et näha **kõiki** allikakirjeid, mida olete terminibaasis kasutanud, 
     <img src="images/Allikate-detailotsing-kasutatud-sonakogus-1024x253.png" alt='Detailotsingu valikud' width="600"/></a>    
     Pilt: Detailotsingu valikud
 
-Seejärel **näete kõiki allikaid, millele teie terminibaasis on viidatud**.
+Seejärel **näete kõiki allikaid, millele Teie terminibaasis on viidatud**.
 
 <!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-naen-koiki-allikaid-millele-olen-terminibaasis-viidanud/" target="_blank">terminoloogia.ee</a></sub>*-->
 
@@ -449,33 +449,33 @@ Allika muutmine tähendab siis sisuliselt allikakirje mõne välja ehk allika at
 1. Valige rakenduse menüüst **"Allikate otsing"**.
 
 2. Atribuudi **lisamiseks**:
-    1. Otsige allikas, mida tahate muuta.
-    2. Vajutage rohelisele **"+"** nupule. Avaneb atribuudi lisamise vorm.
-    3. Valige rippmenüüst **atribuudi tüüp**.
-    4. Sisestage all olevale väljale **atribuudi väärtus**.
-    5. Vajutage **"Lisa"**.  
+    1) Otsige allikas, mida tahate muuta.
+    2) Vajutage rohelisele **"+"** nupule. Avaneb atribuudi lisamise vorm.
+    3) Valige rippmenüüst **atribuudi tüüp**.
+    4) Sisestage all olevale väljale **atribuudi väärtus**.
+    5) Vajutage **"Lisa"**.  
 <a href="images/atribuudi-lisamine.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/atribuudi-lisamine.gif" alt='Allikale atribuudi lisamine' width="600"/></a>  
     Pilt: Allikale atribuudi lisamine
 
 3. Atribuudi **muutmiseks**:
-    1. Otsige allikas, mida tahate muuta.
-    2. Liikuge **hiire kursoriga välja peale**, mida tahate muuta. Välja lõppu tekivad nupukesed.  
+    1) Otsige allikas, mida tahate muuta.
+    2) Liikuge **hiire kursoriga välja peale**, mida tahate muuta. Välja lõppu tekivad nupukesed.  
 <a href="images/artikkel-jm-luhinimi-3-muuda.png.gif" target="_blank" rel="noreferrer noopener">  
     <img src="images/artikkel-jm-luhinimi-3-muuda.png.gif" alt='Välja lõppu tekivad muutmis- ja kustutamisnupp' width="500"/></a>  
     Pilt: Välja lõppu tekivad muutmis- ja kustutamisnupp  
-    3. Vajutage sinisele nupukesele **"Muuda"**.
-    4. Avaneb välja muutmisvorm.
-    5. Muutke välja sisu, salvestamiseks vajutage **"Muuda"**.  
+    3) Vajutage sinisele nupukesele **"Muuda"**.
+    4) Avaneb välja muutmisvorm.
+    5) Muutke välja sisu, salvestamiseks vajutage **"Muuda"**.  
 <a href="images/artikkel-jm-luhinimi-4-muuda.png.gif" target="_blank" rel="noreferrer noopener">  
     <img src="images/artikkel-jm-luhinimi-4-muuda.png.gif" alt='Sisu lisamine ja salvestamine' width="600"/></a>  
     Pilt: Sisu lisamine ja salvestamine
 
 4. Atribuudi **kustutamiseks**:
-    1. Otsige allikas, mida tahate muuta.
-    2. Liikuge **hiire kursoriga välja peale**, mida tahate muuta. Välja lõppu tekivad nupukesed.
-    3. Vajutage kollasele nupukesele **"x"** ("Kustuta").
-    4. Küsitakse kustutamise kinnitust. Vajutage **"Jah"**.  
+    1) Otsige allikas, mida tahate muuta.
+    2) Liikuge **hiire kursoriga välja peale**, mida tahate muuta. Välja lõppu tekivad nupukesed.
+    3) Vajutage kollasele nupukesele **"x"** ("Kustuta").
+    4) Küsitakse kustutamise kinnitust. Vajutage **"Jah"**.  
 <a href="images/atribuudi-kustutamine.gif" target="_blank" rel="noreferrer noopener">  
     <img src="images/atribuudi-kustutamine.gif" alt='Atribuudi kustutamine' width="500"/></a>  
     Pilt: Atribuudi kustutamine
@@ -524,7 +524,7 @@ Pilt: Allikate ühendamise kinnitamine
 
 ### Mõistekirja, termini või muu kirje osise lisaja kuvamine
 
-Selles terminibaasis, mille olete loonud või mille muutmise õigus teil on, saate kirje koostajaid vaadata **logist**.  
+Selles terminibaasis, mille olete loonud või mille muutmise õigus Teil on, saate kirje koostajaid vaadata **logist**.  
 
 Logi asub **mõistekirje üleval paremas nurgas**.  
 <a href="images/Logi.gif" target="_blank" rel="noreferrer noopener">
@@ -535,9 +535,9 @@ Logis on üsna palju tehnilist informatsiooni. Logisse süvenedes aga võib näh
 
 Ka **allikakirjete** juures asub logi üleval paremas nurgas.
 
-Kui teil **ei ole terminibaasi muutmisõigust**, siis te selle baasi kirjete logisid ei näe. Ekilexis on ligi 100 sõnakogu ning üldjuhul on tavakasutajal õigus muuta neist vaid ühte või paari: neid terminibaase, milles ta ise tegutseb.
+Kui Teil **ei ole terminibaasi muutmisõigust**, siis te selle baasi kirjete logisid ei näe. Ekilexis on ligi 100 sõnakogu ning üldjuhul on tavakasutajal õigus muuta neist vaid ühte või paari: neid terminibaase, milles ta ise tegutseb.
 
-Võib juhtuda, et teil tekib siiski küsimus mõne sellise mõistekirje kohta, mis asub baasis, mille logisid te ei näe. **Sel juhul võiksite võtta ühendust selle terminibaasi kontaktisikuga**.   
+Võib juhtuda, et Teil tekib siiski küsimus mõne sellise mõistekirje kohta, mis asub baasis, mille logisid te ei näe. **Sel juhul võiksite võtta ühendust selle terminibaasi kontaktisikuga**.   
 Eri terminibaaside kontaktisikud leiab kõige paremini üles Sõnaveebi **sõnakogude kirjeldustest**: <a href="https://sonaveeb.ee/collections" target="_blank">sonaveeb.ee/collections</a>. Esimene sõnakogu on EKI ühendsõnastik, ent allapoole kerides näete eri terminibaase, nende tutvustavat infot ja kontaktandmeid.
 
 <!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-naha-kes-on-moistekirje-termini-voi-muu-kirje-osise-lisanud/" target="_blank">terminoloogia.ee</a></sub>*-->

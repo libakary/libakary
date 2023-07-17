@@ -158,7 +158,7 @@ Kui aga teha otsing nii, nagu näidatud alloleval pildil, siis otsitakse mõiste
     Pilt: Sildi lisamine terminile
     - **Saate otsida eri kirjeid selle järgi, millal silti muudeti**. Kui tahaksin saada loetelu nendest terminitest, millele on minu sõnakogus viimase kuu jooksul silt lisatud, peaksin valima "silt" → "muutmise aeg" → "on hilisem kui" → ja valima kalendrist kuu taguse kuupäeva.
 
-2. **Otsida saab mõiste muutmisaja järgi**. Kui tahate otsida üles need kirjed, mida teie või mõni teine teie baasi koostaja viimase kuu aja jooksul muutnud on, peaksite valima "mõiste" → "muutmise aeg" → "on hilisem kui" → ja valima kalendrist kuu aja taguse kuupäeva. Ka siin peaks veenduma, et valitud on vaid enda sõnakogu.
+2. **Otsida saab mõiste muutmisaja järgi**. Kui tahate otsida üles need kirjed, mida Teie või mõni teine Teie baasi koostaja viimase kuu aja jooksul muutnud on, peaksite valima "mõiste" → "muutmise aeg" → "on hilisem kui" → ja valima kalendrist kuu aja taguse kuupäeva. Ka siin peaks veenduma, et valitud on vaid enda sõnakogu.
 
 3. **Lisaks allika viitele saab otsida ka allika id-koodi järgi**.
     - Allikale saate mõistekirjes viidata kõigi nende nimetustega, mis on allikakirjes kas allika nimetuse või lühinime väljal. Kombeks on allikakirjesse panna täispikk nimi ja lühend, näiteks allika nimetuse väljale "International Glossary of Hydrology" ja lühinime väljale "IGH". Mõistekirjes – näiteks definitsiooni või termini juures – viidatakse peamiselt lühendiga, sest see võtab vähem ruumi. Seetõttu võib aga juhtuda, et allika viite järgi otsides ei tule vasteks kõiki neid kirjeid, kus sellele allikale viidatud on. Leiab vaid kirjed, kus allikale on viidatud **sellel kujul, mis on otsinguväljale trükitud**. Kui olete valinud sõnakoguks katsebaasi ja otsite allika viite järgi "International Glossary of Hydrology’t", ei tule ühtegi vastet. Kui aga trükite otsingusse "IGH", tuleb vasteks "pais". Seda seepärast, et selles kirjes on viitamiseks kasutatud vormi "IGH".
@@ -244,17 +244,17 @@ Video: Mõistekirje loomine Ekilexis-->
     Pilt: Sõnakogude valimisel saab vajutada nuppu "Vali kõik"
 
 3. Vajutage sinisel navigeerimisribal **"Uus mõiste"**. Avaneb uue termini sisestusvorm. Seejärel
-    1. sisestage **termin** (ehk keelend),
-    2. selle all on kuvatud sõnakogu nimi, kuhu termin lisatakse,
-    3. valige rippmenüüst **keel**,
-    4. vajutage **"Lisa termin"**.  
+    1) sisestage **termin** (ehk keelend),
+    2) selle all on kuvatud sõnakogu nimi, kuhu termin lisatakse,
+    3) valige rippmenüüst **keel**,
+    4) vajutage **"Lisa termin"**.  
 <a href="images/5-uus-moiste-termin.gif" target="_blank" rel="noreferrer noopener">  
     <img src="images/5-uus-moiste-termin.gif" alt="Termini lisamine" width="300"/></a>   
     Pilt: Termini lisamine
 
 a. Kui sisestatud termin **ei esine** üheski olemasolevas sõnakogus, siis luuakse uus termin ja mõiste ning kuvatakse kogu info selle mõiste kohta terminoloogi otsingu vaates.
 
-b. Kui sisestatud termin **juba esineb** olemasolevas sõnakogus, kuvab süsteem teile sama kujuga terminid ja nende kirjed, mis on teistesse sõnastikesse ja terminibaasidesse lisatud. Tehke linnuke selle tähendusega termini ette, mis sarnaneb teie omaga enim.  
+b. Kui sisestatud termin **juba esineb** olemasolevas sõnakogus, kuvab süsteem Teile sama kujuga terminid ja nende kirjed, mis on teistesse sõnastikesse ja terminibaasidesse lisatud. Tehke linnuke selle tähendusega termini ette, mis sarnaneb Teie omaga enim.  
 <a href="images/6-tahendus-valik.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/6-tahendus-valik.gif" alt="Terminite valikust sobivaima valimine" width="700"/></a>    
     Pilt: Terminite valikust sobivaima valimine  
@@ -392,25 +392,25 @@ Kui allikas on loodud, siis saate mõistekirjes tekitada sellele erinevate välj
     <img src="images/allikaviide3.gif" alt="Seletuse teksti peale liikudes ilmub hall Allikaviite lisamise nupp, kastikese ja noole ikooniga" width="600"/></a> 
     Pilt: Seletuse teksti peale liikudes ilmub hall Allikaviite lisamise nupp, kastikese ja noole ikooniga
 
-    1. Vajutades avaneb **allikaviite otsing**. Seal saate otsida kõikide allika atribuutide järgi, kaasa arvatud tema lühinime järgi.
+    1) Vajutades avaneb **allikaviite otsing**. Seal saate otsida kõikide allika atribuutide järgi, kaasa arvatud tema lühinime järgi.
 
-    2. Allika otsimisel on kindlasti abiks tärn **"\*"**, sest selle abil saate leida osalisi vasteid. Nt otsides "int\*meteo\*" leitakse "INTERNATIONAL METEOROLOGICAL VOCABULARY", sest \* asendab suvalist arvu märke. Kui nimesid on mitu, nagu selles näites, saate **raadionupuga** valida selle nime, mida hakatakse kuvama allikaviitena.  
+    2) Allika otsimisel on kindlasti abiks tärn **"\*"**, sest selle abil saate leida osalisi vasteid. Nt otsides "int\*meteo\*" leitakse "INTERNATIONAL METEOROLOGICAL VOCABULARY", sest \* asendab suvalist arvu märke. Kui nimesid on mitu, nagu selles näites, saate **raadionupuga** valida selle nime, mida hakatakse kuvama allikaviitena.  
 <a href="images/allikaviide4.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/allikaviide4.gif" alt="Allika nimeosa sisestamine, õige leidmine ja selle kuvatava nime märgistamine" width="600"/></a>  
     Pilt: Allika nimeosa sisestamine, õige leidmine ja selle kuvatava nime märgistamine
 
-    3. Lahter **"Siseviide"** on selle jaoks, kui peaks olema soov täpsustada asukohta selles allikas, nt "lk 69" ja see kuvatakse allikaviite järel. Valiku kinnitamiseks vajutage nuppu **"Vali"**.  
+    3) Lahter **"Siseviide"** on selle jaoks, kui peaks olema soov täpsustada asukohta selles allikas, nt "lk 69" ja see kuvatakse allikaviite järel. Valiku kinnitamiseks vajutage nuppu **"Vali"**.  
 <a href="images/allikaviide5.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/allikaviide5.gif" alt="Siseviite lahtrisse info sisestamine ja allika valimine" width="600"/></a>  
     Pilt: Siseviite lahtrisse info sisestamine ja allika valimine
 
 2. Terminile saab allikaviite lisada halli **"+"** nupuga, avades akna andmete lisamiseks. 
-    1. Selle akna rippmenüüst tuleb valida **"Allikaviide"**.  
+    1) Selle akna rippmenüüst tuleb valida **"Allikaviide"**.  
 <a href="images/allikaviide1.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/allikaviide1.gif" alt='Hallist nupust andmete lisamine, sealt valida "Allikaviide"' width="600"/></a>  
 Pilt: Hallist nupust andmete lisamine, sealt valida "Allikaviide"
 
-    2. Järgmises aknas saate alustada allika nime sisestamist, ning valida pakutute hulgast, seejärel sobiva esitusviisi märgistada ning klõpsata nuppu **"Vali"**, et allikas lisada.
+    2) Järgmises aknas saate alustada allika nime sisestamist, ning valida pakutute hulgast, seejärel sobiva esitusviisi märgistada ning klõpsata nuppu **"Vali"**, et allikas lisada.
 <a href="images/allikaviide2.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/allikaviide2.gif" alt='Allika nime sisestamine, õige märgistamine ja valimine' width="600"/></a>  
 Pilt: Allika nime sisestamine, õige märgistamine ja valimine
@@ -499,7 +499,7 @@ Erinevalt definitsioonist võiksid märkused olla **vormistatud täislausetena, 
 
 Mõiste märkuse väljale sobib enamasti teave, mis ei kommenteeri konkreetset terminit või definitsiooni ega selle sõnastust. **Tegu on lisainfoga, mis annab teavet nähtuse (mõiste) kui sellise kohta.**  
 
-*(Kui mõiste ja termini erinevused on teile ebaselged, siis vaadake selle kohta lähemalt [siit](#mõiste-ja-termini-vahe).)*
+*(Kui mõiste ja termini erinevused on Teile ebaselged, siis vaadake selle kohta lähemalt [siit](#mõiste-ja-termini-vahe).)*
 
 1. Mõiste märkust saate lisada **plussmärgist**, mis asub kirje kõige ülemises paremas nurgas:  
 <a href="images/moiste-markus-1.gif" target="_blank" rel="noreferrer noopener">
@@ -649,19 +649,19 @@ Kui mõiste on seotud mitme teise mõistega, saab luua ka mitu tähenduse seost.
     Pilt: Rippmenüüst valik
 
 3. Otsige termini järgi seotud kirjet ja looge sellega seos järgmiselt.
-    1. Trükkige avanevas aknas esimesele väljale termin, mille kirjega soovite seost luua, ja vajutage **"Otsi"**. Alumises näites paiknen ise kirjes ükssarvik ja soovin luua seost kirjega idufirma.
+    1) Trükkige avanevas aknas esimesele väljale termin, mille kirjega soovite seost luua, ja vajutage **"Otsi"**. Alumises näites paiknen ise kirjes ükssarvik ja soovin luua seost kirjega idufirma.
 
-    2. Valige rippmenüüst **"Vali väärtus"** soovitud seoseliik. Näites valin üldise seoseliigi: "seotud (tähendus/mõiste)".  
+    2) Valige rippmenüüst **"Vali väärtus"** soovitud seoseliik. Näites valin üldise seoseliigi: "seotud (tähendus/mõiste)".  
     **NB!** Vältige seoseid, mille järel on kirjas "kakskeelses" ja "võrdle". Need on EKI leksikograafide töövahendid.
 
-    3. **Tehke linnuke leitud (sobiva) kirje juurde**. Juhul kui vastuseks tuleb mitu mõistekirjet, veenduge, et teete linnukese enda terminibaasi kirje juurde (termini kõrval väikses kirjas on teie terminibaasi lühikood, näites "kce", mis tähistab Katsebaasi).
+    3) **Tehke linnuke leitud (sobiva) kirje juurde**. Juhul kui vastuseks tuleb mitu mõistekirjet, veenduge, et teete linnukese enda terminibaasi kirje juurde (termini kõrval väikses kirjas on Teie terminibaasi lühikood, näites "kce", mis tähistab Katsebaasi).
 
-    4. Vajutage **"Lisa valitud seosed"**.  
+    4) Vajutage **"Lisa valitud seosed"**.  
 <a href="images/3-tahenduse-seos.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/3-tahenduse-seos.gif" alt='Otsida keelend, valida seos, märkida valitav kirje' width="500"/></a>  
     Pilt: Otsida keelend, valida seos, märkida valitav kirje
 
-4. **Nüüd näete, et mõisteplokis on lisatud seos näha.** Kui klõpsate sinisel kirjal, jõuate seotud mõistekirjesse. Seosed on teie kirje juures näha ka Sõnaveebis.  
+4. **Nüüd näete, et mõisteplokis on lisatud seos näha.** Kui klõpsate sinisel kirjal, jõuate seotud mõistekirjesse. Seosed on Teie kirje juures näha ka Sõnaveebis.  
 <a href="images/4-tahenduse-seos.png" target="_blank" rel="noreferrer noopener">
     <img src="images/4-tahenduse-seos.png" alt='Tähenduse seos on pildil märgitud punase kastiga' width="500"/></a>  
     Pilt: Tähenduse seos on pildil märgitud punase kastiga
@@ -728,7 +728,7 @@ Mõnikord võib aga näiteks üks termin olla eelistatum kui teine või soovite 
 #### Pisiparanduste tegemine ilma muutmiskuupäeva muutusteta
 
 Pisiparanduste funktsioon võimaldab teha "kirurgilisi" muudatusi ilma, et mõistekirje muutmiskuupäev muutuks. Pisiparanduste funktsiooni ei pea kasutama, kuid mõnikord võib see olla kasulik.
-Näiteks kui teil ei ole aega tervet kirjet üle vaadata ja sellesse süveneda, siis ei ole mõistlik, et ka kirje muutmise kuupäev muutuks – kasutaja eeldab, et siis olete kogu kirje sel ajal üle vaadanud ja ajakohastanud.
+Näiteks kui Teil ei ole aega tervet kirjet üle vaadata ja sellesse süveneda, siis ei ole mõistlik, et ka kirje muutmise kuupäev muutuks – kasutaja eeldab, et siis olete kogu kirje sel ajal üle vaadanud ja ajakohastanud.
 
 - Pisiparanduste tegemise funktsiooni saab sisse ja välja lülitada kirje allosas paremal pool asuvast **sinisest nupust**.  
 <a href="images/1-pisiparandused.gif" target="_blank" rel="noreferrer noopener">
@@ -803,7 +803,7 @@ Kui mõiste on dubleeritud, ilmub duplikaat automaatselt eelmise mõistekirje k�
 
 Kõigepealt kirjeldame, kuidas saate näha kõiki oma terminibaasi kirjeid korraga.
 
-Seejärel kirjeldame, kuidas saate näha kirjeid, mida just teie olete kindlas ajavahemikus muutnud.
+Seejärel kirjeldame, kuidas saate näha kirjeid, mida just Teie olete kindlas ajavahemikus muutnud.
 
 ---
 
@@ -826,7 +826,7 @@ Kõiki mõistekirjeid korraga näeb siis, kui:
 
 #### Ühe muutja kindlas ajavahemikus tehtud tööd
 
-Kui soovite näha neid kirjeid, mida just **teie** olete kindlas ajavahemikus muutnud (või mille lisanud), peaksite **lisama otsingukriteeriumiks ka muutja**. See otsing annab kõige täpsema tulemuse just teie tehtud muudatuste kohta, kuna teie terminibaasides teevad tehnilisi muudatusi ka EKI leksikograafid ja terminoloogid.
+Kui soovite näha neid kirjeid, mida just **Teie** olete kindlas ajavahemikus muutnud (või mille lisanud), peaksite **lisama otsingukriteeriumiks ka muutja**. See otsing annab kõige täpsema tulemuse just Teie tehtud muudatuste kohta, kuna Teie terminibaasides teevad tehnilisi muudatusi ka EKI leksikograafid ja terminoloogid.
 
 1. Kõigepealt peate detailotsingust valima **soovitud ajavahemiku**, nt "on hilisem kui" "1.11.2022": kõik kirjed, mida olete muutnud pärast 1. novembrit 2022.  
 <a href="images/hilisem-kui-1024x148.png" target="_blank" rel="noreferrer noopener">
@@ -839,9 +839,9 @@ Kui soovite näha neid kirjeid, mida just **teie** olete kindlas ajavahemikus mu
     Pilt: Detailotsingu välja lõpus olev hall plussmärk
 
 3. Lisatud otsiväljal võiksite teha järgmised valikud:
-    1. **"looja/muutja"**,
-    2. **"on"**,
-    3. ***trükkida enda nimi***.  
+    1) **"looja/muutja"**,
+    2) **"on"**,
+    3) ***trükkida enda nimi***.  
 <a href="images/looja-muutja-1-1024x189.png" target="_blank" rel="noreferrer noopener">
     <img src="images/looja-muutja-1-1024x189.png" alt='Detailotsingus lisatud real teistsugused valikud ja sisestatud nimi' width="700"/></a>  
     Pilt: Detailotsingus lisatud real teistsugused valikud ja sisestatud nimi
