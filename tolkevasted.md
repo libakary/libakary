@@ -4,7 +4,7 @@
 <button>[Terminitöö sõnakoguga](/terminitoo.md)</button>
 <button>[Tõlkevasted](/tolkevasted.md)</button>
 
-## Tõlkevastete vaate kasutus
+## Tõlkevastete vaade
 
 ### Sisukord
 - [Seadistus](#seadistus)
