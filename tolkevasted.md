@@ -4,25 +4,24 @@
 <button>[Terminitöö sõnakoguga](/terminitoo.md)</button>
 <button>[Tõlkevasted](/tolkevasted.md)</button>
 
-## Tõlkevastete vaate juhend
+## Tõlkevastete vaate kasutus
 
 ### Sisukord
 - [Seadistus](#seadistus)
-    + [Ekilexi muutmisõiguste seadistus](#ekilexi-muutmisõiguste-seadistus)
-    + [Kasutajaliidese seadistus](#ekilexi-muutmisõiguste-seadistus)
-        - [Sünonüümide ilme muutmine](#sünonüümide-ilme-muutmine)
-    + [Siltide seadistus](#siltide-seadistus)
+    - [Ekilexi muutmisõiguste seadistus](#ekilexi-muutmisõiguste-seadistus)
+    - [Kasutajaliidese seadistus](#kasutajaliidese-seadistus)
+    - [Siltide seadistus](#siltide-seadistus)
 - [Tõlkevastete lisamise tööprotsess](#tõlkevastete-lisamise-tööprotsess)
-    + [Otsing](#otsing)
-    + [Võrdse vastekandidaadi lisamine mõistekirjesse](#võrdse-vastekandidaadi-lisamine-mõistekirjesse)
-        - [Vaste muutmine mõistekirjes](#vaste-muutmine-mõistekirjes)
-    + [Vastekandidaadi nupufunktsioonid](#vastekandidaadi-nupufunktsioonid)
-    + [Laiema/kitsama tõlkevaste tähendus](#laiemakitsama-tõlkevaste-tähendus)
+    - [Otsing](#otsing)
+    - [Otsevaste lisamine ilmikusse](#otsevaste-lisamine-ilmikusse)
+        - [Vaste muutmine ilmikus](#vaste-muutmine-ilmikus)
+    - [Vastekandidaadi nupufunktsioonid](#vastekandidaadi-nupufunktsioonid)
+    - [Laiema/kitsama tõlkevaste tähendus](#laiemakitsama-tõlkevaste-tähendus)
         - [Laiema/kitsama vaste lisamine](#laiemakitsama-vaste-lisamine)
-    + [Uue vastekandidaadi lisamine](#uue-vastekandidaadi-lisamine)
-    + [Keelendiga töö lõpetamine](#keelendiga-töö-lõpetamine)
-
+    - [Vastekandidaadi lisamine, mis puudub loendis](#vastekandidaadi-lisamine-mis-puudub-loendis)
+    
 ---
+
 ### Seadistus
 
 Et kasutada Tõlkevastete vaadet, peate kõigepealt kindlaks tegema, et kasutaja seadistus on korrektne.
@@ -35,7 +34,7 @@ Kõigepealt on vajalik, et Teil oleks olemas **EKI Ühendsõnastiku** muutmisõi
 
 Selle puudumisel on lihtsaim taotleda kõigis keeltes sõnakogu muutmisõigust.
 
-1. Klõpsake üleval sinise riba paremal pool oma nimele ja avage **"Kasutaja profiili haldus"**.  
+1. Klõpsake üleval oma nimele ja avage **"Kasutaja profiili haldus"**.  
 <a href="images/tolkevasted-kasutaja-halduse-avamine.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/tolkevasted-kasutaja-halduse-avamine.gif" alt="Kasutaja klõpsamisel ilmuv rippmenüü" width="300"/></a>   
     <!--Pilt: Kasutaja klõpsamisel ilmuv rippmenüü-->
@@ -56,55 +55,48 @@ Ekilexi administraator kinnitab Teie taotluse mõne aja jooksul.
 
 #### Kasutajaliidese seadistus
 
-Järgmiseks peate seadistama tõlkevastete vaate-spetsiifilised seaded(??)
+Järgmiseks tuleb seadistada oma kasutaja profiili.
 
-1. Klõpsake üleval sinise riba paremal pool enda nimele ja avage **"Kasutaja profiili haldus"**.  
+1. Klõpsake üleval oma nimele ja avage **"Kasutaja profiili haldus"**.  
 <a href="images/tolkevasted-kasutaja-halduse-avamine.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/tolkevasted-kasutaja-halduse-avamine.gif" alt="Kasutaja klõpsamisel ilmuv rippmenüü" width="300"/></a>   
     <!--Pilt: Kasutaja klõpsamisel ilmuv rippmenüü-->
 
-2. Profiilihalduse lehel **"Seaded"** all on nupp **"Muuda tähenduste seoste ja vastete kuva seadeid"**, klõpsake sellel. Avaneb uus aken.  
+2. Profiilihalduse lehel **"Seaded"** all on nupp **"Muuda tähenduste seoste ja vastete kuva seadeid"**, klõpsake sellel. Avaneb uus aken. Osutage tähelepanu, et **"Näita valitud keeltes ainult esimest sõna"** ees ei oleks linnukest.
 <a href="images/tolkevasted-seadistus1.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/tolkevasted-seadistus1.gif" alt="Tähenduste seoste ja vastete kuva seadete menüü avamine" width="700"/></a>   
     <!--Pilt: Tähenduste seoste ja vastete kuva seadete menüü avamine-->
 
-3. Tõlkevastete vaate jaoks olulised on viimased kaks rippmenüüd. Valige **"Tõlkevastete kandidaatide sõnakogu"** alt kindel sõnakogu, mis Teid vastete kandidaatidega varustama peaks, (??) <!-- on juhendaja vms poolt antud-->ning **"Tõlkevastete kandidaatide keel"** alt, mis keeles vasted olema hakkavad. Vajutage **"Salvesta"**.  
-<a href="images/tolkevasted-seadistus2.gif" target="_blank" rel="noreferrer noopener">
-    <img src="images/tolkevasted-seadistus2.gif" alt="Menüü lõpus kahe rippmenüü sees vastava valiku tegemine" width="500"/></a>   
-    <!--Pilt: Menüü lõpus kahe rippmenüü sees vastava valiku tegemine-->
+<!-- kommenteeritud välja praeguseks, kuna süsteem vist muutub?? -->
+<!--3. Tõlkevastete vaate jaoks olulised on viimased kaks rippmenüüd. Valige **"Tõlkevastete kandidaatide sõnakogu"** alt kindel sõnakogu, mis Teid vastete kandidaatidega varustama peaks, (??) ning **"Tõlkevastete kandidaatide keel"** alt, mis keeles vasted olema hakkavad. Vajutage **"Salvesta"**.  
+/*<a href="images/tolkevasted-seadistus2.gif" target="_blank" rel="noreferrer noopener">
+    <img src="images/tolkevasted-seadistus2.gif" alt="Menüü lõpus kahe rippmenüü sees vastava valiku tegemine" width="500"/></a>*/
+    <!--Pilt: Menüü lõpus kahe rippmenüü sees vastava valiku tegemine
 
 "Tõlkevastete kandidaatide sõnakogu" all valitud sõnakogu (näites "Inglise vasted") õiguseid **ei ole vaja taotleda**, et teha tööd Tõlkevastete vaates.
 
-Kui on tahe näha vastete sõnakogu näiteks Leksikograafide või Terminoloogide vaate otsingutulemuste seas, tuleks taotleda kindla sõnakogu lugemis- või muutmisõigus.
+Kui on tahe näha vastete sõnakogu näiteks Leksikograafide või Terminoloogide vaate otsingutulemuste seas, tuleks taotleda kindla sõnakogu lugemis- või muutmisõigus.-->
 
----
-
-##### Sünonüümide ilme muutmine (??)
-Järgnev puudutab pigem tööd sünonüümide vaates, aga seadete muutmine mõjutab sünonüümide ilmet ka tõlkevastete vaates.
-
-Kui seadeid mitte muuta, näevad mõistekirjega ühendatud sünonüümid ja sõnavasted välja nagu allolevas näites. Iga saadaval oleva keele vasted on Ekilexis mõistekirjes nähtaval.  
-<a href="images/sunoSeadistus1.PNG" target="_blank" rel="noreferrer noopener">
-    <img src="images/sunoSeadistus1.PNG" alt="?" width="500"/></a>   
-    <!--Pilt: ??-->
-
-Seadete muutmiseks vali Seadete alt **"Muuda tähenduste seoste ja vastete kuva seadeid"** aknast **"Kuvatavate täissünonüümide keeled"** alt vaid need keeled, mida kasutate tõlkevastete leidmisel.  
+3. Tõlkevastete koostajana tehke kindlaks, et seadistuses **"Kuvatavate täissünonüümide keeled"** ja **"Sünonüümide kandidaatide keeled"** lahtrites on esindatud keeled, mille vastetega töö toimub.  
 <a href="images/sunoSeadistus2.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/sunoSeadistus2.gif" alt="?" width="700"/></a>   
     <!--Pilt: ??-->  
-
-Muutmise tulemusena kuvatakse vaid tööks valitud keelte vasted.  
+    
+    Muutmise tulemusena kuvatakse vaates tööks valitud keelte vasted.  
 <a href="images/sunoSeadistus3.PNG" target="_blank" rel="noreferrer noopener">
     <img src="images/sunoSeadistus3.PNG" alt="?" width="500"/></a>   
     <!--Pilt: ??-->
+
+Süsteem on veel arendamisel, plaan on inglise vasted importida otse Ühendsõnastikku. Vastete loendite genereerimisega tegeletakse. 
 
 ---
 
 #### Siltide seadistus
 
-Siltide lisamine või tõlkevaste tehtuks märkimine ei muuda funktsionaalsust. Samas saab siltide abil teisi ekilexi kasutajaid teavitada, kuidas on mõistekirjega tegeletud või mida peaks kindla mõistekirjega veel tegema. (??)
-<!-- kuidas siin boldida??-->
+Tõlkevastete koostamise juures on tööjärje pidamiseks oluline teada, milliste keelenditega on juba tegeletud ja millistega mitte, mistõttu tuleks koostatud keelendid **tegeletuks** märkida.  
+Selleks tuleb kasutaja profiilist valida vastav **silt**, mida siis tõlkevastete vaates ühe nupuvajutusega kõigile ilmikutele lisada saab.  
 
-1. Klõpsake üleval sinise riba paremal pool oma nimele ja avage **"Kasutaja profiili haldus"**.  
+1. Klõpsake üleval oma nimele ja avage **"Kasutaja profiili haldus"**.  
 <a href="images/tolkevasted-kasutaja-halduse-avamine.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/tolkevasted-kasutaja-halduse-avamine.gif" alt="Kasutaja klõpsamisel ilmuv rippmenüü" width="300"/></a>   
     <!--Pilt: Kasutaja klõpsamisel ilmuv rippmenüü-->
@@ -114,15 +106,23 @@ Siltide lisamine või tõlkevaste tehtuks märkimine ei muuda funktsionaalsust. 
     <img src="images/siltideSeadistus.gif" alt="?" width="800"/></a>   
     <!--Pilt: ??-->
 
+3. Kui tõlkevastete vaates koostatava keelendi kõik tähendused on võõrkeelsete vastetega varustatud ja te olete veendunud, et sõnaartikkel on koostatud, vajutage nuppu **"Märgi tehtuks"**. Keelendile lisandub silt **"tõlkevaste valmis"**.  
+<a href="images/tolkevasteValmis.gif" target="_blank" rel="noreferrer noopener">
+    <img src="images/tolkevasteValmis.gif" alt="?" width="800"/></a>   
+    <!--Pilt: ??-->
+
 ---
 
-### Tõlkevastete lisamise tööprotsess (??)
+### Tõlkevastete lisamise tööprotsess
 
-Mitmekeelse sõnakogu koostamine toimub eelnevalt leitud vastekandidaatide alusel. Ekilexi kindlasse sõnakogusse on lisatud vastekandidaadid, mida kuvatakse otsitud termini alusel tõlkevastete vaates paremas tulbas. Nende kandidaatide kohta tuleb teha otsus, kas nad sobivad eestikeelsete terminite(??) vasteks või mitte.  
+Mitmekeelse sõnakogu koostamine toimub eelnevalt leitud **vastekandidaatide** alusel. Ekilexi kindlasse sõnakogusse on lisatud vastekandidaadid, mida kuvatakse otsitud termini alusel tõlkevastete vaates paremas tulbas.  
+Nende kandidaatide kohta tuleb teha otsus, kas nad sobivad eestikeelse keelendi tähenduste vasteks või mitte.  
 <a href="images/tooprotsessiVaade.PNG" target="_blank" rel="noreferrer noopener">
     <img src="images/tooprotsessiVaade.PNG" alt="?" width="900"/></a>   
     <!--Pilt: ??-->
-Lisaks on vaja otsustada, kas tõlkevaste on terminiga võrdne või on vaja see lisada laiema või kitsama vastena.
+
+Lisaks on vaja otsustada, kas tõlkevaste on terminiga **võrdne** või on vaja see lisada **laiema või kitsama** vastena.  
+Näiteks sõnal *abikaasa* on inglise keeles mitu vastet, millest *spouse* on otsevaste, *husband* (meessoost abikaasa) ja *wife* (naissoost abikaasa) aga kitsamad vasted.
 
 ---
 
@@ -132,7 +132,7 @@ Lihtotsing ja detailotsing funktsioneerivad kõikides vaadetes üheselt. Lugege 
 
 ---
 
-#### Võrdse vastekandidaadi lisamine mõistekirjesse
+#### Otsevaste lisamine ilmikusse
 
 1. Avage töölaual link **"Tõlkevasted"**.
 
@@ -145,9 +145,9 @@ Lihtotsing ja detailotsing funktsioneerivad kõikides vaadetes üheselt. Lugege 
     <img src="images/vasteTostmine1.gif" alt="?" width="800"/></a>   
     <!--Pilt: ??-->
 
-4. Kui sisestatud keelend **juba esineb** olemasolevas sõnakogus, tavaliselt vähemalt Ühendsõnastikus, avaneb uus aken **"Vali sobiv keelend või loo uus"**. Siin kuvab süsteem Teile sama kujuga homonüümid ja nende kirjed, mis on teistesse sõnastikesse ja terminibaasidesse lisatud.  
+4. Kui sisestatud keelend **juba esineb** Ekilexis olemasolevas sõnakogus või terminibaasis, avaneb uus aken **"Vali sobiv keelend või loo uus"**. Siin kuvab süsteem Teile sama kujuga homonüümid ja nende kirjed, mis on sõnakogudesse juba lisatud.  
 
-    1) Tehke linnuke selle tähendusega keelendi ette, mis sarnaneb Teie omaga enim, ning vajutage **"Vali keelend"**, et see lisanduks otsevastena kirjesse.  
+    1) Kui õige tähendusega homonüüm on Ekilexis juba olemas, tehke linnuke selle ette ning vajutage **"Vali keelend"**, et see lisanduks otsevastena kirjesse.  
 <a href="images/vasteTostmine3.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/vasteTostmine3.gif" alt="?" width="800"/></a>   
     <!--Pilt: ??-->
@@ -159,21 +159,21 @@ Lihtotsing ja detailotsing funktsioneerivad kõikides vaadetes üheselt. Lugege 
 
 Iga uue homonüümi loomisel läheb see ka valitavate homonüümide nimekirja. Võimalusel tuleks hinnata uute homonüümide lisamise otstarbekust.
 
-Vastete kandidaatide tulbas, keelendi juures oleva **graafiku ikooni** peale liikudes, on näha vastekandidaadi kaal. Mida suurem number, seda usaldusväärsemast allikast on kandidaat pärit. Kõrgem number on sõnastikest ja terminikogudest, madalam aga tõlkemäludest ja avalikest keelekorpustest pärinevatel keelenditel.  
+Vastete kandidaatide tulbas, keelendi juures oleva **graafiku ikooni** peale liikudes, on näha vastekandidaadi kaal. Kõige kõrgem number (ehk kaal) 0.9 on sõnastikest pärit kandidaatidel, 0.8 tõlkemäludest ja 0.7 avalikest korpustest pärinevatel keelenditel. Kandidaadid on paremal veerus esitatud kaalu tugevuse järgi.  
 <a href="images/keelendiKaal.PNG" target="_blank" rel="noreferrer noopener">
     <img src="images/keelendiKaal.PNG" alt="?" width="400"/></a>   
     <!--Pilt: ??-->
 
-Vastekandidaate saab lisada ka vastava keele lühendi kõrvalt **plussmärgile** vajutades. Selle tagajärjel avaneb punktis 4. kuvatule sarnane aken keelendi valimiseks või uue homonüümi lisamiseks, aga siinkohal eelneb sellele otsingu teostamine.  
+Vastekandidaate saab lisada ka vastava keele lühendi kõrvalt **plussmärgile** vajutades. Selle tagajärjel avaneb punktis 4. kuvatule sarnane aken keelendi valimiseks või uue homonüümi lisamiseks, aga siinkohal eelneb sellele otsingu teostamine. Selle abil saab lisada **ainult** otsevasteid.  
 <a href="images/vastePlussigaLisamine.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/vastePlussigaLisamine.gif" alt="?" width="800"/></a>   
     <!--Pilt: ??-->
 
 ---
 
-##### Vaste muutmine mõistekirjes
+##### Vaste muutmine ilmikus
 
-Lisatud tõlkevasteid saab mõistekirjes vajadusel ka muuta.
+Lisatud tõlkevasteid saab ilmikus vajadusel ka muuta.
 
 Vaste kaalu muutmiseks liikuge hiirega tõlkevaste peale ja vajutage **ruuduga ümbritsetud pliiatsi nupule**. Avanevas aknas saate suurendada või vähendada vaste kaalu väljendavat numbrit, mis ei ilmu sõnaveebis ja on süsteemisisene märge.  
 <a href="images/vasteMuutmineKaal.gif" target="_blank" rel="noreferrer noopener">
@@ -185,7 +185,7 @@ Vaste lihtsuse muutmiseks liikuge hiirega tõlkevaste peale ja vajutage **noole 
     <img src="images/vasteMuutmineDetailsus.gif" alt="?" width="500"/></a>   
     <!--Pilt: ??-->
 
-Vaste kustutamiseks termini alt liikuge hiirega tõlkevaste peale ja vajutage **kollasele x nupule**. See toiming ei kustuta vastet parempoolsest vastekandidaatide reast.  
+Vaste kustutamiseks ilmiku küljest liikuge hiirega tõlkevaste peale ja vajutage **kollasele x nupule**. See toiming ei kustuta vastet parempoolsest vastekandidaatide reast, vaid liigutab selle kandidaatide loendi lõppu.  
 <a href="images/vasteKustutamineKirjest.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/vasteKustutamineKirjest.gif" alt="?" width="500"/></a>   
     <!--Pilt: ??-->
@@ -200,12 +200,12 @@ Vaste liigutamiseks liikuge hiirega tõlkevaste lõpus oleva **ristnooltega ikoo
 #### Vastekandidaadi nupufunktsioonid
 
 Paremas tulbas iga vastekandidaadi juures on sünonüümivaatest üle kantud nupud. 
-Nendega saate märkida vaste mittetegeletuks, kinnitatuks või kustutatuks (lükata nimekirja lõppu). Kuna sõnakogu on mitteavalik ja ei ilmu sõnaveebis, siis tõlkevastete vaates nendel nuppudel hetkel funktsionaalsus puudub.  
+Nendega saate märkida vaste mittetegeletuks, kinnitatuks või kustutatuks (lükata nimekirja lõppu). Kuna sõnakogu on mitteavalik ja ei ilmu sõnaveebis, siis tõlkevastete vaates nendel nuppudel hetkel **funktsionaalsus puudub**.  
 <a href="images/kandidaatideNupud1.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/kandidaatideNupud1.gif" alt="?" width="300"/></a>   
     <!--Pilt: ??-->
 
-Olulisim nupp on hall lüliti, mille kasutamist kirjeldatakse laiema/kitsama vaste lisamise alapeatüki juures.  
+Olulisim nupp on hall **lüliti**, mille kasutamist kirjeldatakse laiema/kitsama vaste lisamise alapeatüki juures.  
 <a href="images/kandidaatideNupudKitsamLaiem.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/kandidaatideNupudKitsamLaiem.gif" alt="?" width="300"/></a>   
     <!--Pilt: ??-->
@@ -214,25 +214,21 @@ Olulisim nupp on hall lüliti, mille kasutamist kirjeldatakse laiema/kitsama vas
 
 #### Laiema/kitsama tõlkevaste tähendus
 
-<!-- ???????????????????????????? -->
-Tõlkevasted saavad olla terminiga kas võrdsed, kitsama tähendusega või laiema tähendusega.
-Võrdne vaste on sama tähendusega kui termin. Näiteks viski ja whiskey.
-(lisa pilt?)
+Tõlkevasted saavad olla terminiga kas **võrdsed**, **kitsama tähendusega** või **laiema tähendusega**.
+Otsevaste on **sama tähendusega** kui termin. Näiteks *abikaasa* ja *spouse*.
+<!--(lisa pilt?)-->
 
-Kitsama tähendusega vaste on spetsiifilisema tähendusega. Näiteks viski vaste bourbon, mis on spetsiifilisemalt Ameerika viski. 
-(lisa pilt??)
+Kitsama tähendusega vaste on **spetsiifilisema tähendusega**. Näiteks *abikaasa* vasted on ka *wife* ja *husband*, millest esimene viitab naisoost ja teine meessoost abikaasale.
+<!--(lisa pilt??)-->
 
-Laiema tähendusega vaste on nagu ülemliik?? Katusetermin. Mis on noh laiema tähendusega. Näiteks viski on alkohoolne jook, aga alkoholi alla lähevad ka paljud teised mõisted, nii et alcohol oleks laiema tähendusega. 
-(kas ma saan siia pilti lisada..)
-
-?? kas ma sain õigesti aru? Kas see on üldse midagi mida ma peaks leksikograafidele ette kirjutama või teavad nad juba palju paremini kui ma kuidas see täpselt käib.
-also kas ma teeks nende kohta hoopis mingi joonise? a-la termini ja mõiste erinevus
+<!--Laiema tähendusega vaste on nagu ülemliik?? Katusetermin. Mis on noh laiema tähendusega. Näiteks viski on alkohoolne jook, aga alkoholi alla lähevad ka paljud teised mõisted, nii et alcohol oleks laiema tähendusega. -->
+<!--ütles et ma need hoopis kustutaks.-->
 
 ---
 
 ##### Laiema/kitsama vaste lisamine
 
-Kui vastekandidaat ei ole terminile täpselt vastav vaid kitsam või laiem, saab seda nii ka mõistekirjes märkida.
+Kui vastekandidaat ei vasta täpselt tähendusele, vaid on sellest **kitsam** või **laiem**, saab seda nii ka ilmikus märkida.
 
 1. Enne kandidaadi termini juurde lohistamist klõpsake **hall lüliti** sisselülitatud asendisse ehk siniseks. Seejärel lohistage vastekandidaat termini juurde. Avaneb uus aken tähenduse valimiseks.  
 <a href="images/vastekandidaadiKLTostmine.gif" target="_blank" rel="noreferrer noopener">
@@ -240,19 +236,19 @@ Kui vastekandidaat ei ole terminile täpselt vastav vaid kitsam või laiem, saab
     <!--Pilt: ??-->
 
 2. **Tähenduse valimine**  
-Sisestage lahtrisse tõlkevaste eestikeelne tähendus või tähenduse kirjeldus(??) ja vajutage **"Otsi"**. Märkige sobiv tähenduse vaste ja vajutage **"Järgmine samm"**. Kui sobivat tähendust ei leidu, märgistage "Sobiv tähendus puudub, loon uue" ja siis vajutage **"Järgmine samm"**.  
+Sisestage lahtrisse tõlkevaste eestikeelne vaste ja vajutage **"Otsi"**. Juhul, kui see on Ekilexis olemas, kuvatakse keelendi tähendus(ed). Märkige sobiv tähenduse vaste ja vajutage **"Järgmine samm"**. Kui sobivat tähendust ei leidu, märgistage **"Sobiv tähendus puudub, loon uue"** ja siis vajutage **"Järgmine samm"**.  
 <a href="images/vastekandidaadiKLTahendus1.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/vastekandidaadiKLTahendus1.gif" alt="?" width="800"/></a>   
     <!--Pilt: ??-->
 
 3. **Tähenduse täiendamine**  
-Kui tõlke- või eestikeelne vaste vajab täiendamist (näiteks ka siis kui ei valitud eelmisel lehel "Sobiv tähendus puudub, loon uue"), siis saate "Tähenduse täiendamine" lehel valida ühele või mõlemale keelendile sobivaima või luua uue tähenduse. Edasiliikumiseks vajutage **"Järgmine samm"**.  
+Kui tõlke- või eestikeelne vaste vajab täiendamist (näiteks ka siis kui ei valitud eelmisel lehel **"Sobiv tähendus puudub, loon uue"**), siis saate "Tähenduse täiendamine" lehel valida ühele või mõlemale keelendile sobivaima või luua uue tähenduse. Edasiliikumiseks vajutage **"Järgmine samm"**.  
 <a href="images/vastekandidaadiKLTahendus3.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/vastekandidaadiKLTahendus3.gif" alt="?" width="800"/></a>   
     <!--Pilt: ??-->
 
 4. **Tähenduse seose loomine**  
-Tähenduse seose loomiseks valige rippmenüüst kas lisatava vaste väärtus on algterminist kitsam või laiem. Vajutage **"Loo tähenduse seos"**.  
+Tähenduse seose loomiseks valige rippmenüüst kas lisatava vaste tähendus on tõlgitavast keelendist **kitsam** või **laiem**. Vajutage **"Loo tähenduse seos"**.  
 <a href="images/vastekandidaadiKLTahendus2.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/vastekandidaadiKLTahendus2.gif" alt="?" width="800"/></a>   
     <!--Pilt: ??-->
@@ -261,27 +257,30 @@ Kui "Tähenduse valimisel" jätsite eestikeelse vaste lahtri täitmata, siis tei
 <a href="images/tuhiEestiVaste.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/tuhiEestiVaste.gif" alt="?" width="800"/></a>   
     <!--Pilt: ??-->
+<!-- siia küsida madiselt legitiimseid näiteid?-->
 
 ---
 
-#### Uue vastekandidaadi lisamine
+#### Vastekandidaadi lisamine, mis puudub loendis
 
-Kui automaatselt tuvastatud kandidaatide seas pole sobivat vastet, saab selle ise käsitsi lisada.
+Kui automaatselt genereeritud vastete kandidaatide loendis **pole sobivat vastet**, saab selle ise käsitsi lisada.
 
-Uue vastekandidaadi saab lisada vajutades mõistekirjes oleva keele lühendi kõrval olevale plussmärgiga nupule. Avaneb aken **"Vali sobiv keelend või loo uus"** kus saab teostada otsingu keelendi leidmiseks. Seejärel saab märgistada ilmunud valikust sobiva homonüümi, või luua uue. Sealt lisades läheb see automaatselt ainult otsevasteks.  
-<a href="images/uueVastekandidaadiLisamine1.gif" target="_blank" rel="noreferrer noopener">
-    <img src="images/uueVastekandidaadiLisamine1.gif" alt="?" width="800"/></a>   
-    <!--Pilt: ??-->  
+Kui tahate lisada otsevaste, mida kandaatide loendis ei ole, saate seda teha **kahest kohast**: paremal veerus olevate kandidaatide rea kohal oleval plussmärgil või ilmikus oleval plussmärgil vajutades.  
 
-Uue kandidaadi saab lisada ka paremal tulba kohal oleval **plussmärgil** vajutades. See lisamisviis võimaldab sõna asetada vastekandidaatide tulpa, ning valida kas see on otsevaste, kitsam või laiem.   
+Kui tahate lisada sellist **kitsamat/laiemat** vastet, mida kandidaatide loendis pole, saate seda teha ainult paremal kandidaatide kohal oleva **plussmärgi** abil, sest kitsama/laiema vaste märkimise funktsionaalsus on **ainult seal**.  
 <a href="images/uueVastekandidaadiLisamine2.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/uueVastekandidaadiLisamine2.gif" alt="?" width="800"/></a>   
     <!--Pilt: ??-->
+
+Uue **otsevaste** kandidaadi saab lisada vajutades ilmikus oleva keele lühendi kõrval olevale plussmärgiga nupule. Avaneb aken **"Vali sobiv keelend või loo uus"** kus saab teostada otsingu keelendi leidmiseks. Seejärel saab märgistada ilmunud valikust sobiva homonüümi, või luua uue.
+<a href="images/uueVastekandidaadiLisamine1.gif" target="_blank" rel="noreferrer noopener">
+    <img src="images/uueVastekandidaadiLisamine1.gif" alt="?" width="800"/></a>   
+    <!--Pilt: ??--> 
+
 ---
 
-#### Keelendiga töö lõpetamine
+Küsimuste korral kirjuta [kasutajatugi@ekilex.ee](mailto:kasutajatugi@ekilex.ee)!
 
-Kui kõik vajalikd protsessid keelendiga on lõpetatud(??), siis vajutage nuppu **"Märgi tehtuks"**. Keelendile tekib silt **"tõlkevaste valmis"**, mis on abiks tööprotsessi jälgimisel.  
-<a href="images/tolkevasteValmis.gif" target="_blank" rel="noreferrer noopener">
-    <img src="images/tolkevasteValmis.gif" alt="?" width="800"/></a>   
-    <!--Pilt: ??-->
+
+Süsteemi alles arendatakse, mistõttu juhend täieneb.  
+Andke julgelt juhendi kohta tagasisidet aadressil (kas ma panen oma emaili siia???)

@@ -9,42 +9,42 @@
 
 ### Sisukord
 - [Terminite otsing](#terminite-otsing)
-    + [Otsingutulemustes kindlale lehele minemine](#otsingutulemustes-kindlale-lehele-minemine)
-    + [Otsingutulemused tabelina](#otsingutulemused-tabelina)
-    + [Detailotsingu tegemine](#detailotsingu-tegemine)
-    + [Detailotsingu võimalused](#detailotsingu-võimalused)
-    + [Detailotsingu kriteeriumide peitmine](#detailotsingu-kriteeriumide-peitmine)
-    + [Jäljemenüü](#jäljemenüü)
+    - [Otsingutulemustes kindlale lehele minemine](#otsingutulemustes-kindlale-lehele-minemine)
+    - [Otsingutulemused tabelina](#otsingutulemused-tabelina)
+    - [Detailotsingu tegemine](#detailotsingu-tegemine)
+    - [Detailotsingu võimalused](#detailotsingu-võimalused)
+    - [Detailotsingu kriteeriumide peitmine](#detailotsingu-kriteeriumide-peitmine)
+    - [Jäljemenüü](#jäljemenüü)
 - [Uus mõistekirje](#uus-mõistekirje)
-    + [Mõiste ja Termini vahe](#mõiste-ja-termini-vahe)
+    - [Mõiste ja Termini vahe](#mõiste-ja-termini-vahe)
         - [Mõiste ja termin Ekilexis](#mõiste-ja-termin-ekilexis)
-    + [Uue mõistekirje loomine](#uue-mõistekirje-loomine)
-    + [Mõiste definitsiooni vormijuhend](#mõiste-definitsiooni-vormijuhend)
+    - [Uue mõistekirje loomine](#uue-mõistekirje-loomine)
+    - [Mõiste definitsiooni vormijuhend](#mõiste-definitsiooni-vormijuhend)
         - [Üldine](#üldine)
         - [Vormistuslik pool](#vormistuslik-pool)
         - [Sisuline pool](#sisuline-pool)
-    + [Definitsiooni lisamine](#definitsiooni-lisamine)
-    + [Allikaviite lisamine mõistekirjes](#allikaviite-lisamine-mõistekirjes)
+    - [Definitsiooni lisamine](#definitsiooni-lisamine)
+    - [Allikaviite lisamine mõistekirjes](#allikaviite-lisamine-mõistekirjes)
         - [Mitmele allikale toetuva definitsiooni allikaviide](#mitmele-allikale-toetuva-definitsiooni-allikaviide)
 - [Olemasolevasse mõistekirjesse lisamine](#olemasolevasse-mõistekirjesse-lisamine)
-    + [Kirjesse märkuse lisamine](#kirjesse-märkuse-lisamine)
+    - [Kirjesse märkuse lisamine](#kirjesse-märkuse-lisamine)
         - [Mõiste märkus](#mõiste-märkus)
         - [Definitsiooni märkus](#definitsiooni-märkus)
         - [Termini (ilmiku) märkus](#termini-ilmiku-märkus)
         - [Mitteavaliku sisemärkuse lisamine](#mitteavaliku-sisemärkuse-lisamine)
-    + [Piltide lisamine tekstiväljadele](#piltide-lisamine-tekstiväljadele)
-    + [Üla- või alaindeksi lisamine](#üla--või-alaindeksi-lisamine)
-    + [Mõistete omavahelise seose näitamine](#mõistete-omavahelise-seose-näitamine)
-    + [Termini usaldusväärsuse märkimine](#termini-usaldusväärsuse-märkimine)
-    + [Näitamine, et termin on eelistatud, vananenud või välditav](#näitamine-et-termin-on-eelistatud-vananenud-või-välditav)
-    + [Pisiparanduste tegemine ilma muutmiskuupäeva muutusteta](#pisiparanduste-tegemine-ilma-muutmiskuupäeva-muutusteta)
+    - [Piltide lisamine tekstiväljadele](#piltide-lisamine-tekstiväljadele)
+    - [Üla- või alaindeksi lisamine](#üla--või-alaindeksi-lisamine)
+    - [Mõistete omavahelise seose näitamine](#mõistete-omavahelise-seose-näitamine)
+    - [Termini usaldusväärsuse märkimine](#termini-usaldusväärsuse-märkimine)
+    - [Näitamine, et termin on eelistatud, vananenud või välditav](#näitamine-et-termin-on-eelistatud-vananenud-või-välditav)
+    - [Pisiparanduste tegemine ilma muutmiskuupäeva muutusteta](#pisiparanduste-tegemine-ilma-muutmiskuupäeva-muutusteta)
 - [Kirjete osiste mitteavalikuks muutmine](#kirjete-osiste-mitteavalikuks-muutmine)
-    + [Termini avalikkuse muutmine](#termini-avalikkuse-muutmine)
-    + [Definitsiooni, märkuse, kasutusnäite avalikkuse muutmine](#definitsiooni-märkuse-kasutusnäite-avalikkuse-muutmine)
+    - [Termini avalikkuse muutmine](#termini-avalikkuse-muutmine)
+    - [Definitsiooni, märkuse, kasutusnäite avalikkuse muutmine](#definitsiooni-märkuse-kasutusnäite-avalikkuse-muutmine)
 - [Mõistekirje dubleerimine](#mõistekirje-dubleerimine)
 - [Kõikide terminibaasi mõistekirjete korraga kuvamine](#kõikide-terminibaasi-mõistekirjete-korraga-kuvamine)
-    + [Kõik terminibaasi kirjed korraga](#kõik-terminibaasi-kirjed-korraga)
-    + [Ühe muutja kindlas ajavahemikus tehtud tööd](#ühe-muutja-kindlas-ajavahemikus-tehtud-tööd)
+    - [Kõik terminibaasi kirjed korraga](#kõik-terminibaasi-kirjed-korraga)
+    - [Ühe muutja kindlas ajavahemikus tehtud tööd](#ühe-muutja-kindlas-ajavahemikus-tehtud-tööd)
   
 ---
 
@@ -848,3 +848,8 @@ Kui soovite näha neid kirjeid, mida just **Teie** olete kindlas ajavahemikus mu
 
 <!--*<sub>Allikas: <a href="https://terminoloogia.ee/ufaqs/kuidas-naen-koiki-oma-terminibaasi-moistekirjeid-korraga/" target="_blank">terminoloogia.ee</a></sub>*-->
 
+Küsimuste korral kirjuta [kasutajatugi@ekilex.ee](mailto:kasutajatugi@ekilex.ee)!
+
+
+Süsteemi alles arendatakse, mistõttu juhend täieneb.  
+Andke julgelt juhendi kohta tagasisidet aadressil (kas ma panen oma emaili siia???)

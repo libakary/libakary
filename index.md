@@ -10,24 +10,24 @@
 ### Sisukord
 - [Mis on Ekilex?](#mis-on-ekilex)
 - [Kasutajaks registreerumine ja õiguste taotlemine](#kasutajaks-registreerumine-ja-õiguste-taotlemine)
-    + [Edaspidi õiguste taotlemine](#edaspidi-õiguste-taotlemine)
-    + [Terminibaasis muudatuste tegemine](#terminibaasis-muudatuste-tegemine)
+    - [Edaspidi õiguste taotlemine](#edaspidi-õiguste-taotlemine)
+    - [Terminibaasis muudatuste tegemine](#terminibaasis-muudatuste-tegemine)
 - [Töölaud](#töölaud)
 - [Katsetamine ja proovikirjete koostamine](#katsetamine-ja-proovikirjete-koostamine)
 - [Kirjete muutmine pärast valmimist](#kirjete-muutmine-pärast-valmimist)
 - [Uue sõnakogu loomine](#uue-sõnakogu-loomine)
-    + [Sõnakogu muutmisõigused](#sõnakogu-muutmisõigused)
+    - [Sõnakogu muutmisõigused](#sõnakogu-muutmisõigused)
 - [Allikad](#allikad)
-    + [Allikate otsing](#allikate-otsing)
+    - [Allikate otsing](#allikate-otsing)
         - [Konkreetse allika viited mõistekirjetes](#konkreetse-allika-viited-mõistekirjetes)
         - [Kõikide terminibaasis viidatud allikate kuvamine](#kõikide-terminibaasis-viidatud-allikate-kuvamine)
-    + [Allika loomine](#allika-loomine)
+    - [Allika loomine](#allika-loomine)
         - [Raamatu allikakirje näide](#raamatu-allikakirje-näide)
         - [Eesti õigusakti allikakirje näide](#eesti-õigusakti-allikakirje-näide)
         - [Euroopa Liidu õigusakti allikakirje näide](#euroopa-liidu-õigusakti-allikakirje-näide)
-    + [Allika muutmine](#allika-muutmine)
-    + [Allika kustutamine](#allika-kustutamine)
-    + [Allikate ühendamine](#allikate-ühendamine)
+    - [Allika muutmine](#allika-muutmine)
+    - [Allika kustutamine](#allika-kustutamine)
+    - [Allikate ühendamine](#allikate-ühendamine)
 - [Mõistekirja, termini või muu kirje osise lisaja kuvamine](#mõistekirja-termini-või-muu-kirje-osise-lisaja-kuvamine)
     
 ---
@@ -548,4 +548,5 @@ Eri terminibaaside kontaktisikud leiab kõige paremini üles Sõnaveebi **sõnak
 Küsimuste korral kirjuta [kasutajatugi@ekilex.ee](mailto:kasutajatugi@ekilex.ee)!
 
 
-Süsteemi alles arendatakse, mistõttu juhend täieneb.
+Süsteemi alles arendatakse, mistõttu juhend täieneb.  
+Andke julgelt juhendi kohta tagasisidet aadressil (kas ma panen oma emaili siia???)
