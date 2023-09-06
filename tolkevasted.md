@@ -175,22 +175,22 @@ Vastekandidaate saab lisada ka vastava keele lühendi kõrvalt **plussmärgile**
 
 Lisatud tõlkevasteid saab ilmikus vajadusel ka muuta.
 
-Vaste kaalu muutmiseks liikuge hiirega tõlkevaste peale ja vajutage **ruuduga ümbritsetud pliiatsi nupule**. Avanevas aknas saate suurendada või vähendada vaste kaalu väljendavat numbrit, mis ei ilmu sõnaveebis ja on süsteemisisene märge.  
+- Vaste **kaalu muutmiseks** liikuge hiirega tõlkevaste peale ja vajutage **ruuduga ümbritsetud pliiatsi nupule**. Avanevas aknas saate suurendada või vähendada vaste kaalu väljendavat numbrit, mis ei ilmu sõnaveebis ja on süsteemisisene märge.  
 <a href="images/vasteMuutmineKaal.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/vasteMuutmineKaal.gif" alt="?" width="500"/></a>   
     <!--Pilt: ??-->
 
-Vaste lihtsuse muutmiseks liikuge hiirega tõlkevaste peale ja vajutage **noole nupule**. Avanevas rippmenüüs kuvatavad **"Lihtne"** ja **"Lihtne/Detailne"** märgiga vasted on nähtaval keeleõppija sõnaveebis, **"Detailne"** märgiga mitte.  
+- Vaste **lihtsuse muutmiseks** liikuge hiirega tõlkevaste peale ja vajutage **noole nupule**. Avanevas rippmenüüs kuvatavad **"Lihtne"** ja **"Lihtne/Detailne"** märgiga vasted on nähtaval keeleõppija sõnaveebis, **"Detailne"** märgiga mitte.  
 <a href="images/vasteMuutmineDetailsus.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/vasteMuutmineDetailsus.gif" alt="?" width="500"/></a>   
     <!--Pilt: ??-->
 
-Vaste kustutamiseks ilmiku küljest liikuge hiirega tõlkevaste peale ja vajutage **kollasele x nupule**. See toiming ei kustuta vastet parempoolsest vastekandidaatide reast, vaid liigutab selle kandidaatide loendi lõppu.  
+- Vaste **kustutamiseks** ilmiku küljest liikuge hiirega tõlkevaste peale ja vajutage **kollasele x nupule**. See toiming ei kustuta vastet parempoolsest vastekandidaatide reast, vaid liigutab selle kandidaatide loendi lõppu.  
 <a href="images/vasteKustutamineKirjest.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/vasteKustutamineKirjest.gif" alt="?" width="500"/></a>   
     <!--Pilt: ??-->
 
-Vaste liigutamiseks liikuge hiirega tõlkevaste lõpus oleva **ristnooltega ikooni** peale. Ikooni vajutades ja lohistades saate muuta sõnade ilmumise järjekorda sõnaveebis.  
+- Vaste **liigutamiseks** liikuge hiirega tõlkevaste lõpus oleva **ristnooltega ikooni** peale. Ikooni vajutades ja lohistades saate muuta sõnade ilmumise järjekorda sõnaveebis.  
 <a href="images/vasteLiigutamineKirjes.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/vasteLiigutamineKirjes.gif" alt="?" width="500"/></a>   
     <!--Pilt: ??-->
@@ -267,12 +267,12 @@ Kui automaatselt genereeritud vastete kandidaatide loendis **pole sobivat vastet
 
 Kui tahate lisada otsevaste, mida kandaatide loendis ei ole, saate seda teha **kahest kohast**: paremal veerus olevate kandidaatide rea kohal oleval plussmärgil või ilmikus oleval plussmärgil vajutades.  
 
-Kui tahate lisada sellist **kitsamat/laiemat** vastet, mida kandidaatide loendis pole, saate seda teha ainult paremal kandidaatide kohal oleva **plussmärgi** abil, sest kitsama/laiema vaste märkimise funktsionaalsus on **ainult seal**.  
+- Kui tahate lisada sellist **kitsamat/laiemat** vastet, mida kandidaatide loendis pole, saate seda teha ainult paremal kandidaatide kohal oleva **plussmärgi** abil, sest kitsama/laiema vaste märkimise funktsionaalsus on **ainult seal**.  
 <a href="images/uueVastekandidaadiLisamine2.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/uueVastekandidaadiLisamine2.gif" alt="?" width="800"/></a>   
     <!--Pilt: ??-->
 
-Uue **otsevaste** kandidaadi saab lisada vajutades ilmikus oleva keele lühendi kõrval olevale plussmärgiga nupule. Avaneb aken **"Vali sobiv keelend või loo uus"** kus saab teostada otsingu keelendi leidmiseks. Seejärel saab märgistada ilmunud valikust sobiva homonüümi, või luua uue.
+- Uue **otsevaste** kandidaadi saab lisada vajutades ilmikus oleva keele lühendi kõrval olevale plussmärgiga nupule. Avaneb aken **"Vali sobiv keelend või loo uus"** kus saab teostada otsingu keelendi leidmiseks. Seejärel saab märgistada ilmunud valikust sobiva homonüümi, või luua uue.
 <a href="images/uueVastekandidaadiLisamine1.gif" target="_blank" rel="noreferrer noopener">
     <img src="images/uueVastekandidaadiLisamine1.gif" alt="?" width="800"/></a>   
     <!--Pilt: ??--> 
